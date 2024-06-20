@@ -1,0 +1,12 @@
+ <g id="Lamina_Line.Base_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" stroke="white" stroke-width="0.0762" x="201.336" y="88.378" width="8.25762" height="10.948"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="limbe" fill="#A6D10D" stroke="#AAA9A9" stroke-width="0.0762" d="M201.636 88.3382l7.6022 -0.0358c-0.7088,6.7155 -1.8991,10.826 -3.8332,10.5562 -1.852,0.2693 -3.0405,-3.826 -3.769,-10.5204z"/>
+   <polygon id="cache" fill="#A6D10D" stroke="#A6D10D" stroke-width="0.0762" points="201.713,88.2365 209.154,88.2364 209.145,88.3483 201.731,88.4028 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.301961" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="#7F7F7F" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

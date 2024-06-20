@@ -1,0 +1,41 @@
+ <g id="Lf_Cmp.LftApex_Tiny">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="LftApex" onclick="showquest('LftApex')" onmousemove="showrobotip('LftApex','Leaflets size near the apex')" onmouseout="hidetooltip('LftApex')"  cursor="pointer" >
+   <polygon id="size_x0020_leaflets" fill="white" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="210.5,161 223.5,161 223.5,177 210.5,177 "/>
+   <g id="decroit_x0020_vers_x0020_apex">
+    <path id="Rachis" onclick="showquest('Rachis')" onmousemove="showrobotip('Rachis','Rachis of compound leaves')" onmouseout="hidetooltip('Rachis')"  cursor="pointer"  fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M217.224 166.639c-0.011,-1.714 -0.0228,-3.0197 -0.0356,-3.9872 -0.0025,-0.101 -0.1366,-0.3444 -0.2259,0.0072 -0.0573,1.2673 -0.1261,2.81 -0.2098,3.9996 -0.4871,3.5348 -0.367,8.4127 1.8228,9.4377 0.2109,-0.1322 -0.0283,0.0054 0.2235,-0.3701 0.1634,-0.5215 -0.1086,0.3334 -0.9458,-1.0458 -0.9058,-1.379 -0.8096,-4.548 -0.6292,-8.0414z"/>
+    <g id="foliole">
+     <path id="_530452344" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M216.88 163.477c0.0553,-1.1462 -2.717,-2.3106 -3.188,-1.4077 -0.0948,0.9614 3.0764,2.8333 3.1601,1.6325l0.0279 -0.2248z"/>
+     <path id="_79749288" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M216.935 163.699c-0.0875,0.0204 0.1313,-0.0477 0.077,-0.1284 -0.3673,-0.1918 -2.1468,-1.1827 -3.278,-1.5261 1.7964,0.8389 2.9753,1.5431 3.201,1.6545z"/>
+    </g>
+    <g id="foliole_0">
+     <path id="_17669568" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M217.234 163.468c-0.0553,-1.1462 2.717,-2.3105 3.188,-1.4077 0.0948,0.9614 -3.0764,2.8333 -3.1601,1.6325l-0.0279 -0.2248z"/>
+     <path id="_330962048" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M217.179 163.69c0.0874,0.0204 -0.1313,-0.0477 -0.0771,-0.1283 0.3673,-0.1919 2.1469,-1.1828 3.2781,-1.5261 -1.7965,0.8388 -2.9754,1.543 -3.201,1.6544z"/>
+    </g>
+    <g id="foliole_1">
+     <path id="_330960904" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M216.705 165.73c-0.1285,-1.4142 -3.731,-2.4807 -4.1546,-1.3108 0.0484,1.1925 4.2618,3.0754 4.1588,1.5904l-0.0042 -0.2796z"/>
+     <path id="_328113728" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M216.811 165.995c-0.1038,0.0365 0.153,-0.0757 0.0727,-0.1676 -0.4838,-0.1875 -2.838,-1.1709 -4.2854,-1.4444 2.3488,0.7947 3.9167,1.5048 4.2127,1.612z"/>
+    </g>
+    <g id="foliole_2">
+     <path id="_79758296" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M216.412 168.825c-0.156,-1.7181 -4.5328,-3.0139 -5.0474,-1.5925 0.0587,1.4488 5.1777,3.7364 5.0526,1.9322l-0.0052 -0.3397z"/>
+     <path id="_341571944" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M216.54 169.147c-0.1261,0.0443 0.1859,-0.092 0.0882,-0.2037 -0.5877,-0.2277 -3.4479,-1.4225 -5.2064,-1.7548 2.8537,0.9654 4.7585,1.8282 5.1182,1.9585z"/>
+    </g>
+    <g id="foliole_3">
+     <path id="_81944352" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M216.608 172.638c-0.1826,-2.0104 -5.3041,-3.5266 -5.9062,-1.8634 0.0688,1.6953 6.0586,4.3721 5.9122,2.2609l-0.006 -0.3975z"/>
+     <path id="_82241664" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M216.758 173.015c-0.1475,0.0519 0.2175,-0.1076 0.1033,-0.2383 -0.6877,-0.2666 -4.0346,-1.6647 -6.0922,-2.0534 3.3392,1.1297 5.568,2.1392 5.9889,2.2917z"/>
+    </g>
+    <g id="foliole_4">
+     <path id="_335050688" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M217.314 165.764c0.1285,-1.4142 3.731,-2.4807 4.1546,-1.3108 -0.0484,1.1925 -4.2618,3.0754 -4.1588,1.5904l0.0042 -0.2796z"/>
+     <path id="_334957704" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M217.208 166.029c0.1038,0.0365 -0.153,-0.0757 -0.0726,-0.1677 0.4837,-0.1874 2.838,-1.1709 4.2854,-1.4444 -2.3489,0.7947 -3.9167,1.5048 -4.2128,1.6121z"/>
+    </g>
+    <g id="foliole_5">
+     <path id="_334879752" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M217.216 168.881c0.156,-1.7181 4.5329,-3.0139 5.0474,-1.5925 -0.0587,1.4488 -5.1777,3.7364 -5.0526,1.9322l0.0052 -0.3397z"/>
+     <path id="_333348080" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M217.088 169.204c0.1261,0.0444 -0.1859,-0.0919 -0.0882,-0.2036 0.5877,-0.2278 3.4479,-1.4226 5.2064,-1.7549 -2.8537,0.9655 -4.7585,1.8282 -5.1182,1.9585z"/>
+    </g>
+    <g id="foliole_6">
+     <path id="_329381776" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M217.41 172.581c0.1827,-2.0104 5.3041,-3.5266 5.9062,-1.8634 -0.0687,1.6953 -6.0586,4.3721 -5.9122,2.2609l0.006 -0.3975z"/>
+     <path id="_329351616" fill="#00C800" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M217.261 172.959c0.1476,0.0519 -0.2175,-0.1076 -0.1033,-0.2383 0.6877,-0.2666 4.0346,-1.6646 6.0922,-2.0534 -3.3392,1.1297 -5.568,2.1392 -5.9889,2.2917z"/>
+    </g>
+   </g>
+  </g>
+ </g>

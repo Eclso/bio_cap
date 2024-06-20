@@ -1,0 +1,12 @@
+ <g id="Lamina_Elli.Apex_Premorse">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="196.961" y="22.0968" width="17.1008" height="12.5406"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="sommet" fill="#32984B" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M213.795 35.2158c-0.2834,-0.8642 -1.2405,-2.4038 -2.0738,-3.6895 0.3085,1.8273 -0.9093,-1.5059 -1.0005,-2.0676 -0.5827,1.72 -0.7897,1.5418 -1.509,-2.1596 -0.3425,2.3472 -1.2512,0.3024 -1.2918,-2.2493 -0.552,0.424 -1.6267,2.1545 -1.9545,-1.4399l-0.4043 1.2383 -0.3827 -3.1305c-0.0649,0.5988 -0.0294,2.6772 -0.2187,1.3233 -0.0545,0.3572 -0.8892,4.5384 -1.2553,1.4533 -0.3494,1.2441 -1.4285,6.157 -2.3957,2.1459 -0.3825,0.6881 -0.0048,6.8477 -1.4372,1.9972 -0.1494,0.4341 -0.7276,4.3978 -1.2033,2.907 -0.4982,1.1262 -1.0984,2.4213 -1.7127,3.6382 7.1091,0.0902 12.2438,0.0332 16.8395,0.0332z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="197.179,34.964 213.664,34.964 213.795,35.2159 197.04,35.2144 "/>
+  </g>
+  <g>
+   <polygon id="Apex" onclick="showquest('Apex')" onmousemove="showrobotip('Apex','Apex of the lamina')" onmouseout="hidetooltip('Apex')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+   <polygon id="Apex1" fill="none" stroke="black" stroke-width="0.0762" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+  </g>
+ </g>

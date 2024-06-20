@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+  viewBox="0 0 240 180"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<a>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect fill="none" width="240" height="180"/>
+  <g id="Midrib_Canal" onclick="parent.replacechar('Midrib_Canal')" onmousemove="parent.showtooltip('Midrib_Canal', 'Canaliculate on the upper surface')" onmouseout="parent.hidetooltip('Midrib_Canal')" cursor="pointer" >
+   <path id="_76822048" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M164.654 94.3553c23.3391,-16.2627 23.3391,-16.2627 23.3391,-16.2627"/>
+   <path id="profondeur" fill="#BCFA63" stroke="#7F7F7F" stroke-width="0.0762" d="M187.914 78.0993c6.9676,0 9.6516,0 16.6192,0 0.9456,8.0683 5.215,5.0934 12.6045,0l18.1703 0 0 5.9546c-4.8297,3.2236 -17.1098,11.9424 -23.2602,16.2561 0,-2.2042 0,-3.7573 -0.0401,-5.9547 -7.4923,0 -15.1317,0 -18.1303,0 -3.6995,3.9805 -7.3154,7.8706 -11.6602,0l-17.5634 0 23.2602 -16.256z"/>
+   <path id="front" fill="#CEF794" stroke="#7F7F7F" stroke-width="0.0762" d="M164.654 94.3553c6.9676,0 10.5958,0 17.5634,0 5.4797,9.0327 8.6229,2.1832 11.6602,0l18.1704 0 0 5.9547c-6.8538,0 -11.2183,0 -18.0722,0 -3.075,2.2037 -10.198,2.0555 -11.88,0l-17.4418 0 0 -5.9547z"/>
+   <path id="_77123712" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M193.809 94.299c23.339,-16.2627 23.3284,-16.1997 23.3284,-16.1997"/>
+   <path id="_77228000" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M182.217 94.3553c23.519,-16.3881 22.2996,-16.2561 22.2996,-16.2561"/>
+   <line id="_77848888" fill="none" stroke="#7F7F7F" stroke-width="0.0762" x1="212.048" y1="100.31" x2="235.308" y2= "83.9961" />
+   <path id="_76586528" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M212.008 94.3553c23.3391,-16.2627 23.3391,-16.2627 23.3391,-16.2627"/>
+  </g>
+  <g id="Midrib_Flat" onclick="parent.replacechar('Midrib_Flat')" onmousemove="parent.showtooltip('Midrib_Flat', 'Midrib flat on the upper surface')" onmouseout="parent.hidetooltip('Midrib_Flat')" cursor="pointer" >
+   <path id="_76452328" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M84.6536 94.85c23.3391,-16.2627 23.3391,-16.2627 23.3391,-16.2627"/>
+   <path id="profondeur_0" fill="#BCFA63" stroke="#7F7F7F" stroke-width="0.0762" d="M107.914 78.594c6.9676,0 9.6516,0 16.6192,0 5.148,-1.3243 7.6522,-1.3307 12.6045,0l18.1703 0 0 5.9546c-4.8297,3.2236 -17.1098,11.9424 -23.2602,16.2561 0,-2.2042 0,-3.7573 -0.0401,-5.9547 -7.4923,0 -15.1317,0 -18.1303,0 -3.7975,-0.4989 -7.501,-0.4886 -11.6602,0l-17.5634 0 23.2602 -16.256z"/>
+   <path id="front_1" fill="#CEF794" stroke="#7F7F7F" stroke-width="0.0762" d="M84.6536 94.85c6.9676,0 10.5958,0 17.5634,0 5.0111,-0.7578 7.529,-0.7355 11.6602,0l18.1704 0 0 5.9547c-6.8538,0 -11.2183,0 -18.0722,0 -3.075,2.2037 -10.198,2.0555 -11.88,0l-17.4418 0 0 -5.9547z"/>
+   <path id="nervure" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M113.809 94.7937c23.339,-16.2627 23.2708,-16.2151 23.2708,-16.2151"/>
+   <path id="nervure_2" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M102.217 94.85c23.238,-16.1923 22.3159,-16.256 22.3159,-16.256"/>
+   <line id="_65783256" fill="none" stroke="#7F7F7F" stroke-width="0.0762" x1="132.048" y1="100.805" x2="155.308" y2= "84.4908" />
+   <path id="_66455152" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M132.007 94.85c23.3391,-16.2627 23.3391,-16.2627 23.3391,-16.2627"/>
+  </g>
+  <g id="Midrib_Raised" onclick="parent.replacechar('Midrib_Raised')" onmousemove="parent.showtooltip('Midrib_Raised', 'Midrib raised on the upper surface')" onmouseout="parent.hidetooltip('Midrib_Raised')" cursor="pointer" >
+   <path id="_76715592" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M4.6536 96.4435c23.3391,-16.2627 23.3391,-16.2627 23.3391,-16.2627"/>
+   <path id="profondeur_3" fill="#BCFA63" stroke="#7F7F7F" stroke-width="0.0762" d="M27.9138 80.1875c6.9676,0 9.6516,0 16.6192,0 5.7848,-6.6314 10.1693,-4.424 12.6044,0l18.1704 0 0 5.9546c-4.8297,3.2236 -17.1098,11.9424 -23.2602,16.2561 0,-2.2042 0,-3.7573 -0.0401,-5.9547 -7.4923,0 -15.1317,0 -18.1303,0 -1.6352,-3.6088 -5.6064,-8.9409 -11.6602,0l-17.5634 0 23.2602 -16.256z"/>
+   <path id="front_4" fill="#CEF794" stroke="#7F7F7F" stroke-width="0.0762" d="M4.6536 96.4435c6.9675,0 10.5958,0 17.5634,0 2.7475,-7.3603 10.1407,-6.9847 11.6602,0l18.1704 0 0 5.9547c-6.8538,0 -11.2184,0 -18.0722,0 -3.075,2.2037 -10.198,2.0555 -11.88,0l-17.4418 0 0 -5.9547z"/>
+   <path id="_77021664" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M33.8091 96.3872c23.339,-16.2627 23.339,-16.2627 23.339,-16.2627"/>
+   <path id="_77255168" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M28.7695 91.0764c15.8165,-11.021 15.8165,-11.021 15.8165,-11.021"/>
+   <line id="_77844560" fill="none" stroke="#7F7F7F" stroke-width="0.0762" x1="52.0476" y1="102.398" x2="75.3077" y2= "86.0843" />
+   <path id="_66367976" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M52.0075 96.4435c23.3391,-16.2627 23.3391,-16.2627 23.3391,-16.2627"/>
+  </g>
+ </g>
+<image xlink:href="tick.gif" id="imgtick" x="-100" y="-100" width="15" height="15"/>
+<rect id="recttooltip" x="-100" y="-100" width="55" height="6" fill-opacity="0.4" pointer-events="none"/>
+<text id="textboxid" x="-100" y="-100" pointer-events="none"> </text>
+</a></svg>

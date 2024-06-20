@@ -1,0 +1,682 @@
+ <g id="Lf_Cmp.PinnaeNb_8">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="PinnaeNb" onclick="showquest('PinnaeNb')" onmousemove="showrobotip('PinnaeNb','Number of pinnae')" onmouseout="hidetooltip('PinnaeNb')"  cursor="pointer" >
+   <polygon id="number_x0020_leaflets" fill="white" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="191,104.5 204,104.5 204,120.5 191,120.5 "/>
+   <g id="plus_x0020_4_pairs_x0020_pinna">
+    <g>
+     <polygon id="_334927200" fill="#00923F" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="192.397,106.652 197.525,110.024 "/>
+     <g>
+      <ellipse id="_80727664" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.197935 -0.0413704 0.0456798 0.218553 192.66 106.327)" rx="0.7817" ry="1.9322"/>
+      <line id="_327117968" fill="none" stroke="black" stroke-width="0.0762" x1="192.591" y1="105.963" x2="192.773" y2= "106.901" />
+     </g>
+     <g>
+      <ellipse id="_327116896" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.197935 -0.0413704 0.0456798 0.218553 193.254 106.714)" rx="0.7817" ry="1.9322"/>
+      <line id="_80199648" fill="none" stroke="black" stroke-width="0.0762" x1="193.185" y1="106.349" x2="193.367" y2= "107.287" />
+     </g>
+     <g>
+      <ellipse id="_514068120" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.197935 -0.0413704 0.0456798 0.218553 193.871 107.125)" rx="0.7817" ry="1.9322"/>
+      <line id="_514067112" fill="none" stroke="black" stroke-width="0.0762" x1="193.802" y1="106.761" x2="193.984" y2= "107.699" />
+     </g>
+     <g>
+      <ellipse id="_77548240" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.197935 -0.0413704 0.0456798 0.218553 194.402 107.469)" rx="0.7817" ry="1.9322"/>
+      <line id="_341959656" fill="none" stroke="black" stroke-width="0.0762" x1="194.333" y1="107.105" x2="194.515" y2= "108.043" />
+     </g>
+     <g>
+      <ellipse id="_83872096" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.197935 -0.0413704 0.0456798 0.218553 195.002 107.863)" rx="0.7817" ry="1.9322"/>
+      <line id="_78092608" fill="none" stroke="black" stroke-width="0.0762" x1="194.933" y1="107.498" x2="195.115" y2= "108.436" />
+     </g>
+     <g>
+      <ellipse id="_77501312" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.197935 -0.0413704 0.0456798 0.218553 195.562 108.241)" rx="0.7817" ry="1.9322"/>
+      <line id="_81953672" fill="none" stroke="black" stroke-width="0.0762" x1="195.493" y1="107.877" x2="195.675" y2= "108.815" />
+     </g>
+     <g>
+      <ellipse id="_335983400" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.197935 -0.0413704 0.0456798 0.218553 196.161 108.63)" rx="0.7817" ry="1.9322"/>
+      <line id="_76644744" fill="none" stroke="black" stroke-width="0.0762" x1="196.092" y1="108.266" x2="196.274" y2= "109.204" />
+     </g>
+     <g>
+      <ellipse id="_329794016" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.197935 -0.0413704 0.0456798 0.218553 196.651 108.951)" rx="0.7817" ry="1.9322"/>
+      <line id="_76583664" fill="none" stroke="black" stroke-width="0.0762" x1="196.582" y1="108.587" x2="196.764" y2= "109.525" />
+     </g>
+     <g>
+      <ellipse id="_339468904" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0440694 -0.197351 0.217909 -0.04866 192.202 107.021)" rx="0.7817" ry="1.9322"/>
+      <line id="_81803576" fill="none" stroke="black" stroke-width="0.0762" x1="191.839" y1="107.095" x2="192.774" y2= "106.901" />
+     </g>
+     <g>
+      <ellipse id="_335643960" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0440694 -0.197351 0.217909 -0.04866 192.798 107.411)" rx="0.7817" ry="1.9322"/>
+      <line id="_337151272" fill="none" stroke="black" stroke-width="0.0762" x1="192.434" y1="107.485" x2="193.37" y2= "107.29" />
+     </g>
+     <g>
+      <ellipse id="_337145376" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0440694 -0.197351 0.217909 -0.04866 193.409 107.818)" rx="0.7817" ry="1.9322"/>
+      <line id="_335011752" fill="none" stroke="black" stroke-width="0.0762" x1="193.046" y1="107.892" x2="193.981" y2= "107.697" />
+     </g>
+     <g>
+      <ellipse id="_334185392" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0440694 -0.197351 0.217909 -0.04866 193.945 108.166)" rx="0.7817" ry="1.9322"/>
+      <line id="_332386536" fill="none" stroke="black" stroke-width="0.0762" x1="193.582" y1="108.24" x2="194.517" y2= "108.046" />
+     </g>
+     <g>
+      <ellipse id="_334157816" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0440694 -0.197351 0.217909 -0.04866 194.544 108.565)" rx="0.7817" ry="1.9322"/>
+      <line id="_335527664" fill="none" stroke="black" stroke-width="0.0762" x1="194.181" y1="108.639" x2="195.117" y2= "108.444" />
+     </g>
+     <g>
+      <ellipse id="_335431976" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0440694 -0.197351 0.217909 -0.04866 195.102 108.931)" rx="0.7817" ry="1.9322"/>
+      <line id="_332381032" fill="none" stroke="black" stroke-width="0.0762" x1="194.739" y1="109.005" x2="195.674" y2= "108.81" />
+     </g>
+     <g>
+      <ellipse id="_81830216" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0440694 -0.197351 0.217909 -0.04866 195.702 109.322)" rx="0.7817" ry="1.9322"/>
+      <line id="_335500144" fill="none" stroke="black" stroke-width="0.0762" x1="195.339" y1="109.396" x2="196.274" y2= "109.201" />
+     </g>
+     <g>
+      <ellipse id="_328596568" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0440694 -0.197351 0.217909 -0.04866 196.187 109.646)" rx="0.7817" ry="1.9322"/>
+      <line id="_339346480" fill="none" stroke="black" stroke-width="0.0762" x1="195.824" y1="109.72" x2="196.759" y2= "109.525" />
+     </g>
+    </g>
+    <g>
+     <polygon id="_79276680" fill="#00923F" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="202.568,106.666 197.441,110.039 "/>
+     <g>
+      <ellipse id="_512844176" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.197935 -0.0413704 -0.0456798 0.218553 202.305 106.341)" rx="0.7817" ry="1.9322"/>
+      <line id="_512844056" fill="none" stroke="black" stroke-width="0.0762" x1="202.374" y1="105.977" x2="202.193" y2= "106.915" />
+     </g>
+     <g>
+      <ellipse id="_328302360" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.197935 -0.0413704 -0.0456798 0.218553 201.711 106.728)" rx="0.7817" ry="1.9322"/>
+      <line id="_339177624" fill="none" stroke="black" stroke-width="0.0762" x1="201.78" y1="106.364" x2="201.598" y2= "107.302" />
+     </g>
+     <g>
+      <ellipse id="_333676488" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.197935 -0.0413704 -0.0456798 0.218553 201.095 107.14)" rx="0.7817" ry="1.9322"/>
+      <line id="_328991760" fill="none" stroke="black" stroke-width="0.0762" x1="201.164" y1="106.775" x2="200.982" y2= "107.713" />
+     </g>
+     <g>
+      <ellipse id="_328991392" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.197935 -0.0413704 -0.0456798 0.218553 200.563 107.484)" rx="0.7817" ry="1.9322"/>
+      <line id="_78148352" fill="none" stroke="black" stroke-width="0.0762" x1="200.632" y1="107.12" x2="200.451" y2= "108.058" />
+     </g>
+     <g>
+      <ellipse id="_333734688" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.197935 -0.0413704 -0.0456798 0.218553 199.964 107.877)" rx="0.7817" ry="1.9322"/>
+      <line id="_335167128" fill="none" stroke="black" stroke-width="0.0762" x1="200.033" y1="107.513" x2="199.851" y2= "108.451" />
+     </g>
+     <g>
+      <ellipse id="_335251576" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.197935 -0.0413704 -0.0456798 0.218553 199.403 108.256)" rx="0.7817" ry="1.9322"/>
+      <line id="_335153920" fill="none" stroke="black" stroke-width="0.0762" x1="199.472" y1="107.891" x2="199.29" y2= "108.829" />
+     </g>
+     <g>
+      <ellipse id="_338332856" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.197935 -0.0413704 -0.0456798 0.218553 198.804 108.644)" rx="0.7817" ry="1.9322"/>
+      <line id="_332901000" fill="none" stroke="black" stroke-width="0.0762" x1="198.873" y1="108.28" x2="198.691" y2= "109.218" />
+     </g>
+     <g>
+      <ellipse id="_65790456" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.197935 -0.0413704 -0.0456798 0.218553 198.314 108.966)" rx="0.7817" ry="1.9322"/>
+      <line id="_65790208" fill="none" stroke="black" stroke-width="0.0762" x1="198.383" y1="108.601" x2="198.201" y2= "109.539" />
+     </g>
+     <g>
+      <ellipse id="_335910768" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0440694 -0.197351 -0.217909 -0.04866 202.763 107.036)" rx="0.7817" ry="1.9322"/>
+      <line id="_336359784" fill="none" stroke="black" stroke-width="0.0762" x1="203.127" y1="107.11" x2="202.191" y2= "106.915" />
+     </g>
+     <g>
+      <ellipse id="_335892696" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0440694 -0.197351 -0.217909 -0.04866 202.168 107.426)" rx="0.7817" ry="1.9322"/>
+      <line id="_335806472" fill="none" stroke="black" stroke-width="0.0762" x1="202.531" y1="107.5" x2="201.596" y2= "107.305" />
+     </g>
+     <g>
+      <ellipse id="_335731504" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0440694 -0.197351 -0.217909 -0.04866 201.557 107.832)" rx="0.7817" ry="1.9322"/>
+      <line id="_335729848" fill="none" stroke="black" stroke-width="0.0762" x1="201.92" y1="107.906" x2="200.985" y2= "107.712" />
+     </g>
+     <g>
+      <ellipse id="_335206640" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0440694 -0.197351 -0.217909 -0.04866 201.021 108.181)" rx="0.7817" ry="1.9322"/>
+      <line id="_335674672" fill="none" stroke="black" stroke-width="0.0762" x1="201.384" y1="108.255" x2="200.448" y2= "108.06" />
+     </g>
+     <g>
+      <ellipse id="_80074104" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0440694 -0.197351 -0.217909 -0.04866 200.421 108.579)" rx="0.7817" ry="1.9322"/>
+      <line id="_80073984" fill="none" stroke="black" stroke-width="0.0762" x1="200.784" y1="108.653" x2="199.849" y2= "108.458" />
+     </g>
+     <g>
+      <ellipse id="_81018776" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0440694 -0.197351 -0.217909 -0.04866 199.863 108.945)" rx="0.7817" ry="1.9322"/>
+      <line id="_81018640" fill="none" stroke="black" stroke-width="0.0762" x1="200.227" y1="109.019" x2="199.291" y2= "108.824" />
+     </g>
+     <g>
+      <ellipse id="_79307120" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0440694 -0.197351 -0.217909 -0.04866 199.263 109.336)" rx="0.7817" ry="1.9322"/>
+      <line id="_79621424" fill="none" stroke="black" stroke-width="0.0762" x1="199.627" y1="109.41" x2="198.691" y2= "109.215" />
+     </g>
+     <g>
+      <ellipse id="_82049784" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0440694 -0.197351 -0.217909 -0.04866 198.778 109.66)" rx="0.7817" ry="1.9322"/>
+      <line id="_77966680" fill="none" stroke="black" stroke-width="0.0762" x1="199.142" y1="109.734" x2="198.206" y2= "109.54" />
+     </g>
+    </g>
+    <g>
+     <polygon id="_77966424" fill="#00923F" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="203.201,114.664 197.49,116.911 "/>
+     <g>
+      <ellipse id="_513105624" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.1852 -0.0811834 -0.08964 0.204491 203.011 114.293)" rx="0.7817" ry="1.9322"/>
+      <line id="_512838512" fill="none" stroke="black" stroke-width="0.0762" x1="203.153" y1="113.95" x2="202.783" y2= "114.831" />
+     </g>
+     <g>
+      <ellipse id="_335204688" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.1852 -0.0811834 -0.08964 0.204491 202.35 114.549)" rx="0.7817" ry="1.9322"/>
+      <line id="_512476632" fill="none" stroke="black" stroke-width="0.0762" x1="202.493" y1="114.206" x2="202.122" y2= "115.087" />
+     </g>
+     <g>
+      <ellipse id="_512473576" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.1852 -0.0811834 -0.08964 0.204491 201.662 114.825)" rx="0.7817" ry="1.9322"/>
+      <line id="_339234952" fill="none" stroke="black" stroke-width="0.0762" x1="201.804" y1="114.482" x2="201.433" y2= "115.363" />
+     </g>
+     <g>
+      <ellipse id="_512301560" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.1852 -0.0811834 -0.08964 0.204491 201.071 115.052)" rx="0.7817" ry="1.9322"/>
+      <line id="_512301136" fill="none" stroke="black" stroke-width="0.0762" x1="201.214" y1="114.71" x2="200.843" y2= "115.591" />
+     </g>
+     <g>
+      <ellipse id="_78372744" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.1852 -0.0811834 -0.08964 0.204491 200.404 115.314)" rx="0.7817" ry="1.9322"/>
+      <line id="_78372408" fill="none" stroke="black" stroke-width="0.0762" x1="200.546" y1="114.971" x2="200.175" y2= "115.852" />
+     </g>
+     <g>
+      <ellipse id="_331254480" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.1852 -0.0811834 -0.08964 0.204491 199.777 115.569)" rx="0.7817" ry="1.9322"/>
+      <line id="_335867016" fill="none" stroke="black" stroke-width="0.0762" x1="199.92" y1="115.227" x2="199.549" y2= "116.107" />
+     </g>
+     <g>
+      <ellipse id="_335931656" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.1852 -0.0811834 -0.08964 0.204491 199.111 115.826)" rx="0.7817" ry="1.9322"/>
+      <line id="_335979224" fill="none" stroke="black" stroke-width="0.0762" x1="199.254" y1="115.484" x2="198.883" y2= "116.365" />
+     </g>
+     <g>
+      <ellipse id="_83981984" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.1852 -0.0811834 -0.08964 0.204491 198.565 116.04)" rx="0.7817" ry="1.9322"/>
+      <line id="_83981224" fill="none" stroke="black" stroke-width="0.0762" x1="198.708" y1="115.698" x2="198.337" y2= "116.578" />
+     </g>
+     <g>
+      <ellipse id="_335987392" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0837049 -0.184074 -0.203248 -0.0924241 203.317 115.066)" rx="0.7817" ry="1.9322"/>
+      <line id="_334985320" fill="none" stroke="black" stroke-width="0.0762" x1="203.657" y1="115.213" x2="202.781" y2= "114.83" />
+     </g>
+     <g>
+      <ellipse id="_335808800" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0837049 -0.184074 -0.203248 -0.0924241 202.653 115.325)" rx="0.7817" ry="1.9322"/>
+      <line id="_335824864" fill="none" stroke="black" stroke-width="0.0762" x1="202.994" y1="115.472" x2="202.118" y2= "115.089" />
+     </g>
+     <g>
+      <ellipse id="_335886128" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0837049 -0.184074 -0.203248 -0.0924241 201.972 115.598)" rx="0.7817" ry="1.9322"/>
+      <line id="_335888336" fill="none" stroke="black" stroke-width="0.0762" x1="202.312" y1="115.745" x2="201.437" y2= "115.362" />
+     </g>
+     <g>
+      <ellipse id="_335949600" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0837049 -0.184074 -0.203248 -0.0924241 201.375 115.828)" rx="0.7817" ry="1.9322"/>
+      <line id="_335976920" fill="none" stroke="black" stroke-width="0.0762" x1="201.716" y1="115.976" x2="200.84" y2= "115.593" />
+     </g>
+     <g>
+      <ellipse id="_341577016" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0837049 -0.184074 -0.203248 -0.0924241 200.707 116.095)" rx="0.7817" ry="1.9322"/>
+      <line id="_77551360" fill="none" stroke="black" stroke-width="0.0762" x1="201.047" y1="116.242" x2="200.172" y2= "115.859" />
+     </g>
+     <g>
+      <ellipse id="_77323312" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0837049 -0.184074 -0.203248 -0.0924241 200.086 116.338)" rx="0.7817" ry="1.9322"/>
+      <line id="_77526912" fill="none" stroke="black" stroke-width="0.0762" x1="200.426" y1="116.485" x2="199.551" y2= "116.103" />
+     </g>
+     <g>
+      <ellipse id="_337574544" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0837049 -0.184074 -0.203248 -0.0924241 199.418 116.598)" rx="0.7817" ry="1.9322"/>
+      <line id="_337573608" fill="none" stroke="black" stroke-width="0.0762" x1="199.759" y1="116.745" x2="198.883" y2= "116.362" />
+     </g>
+     <g>
+      <ellipse id="_336394176" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0837049 -0.184074 -0.203248 -0.0924241 198.877 116.815)" rx="0.7817" ry="1.9322"/>
+      <line id="_336374632" fill="none" stroke="black" stroke-width="0.0762" x1="199.217" y1="116.962" x2="198.342" y2= "116.58" />
+     </g>
+    </g>
+    <g>
+     <polygon id="_336345728" fill="#00923F" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="201.712,117.314 197.477,118.257 "/>
+     <g>
+      <ellipse id="_336344776" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.130089 -0.0831635 -0.0918264 0.14364 201.612 117.011)" rx="0.7817" ry="1.9322"/>
+      <line id="_336284624" fill="none" stroke="black" stroke-width="0.0762" x1="201.76" y1="116.77" x2="201.376" y2= "117.39" />
+     </g>
+     <g>
+      <ellipse id="_336264800" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.130089 -0.0831635 -0.0918264 0.14364 201.083 117.126)" rx="0.7817" ry="1.9322"/>
+      <line id="_335988616" fill="none" stroke="black" stroke-width="0.0762" x1="201.231" y1="116.885" x2="200.847" y2= "117.505" />
+     </g>
+     <g>
+      <ellipse id="_335985256" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.130089 -0.0831635 -0.0918264 0.14364 200.531 117.253)" rx="0.7817" ry="1.9322"/>
+      <line id="_335919520" fill="none" stroke="black" stroke-width="0.0762" x1="200.679" y1="117.011" x2="200.295" y2= "117.632" />
+     </g>
+     <g>
+      <ellipse id="_335918944" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.130089 -0.0831635 -0.0918264 0.14364 200.059 117.355)" rx="0.7817" ry="1.9322"/>
+      <line id="_335828024" fill="none" stroke="black" stroke-width="0.0762" x1="200.207" y1="117.113" x2="199.823" y2= "117.734" />
+     </g>
+     <g>
+      <ellipse id="_335627112" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.130089 -0.0831635 -0.0918264 0.14364 199.524 117.473)" rx="0.7817" ry="1.9322"/>
+      <line id="_335626176" fill="none" stroke="black" stroke-width="0.0762" x1="199.672" y1="117.231" x2="199.288" y2= "117.852" />
+     </g>
+     <g>
+      <ellipse id="_82140344" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.130089 -0.0831635 -0.0918264 0.14364 199.022 117.591)" rx="0.7817" ry="1.9322"/>
+      <line id="_533826592" fill="none" stroke="black" stroke-width="0.0762" x1="199.17" y1="117.35" x2="198.786" y2= "117.97" />
+     </g>
+     <g>
+      <ellipse id="_82609304" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.130089 -0.0831635 -0.0918264 0.14364 198.489 117.707)" rx="0.7817" ry="1.9322"/>
+      <line id="_77984800" fill="none" stroke="black" stroke-width="0.0762" x1="198.637" y1="117.465" x2="198.253" y2= "118.086" />
+     </g>
+     <g>
+      <ellipse id="_66897776" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.130089 -0.0831635 -0.0918264 0.14364 198.052 117.803)" rx="0.7817" ry="1.9322"/>
+      <line id="_329801328" fill="none" stroke="black" stroke-width="0.0762" x1="198.2" y1="117.562" x2="197.816" y2= "118.182" />
+     </g>
+     <g>
+      <ellipse id="_67207832" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0849322 -0.128941 -0.142373 -0.0937793 201.751 117.631)" rx="0.7817" ry="1.9322"/>
+      <line id="_82085272" fill="none" stroke="black" stroke-width="0.0762" x1="201.99" y1="117.782" x2="201.375" y2= "117.39" />
+     </g>
+     <g>
+      <ellipse id="_335242184" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0849322 -0.128941 -0.142373 -0.0937793 201.22 117.748)" rx="0.7817" ry="1.9322"/>
+      <line id="_336337440" fill="none" stroke="black" stroke-width="0.0762" x1="201.459" y1="117.899" x2="200.844" y2= "117.507" />
+     </g>
+     <g>
+      <ellipse id="_65732392" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0849322 -0.128941 -0.142373 -0.0937793 200.674 117.873)" rx="0.7817" ry="1.9322"/>
+      <line id="_335869720" fill="none" stroke="black" stroke-width="0.0762" x1="200.913" y1="118.024" x2="200.298" y2= "117.631" />
+     </g>
+     <g>
+      <ellipse id="_336453144" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0849322 -0.128941 -0.142373 -0.0937793 200.196 117.976)" rx="0.7817" ry="1.9322"/>
+      <line id="_334907688" fill="none" stroke="black" stroke-width="0.0762" x1="200.436" y1="118.127" x2="199.821" y2= "117.735" />
+     </g>
+     <g>
+      <ellipse id="_329881752" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0849322 -0.128941 -0.142373 -0.0937793 199.661 118.098)" rx="0.7817" ry="1.9322"/>
+      <line id="_335595616" fill="none" stroke="black" stroke-width="0.0762" x1="199.9" y1="118.249" x2="199.285" y2= "117.857" />
+     </g>
+     <g>
+      <ellipse id="_335620304" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0849322 -0.128941 -0.142373 -0.0937793 199.163 118.208)" rx="0.7817" ry="1.9322"/>
+      <line id="_335623456" fill="none" stroke="black" stroke-width="0.0762" x1="199.403" y1="118.359" x2="198.788" y2= "117.967" />
+     </g>
+     <g>
+      <ellipse id="_335693824" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0849322 -0.128941 -0.142373 -0.0937793 198.629 118.325)" rx="0.7817" ry="1.9322"/>
+      <line id="_335770456" fill="none" stroke="black" stroke-width="0.0762" x1="198.868" y1="118.476" x2="198.253" y2= "118.084" />
+     </g>
+     <g>
+      <ellipse id="_335811336" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0849322 -0.128941 -0.142373 -0.0937793 198.195 118.425)" rx="0.7817" ry="1.9322"/>
+      <line id="_335860328" fill="none" stroke="black" stroke-width="0.0762" x1="198.434" y1="118.576" x2="197.819" y2= "118.184" />
+     </g>
+    </g>
+    <polygon id="_335869048" fill="#00923F" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="197.42,109.96 197.558,109.96 197.558,119.579 197.42,119.579 "/>
+    <g>
+     <polygon id="_335887352" fill="#00923F" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="203.129,112.06 197.553,114.621 "/>
+     <g>
+      <ellipse id="_335884856" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.189441 -0.070723 -0.0780899 0.209174 202.919 111.699)" rx="0.7817" ry="1.9322"/>
+      <line id="_335890152" fill="none" stroke="black" stroke-width="0.0762" x1="203.042" y1="111.349" x2="202.721" y2= "112.249" />
+     </g>
+     <g>
+      <ellipse id="_335950808" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.189441 -0.070723 -0.0780899 0.209174 202.273 111.992)" rx="0.7817" ry="1.9322"/>
+      <line id="_336360784" fill="none" stroke="black" stroke-width="0.0762" x1="202.396" y1="111.642" x2="202.075" y2= "112.542" />
+     </g>
+     <g>
+      <ellipse id="_335590064" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.189441 -0.070723 -0.0780899 0.209174 201.601 112.306)" rx="0.7817" ry="1.9322"/>
+      <line id="_335943056" fill="none" stroke="black" stroke-width="0.0762" x1="201.724" y1="111.956" x2="201.403" y2= "112.856" />
+     </g>
+     <g>
+      <ellipse id="_79076984" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.189441 -0.070723 -0.0780899 0.209174 201.024 112.566)" rx="0.7817" ry="1.9322"/>
+      <line id="_336424376" fill="none" stroke="black" stroke-width="0.0762" x1="201.147" y1="112.216" x2="200.826" y2= "113.116" />
+     </g>
+     <g>
+      <ellipse id="_335952824" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.189441 -0.070723 -0.0780899 0.209174 200.372 112.864)" rx="0.7817" ry="1.9322"/>
+      <line id="_335625808" fill="none" stroke="black" stroke-width="0.0762" x1="200.495" y1="112.514" x2="200.174" y2= "113.414" />
+     </g>
+     <g>
+      <ellipse id="_335862624" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.189441 -0.070723 -0.0780899 0.209174 199.761 113.154)" rx="0.7817" ry="1.9322"/>
+      <line id="_335828952" fill="none" stroke="black" stroke-width="0.0762" x1="199.884" y1="112.804" x2="199.563" y2= "113.704" />
+     </g>
+     <g>
+      <ellipse id="_335814088" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.189441 -0.070723 -0.0780899 0.209174 199.11 113.448)" rx="0.7817" ry="1.9322"/>
+      <line id="_335863688" fill="none" stroke="black" stroke-width="0.0762" x1="199.233" y1="113.098" x2="198.912" y2= "113.998" />
+     </g>
+     <g>
+      <ellipse id="_335948584" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.189441 -0.070723 -0.0780899 0.209174 198.577 113.692)" rx="0.7817" ry="1.9322"/>
+      <line id="_328736664" fill="none" stroke="black" stroke-width="0.0762" x1="198.7" y1="113.342" x2="198.379" y2= "114.242" />
+     </g>
+     <g>
+      <ellipse id="_335679840" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0733033 -0.188458 -0.208089 -0.080939 203.267 112.454)" rx="0.7817" ry="1.9322"/>
+      <line id="_335825816" fill="none" stroke="black" stroke-width="0.0762" x1="203.615" y1="112.582" x2="202.719" y2= "112.249" />
+     </g>
+     <g>
+      <ellipse id="_512275528" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0733033 -0.188458 -0.208089 -0.080939 202.619 112.75)" rx="0.7817" ry="1.9322"/>
+      <line id="_512274768" fill="none" stroke="black" stroke-width="0.0762" x1="202.967" y1="112.878" x2="202.072" y2= "112.545" />
+     </g>
+     <g>
+      <ellipse id="_335871168" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0733033 -0.188458 -0.208089 -0.080939 201.954 113.06)" rx="0.7817" ry="1.9322"/>
+      <line id="_342716952" fill="none" stroke="black" stroke-width="0.0762" x1="202.302" y1="113.188" x2="201.406" y2= "112.855" />
+     </g>
+     <g>
+      <ellipse id="_335827088" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0733033 -0.188458 -0.208089 -0.080939 201.371 113.324)" rx="0.7817" ry="1.9322"/>
+      <line id="_335865952" fill="none" stroke="black" stroke-width="0.0762" x1="201.719" y1="113.452" x2="200.824" y2= "113.118" />
+     </g>
+     <g>
+      <ellipse id="_81662904" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0733033 -0.188458 -0.208089 -0.080939 200.719 113.627)" rx="0.7817" ry="1.9322"/>
+      <line id="_335621384" fill="none" stroke="black" stroke-width="0.0762" x1="201.067" y1="113.755" x2="200.171" y2= "113.421" />
+     </g>
+     <g>
+      <ellipse id="_335864704" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0733033 -0.188458 -0.208089 -0.080939 200.112 113.905)" rx="0.7817" ry="1.9322"/>
+      <line id="_335624656" fill="none" stroke="black" stroke-width="0.0762" x1="200.46" y1="114.033" x2="199.565" y2= "113.699" />
+     </g>
+     <g>
+      <ellipse id="_335975800" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0733033 -0.188458 -0.208089 -0.080939 199.46 114.201)" rx="0.7817" ry="1.9322"/>
+      <line id="_335814792" fill="none" stroke="black" stroke-width="0.0762" x1="199.808" y1="114.329" x2="198.913" y2= "113.996" />
+     </g>
+     <g>
+      <ellipse id="_335836104" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.0733033 -0.188458 -0.208089 -0.080939 198.932 114.449)" rx="0.7817" ry="1.9322"/>
+      <line id="_335920776" fill="none" stroke="black" stroke-width="0.0762" x1="199.28" y1="114.577" x2="198.384" y2= "114.243" />
+     </g>
+    </g>
+    <g>
+     <polygon id="_335919864" fill="#00923F" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="202.936,109.334 197.567,112.306 "/>
+     <g>
+      <ellipse id="_335805744" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.194207 -0.0563323 -0.0622002 0.214437 202.699 108.99)" rx="0.7817" ry="1.9322"/>
+      <line id="_335816280" fill="none" stroke="black" stroke-width="0.0762" x1="202.796" y1="108.632" x2="202.543" y2= "109.553" />
+     </g>
+     <g>
+      <ellipse id="_337375176" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.194207 -0.0563323 -0.0622002 0.214437 202.077 109.33)" rx="0.7817" ry="1.9322"/>
+      <line id="_337374168" fill="none" stroke="black" stroke-width="0.0762" x1="202.174" y1="108.972" x2="201.921" y2= "109.893" />
+     </g>
+     <g>
+      <ellipse id="_336497416" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.194207 -0.0563323 -0.0622002 0.214437 201.431 109.693)" rx="0.7817" ry="1.9322"/>
+      <line id="_77008856" fill="none" stroke="black" stroke-width="0.0762" x1="201.528" y1="109.335" x2="201.275" y2= "110.257" />
+     </g>
+     <g>
+      <ellipse id="_335161656" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.194207 -0.0563323 -0.0622002 0.214437 200.875 109.996)" rx="0.7817" ry="1.9322"/>
+      <line id="_336582256" fill="none" stroke="black" stroke-width="0.0762" x1="200.972" y1="109.638" x2="200.719" y2= "110.56" />
+     </g>
+     <g>
+      <ellipse id="_79548192" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.194207 -0.0563323 -0.0622002 0.214437 200.247 110.342)" rx="0.7817" ry="1.9322"/>
+      <line id="_84248800" fill="none" stroke="black" stroke-width="0.0762" x1="200.344" y1="109.984" x2="200.091" y2= "110.906" />
+     </g>
+     <g>
+      <ellipse id="_332233816" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.194207 -0.0563323 -0.0622002 0.214437 199.659 110.677)" rx="0.7817" ry="1.9322"/>
+      <line id="_335668216" fill="none" stroke="black" stroke-width="0.0762" x1="199.756" y1="110.319" x2="199.503" y2= "111.241" />
+     </g>
+     <g>
+      <ellipse id="_335908800" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.194207 -0.0563323 -0.0622002 0.214437 199.033 111.019)" rx="0.7817" ry="1.9322"/>
+      <line id="_332364640" fill="none" stroke="black" stroke-width="0.0762" x1="199.129" y1="110.661" x2="198.876" y2= "111.583" />
+     </g>
+     <g>
+      <ellipse id="_334122672" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.194207 -0.0563323 -0.0622002 0.214437 198.519 111.302)" rx="0.7817" ry="1.9322"/>
+      <line id="_335187376" fill="none" stroke="black" stroke-width="0.0762" x1="198.616" y1="110.944" x2="198.363" y2= "111.866" />
+     </g>
+     <g>
+      <ellipse id="_335603680" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.058979 -0.19342 -0.213567 -0.0651227 203.103 109.717)" rx="0.7817" ry="1.9322"/>
+      <line id="_335909776" fill="none" stroke="black" stroke-width="0.0762" x1="203.46" y1="109.818" x2="202.542" y2= "109.553" />
+     </g>
+     <g>
+      <ellipse id="_335790704" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.058979 -0.19342 -0.213567 -0.0651227 202.479 110.06)" rx="0.7817" ry="1.9322"/>
+      <line id="_335202424" fill="none" stroke="black" stroke-width="0.0762" x1="202.836" y1="110.162" x2="201.918" y2= "109.896" />
+     </g>
+     <g>
+      <ellipse id="_335974896" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.058979 -0.19342 -0.213567 -0.0651227 201.839 110.419)" rx="0.7817" ry="1.9322"/>
+      <line id="_79080152" fill="none" stroke="black" stroke-width="0.0762" x1="202.196" y1="110.521" x2="201.278" y2= "110.255" />
+     </g>
+     <g>
+      <ellipse id="_327270864" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.058979 -0.19342 -0.213567 -0.0651227 201.278 110.726)" rx="0.7817" ry="1.9322"/>
+      <line id="_334797864" fill="none" stroke="black" stroke-width="0.0762" x1="201.635" y1="110.827" x2="200.717" y2= "110.562" />
+     </g>
+     <g>
+      <ellipse id="_514076128" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.058979 -0.19342 -0.213567 -0.0651227 200.65 111.077)" rx="0.7817" ry="1.9322"/>
+      <line id="_514074000" fill="none" stroke="black" stroke-width="0.0762" x1="201.006" y1="111.179" x2="200.089" y2= "110.913" />
+     </g>
+     <g>
+      <ellipse id="_514065904" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.058979 -0.19342 -0.213567 -0.0651227 200.066 111.4)" rx="0.7817" ry="1.9322"/>
+      <line id="_514063456" fill="none" stroke="black" stroke-width="0.0762" x1="200.423" y1="111.501" x2="199.505" y2= "111.236" />
+     </g>
+     <g>
+      <ellipse id="_514062312" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.058979 -0.19342 -0.213567 -0.0651227 199.438 111.744)" rx="0.7817" ry="1.9322"/>
+      <line id="_82046960" fill="none" stroke="black" stroke-width="0.0762" x1="199.794" y1="111.845" x2="198.876" y2= "111.58" />
+     </g>
+     <g>
+      <ellipse id="_67143880" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.058979 -0.19342 -0.213567 -0.0651227 198.929 112.03)" rx="0.7817" ry="1.9322"/>
+      <line id="_337563032" fill="none" stroke="black" stroke-width="0.0762" x1="199.286" y1="112.132" x2="198.368" y2= "111.866" />
+     </g>
+    </g>
+    <g>
+     <polygon id="_335740176" fill="#00923F" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="193.183,117.314 197.417,118.257 "/>
+     <g>
+      <ellipse id="_342851800" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.130089 -0.0831635 0.0918264 0.14364 193.283 117.011)" rx="0.7817" ry="1.9322"/>
+      <line id="_335789360" fill="none" stroke="black" stroke-width="0.0762" x1="193.135" y1="116.77" x2="193.519" y2= "117.39" />
+     </g>
+     <g>
+      <ellipse id="_79303952" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.130089 -0.0831635 0.0918264 0.14364 193.812 117.126)" rx="0.7817" ry="1.9322"/>
+      <line id="_339660160" fill="none" stroke="black" stroke-width="0.0762" x1="193.664" y1="116.885" x2="194.048" y2= "117.505" />
+     </g>
+     <g>
+      <ellipse id="_339659152" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.130089 -0.0831635 0.0918264 0.14364 194.364 117.253)" rx="0.7817" ry="1.9322"/>
+      <line id="_337220616" fill="none" stroke="black" stroke-width="0.0762" x1="194.216" y1="117.011" x2="194.6" y2= "117.632" />
+     </g>
+     <g>
+      <ellipse id="_327960528" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.130089 -0.0831635 0.0918264 0.14364 194.836 117.355)" rx="0.7817" ry="1.9322"/>
+      <line id="_327960280" fill="none" stroke="black" stroke-width="0.0762" x1="194.688" y1="117.113" x2="195.072" y2= "117.734" />
+     </g>
+     <g>
+      <ellipse id="_336195680" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.130089 -0.0831635 0.0918264 0.14364 195.37 117.473)" rx="0.7817" ry="1.9322"/>
+      <line id="_336240912" fill="none" stroke="black" stroke-width="0.0762" x1="195.223" y1="117.231" x2="195.607" y2= "117.852" />
+     </g>
+     <g>
+      <ellipse id="_335958336" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.130089 -0.0831635 0.0918264 0.14364 195.873 117.591)" rx="0.7817" ry="1.9322"/>
+      <line id="_335957936" fill="none" stroke="black" stroke-width="0.0762" x1="195.725" y1="117.35" x2="196.109" y2= "117.97" />
+     </g>
+     <g>
+      <ellipse id="_524241944" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.130089 -0.0831635 0.0918264 0.14364 196.406 117.707)" rx="0.7817" ry="1.9322"/>
+      <line id="_524241608" fill="none" stroke="black" stroke-width="0.0762" x1="196.258" y1="117.465" x2="196.642" y2= "118.086" />
+     </g>
+     <g>
+      <ellipse id="_335847680" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.130089 -0.0831635 0.0918264 0.14364 196.843 117.803)" rx="0.7817" ry="1.9322"/>
+      <line id="_335847592" fill="none" stroke="black" stroke-width="0.0762" x1="196.695" y1="117.562" x2="197.079" y2= "118.182" />
+     </g>
+     <g>
+      <ellipse id="_336089600" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0849322 -0.128941 0.142373 -0.0937793 193.144 117.631)" rx="0.7817" ry="1.9322"/>
+      <line id="_336122336" fill="none" stroke="black" stroke-width="0.0762" x1="192.905" y1="117.782" x2="193.52" y2= "117.39" />
+     </g>
+     <g>
+      <ellipse id="_336121968" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0849322 -0.128941 0.142373 -0.0937793 193.675 117.748)" rx="0.7817" ry="1.9322"/>
+      <line id="_335939328" fill="none" stroke="black" stroke-width="0.0762" x1="193.435" y1="117.899" x2="194.051" y2= "117.507" />
+     </g>
+     <g>
+      <ellipse id="_336228520" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0849322 -0.128941 0.142373 -0.0937793 194.221 117.873)" rx="0.7817" ry="1.9322"/>
+      <line id="_78494904" fill="none" stroke="black" stroke-width="0.0762" x1="193.982" y1="118.024" x2="194.597" y2= "117.631" />
+     </g>
+     <g>
+      <ellipse id="_333372920" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0849322 -0.128941 0.142373 -0.0937793 194.698 117.976)" rx="0.7817" ry="1.9322"/>
+      <line id="_336056688" fill="none" stroke="black" stroke-width="0.0762" x1="194.459" y1="118.127" x2="195.074" y2= "117.735" />
+     </g>
+     <g>
+      <ellipse id="_336085184" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0849322 -0.128941 0.142373 -0.0937793 195.234 118.098)" rx="0.7817" ry="1.9322"/>
+      <line id="_66476168" fill="none" stroke="black" stroke-width="0.0762" x1="194.995" y1="118.249" x2="195.61" y2= "117.857" />
+     </g>
+     <g>
+      <ellipse id="_336023240" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0849322 -0.128941 0.142373 -0.0937793 195.732 118.208)" rx="0.7817" ry="1.9322"/>
+      <line id="_336019384" fill="none" stroke="black" stroke-width="0.0762" x1="195.492" y1="118.359" x2="196.107" y2= "117.967" />
+     </g>
+     <g>
+      <ellipse id="_78931248" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0849322 -0.128941 0.142373 -0.0937793 196.266 118.325)" rx="0.7817" ry="1.9322"/>
+      <line id="_327672096" fill="none" stroke="black" stroke-width="0.0762" x1="196.027" y1="118.476" x2="196.642" y2= "118.084" />
+     </g>
+     <g>
+      <ellipse id="_336126280" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0849322 -0.128941 0.142373 -0.0937793 196.7 118.425)" rx="0.7817" ry="1.9322"/>
+      <line id="_336199312" fill="none" stroke="black" stroke-width="0.0762" x1="196.461" y1="118.576" x2="197.076" y2= "118.184" />
+     </g>
+    </g>
+    <g>
+     <polygon id="_337306624" fill="#00923F" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="191.724,114.65 197.435,116.896 "/>
+     <g>
+      <ellipse id="_337306368" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.1852 -0.0811834 0.08964 0.204491 191.914 114.278)" rx="0.7817" ry="1.9322"/>
+      <line id="_329919136" fill="none" stroke="black" stroke-width="0.0762" x1="191.772" y1="113.936" x2="192.142" y2= "114.816" />
+     </g>
+     <g>
+      <ellipse id="_84243432" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.1852 -0.0811834 0.08964 0.204491 192.575 114.534)" rx="0.7817" ry="1.9322"/>
+      <line id="_84243032" fill="none" stroke="black" stroke-width="0.0762" x1="192.432" y1="114.192" x2="192.803" y2= "115.072" />
+     </g>
+     <g>
+      <ellipse id="_83248080" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.1852 -0.0811834 0.08964 0.204491 193.263 114.81)" rx="0.7817" ry="1.9322"/>
+      <line id="_331511504" fill="none" stroke="black" stroke-width="0.0762" x1="193.121" y1="114.468" x2="193.492" y2= "115.348" />
+     </g>
+     <g>
+      <ellipse id="_329401816" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.1852 -0.0811834 0.08964 0.204491 193.853 115.038)" rx="0.7817" ry="1.9322"/>
+      <line id="_329401056" fill="none" stroke="black" stroke-width="0.0762" x1="193.711" y1="114.695" x2="194.082" y2= "115.576" />
+     </g>
+     <g>
+      <ellipse id="_331790960" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.1852 -0.0811834 0.08964 0.204491 194.521 115.299)" rx="0.7817" ry="1.9322"/>
+      <line id="_336124496" fill="none" stroke="black" stroke-width="0.0762" x1="194.379" y1="114.957" x2="194.75" y2= "115.837" />
+     </g>
+     <g>
+      <ellipse id="_336194840" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.1852 -0.0811834 0.08964 0.204491 195.148 115.554)" rx="0.7817" ry="1.9322"/>
+      <line id="_336189256" fill="none" stroke="black" stroke-width="0.0762" x1="195.005" y1="115.212" x2="195.376" y2= "116.093" />
+     </g>
+     <g>
+      <ellipse id="_336226384" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.1852 -0.0811834 0.08964 0.204491 195.814 115.812)" rx="0.7817" ry="1.9322"/>
+      <line id="_336225624" fill="none" stroke="black" stroke-width="0.0762" x1="195.671" y1="115.469" x2="196.042" y2= "116.35" />
+     </g>
+     <g>
+      <ellipse id="_336265912" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.1852 -0.0811834 0.08964 0.204491 196.36 116.025)" rx="0.7817" ry="1.9322"/>
+      <line id="_336356024" fill="none" stroke="black" stroke-width="0.0762" x1="196.217" y1="115.683" x2="196.588" y2= "116.564" />
+     </g>
+     <g>
+      <ellipse id="_336355544" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0837049 -0.184074 0.203248 -0.0924241 191.608 115.052)" rx="0.7817" ry="1.9322"/>
+      <line id="_336447640" fill="none" stroke="black" stroke-width="0.0762" x1="191.268" y1="115.199" x2="192.143" y2= "114.816" />
+     </g>
+     <g>
+      <ellipse id="_336237520" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0837049 -0.184074 0.203248 -0.0924241 192.272 115.311)" rx="0.7817" ry="1.9322"/>
+      <line id="_336065936" fill="none" stroke="black" stroke-width="0.0762" x1="191.931" y1="115.458" x2="192.807" y2= "115.075" />
+     </g>
+     <g>
+      <ellipse id="_336192424" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0837049 -0.184074 0.203248 -0.0924241 192.953 115.583)" rx="0.7817" ry="1.9322"/>
+      <line id="_336129504" fill="none" stroke="black" stroke-width="0.0762" x1="192.613" y1="115.73" x2="193.488" y2= "115.347" />
+     </g>
+     <g>
+      <ellipse id="_336201968" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0837049 -0.184074 0.203248 -0.0924241 193.55 115.814)" rx="0.7817" ry="1.9322"/>
+      <line id="_331803912" fill="none" stroke="black" stroke-width="0.0762" x1="193.209" y1="115.961" x2="194.085" y2= "115.578" />
+     </g>
+     <g>
+      <ellipse id="_327935776" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0837049 -0.184074 0.203248 -0.0924241 194.218 116.08)" rx="0.7817" ry="1.9322"/>
+      <line id="_336387520" fill="none" stroke="black" stroke-width="0.0762" x1="193.878" y1="116.227" x2="194.753" y2= "115.844" />
+     </g>
+     <g>
+      <ellipse id="_336491128" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0837049 -0.184074 0.203248 -0.0924241 194.839 116.324)" rx="0.7817" ry="1.9322"/>
+      <line id="_336420096" fill="none" stroke="black" stroke-width="0.0762" x1="194.499" y1="116.471" x2="195.374" y2= "116.088" />
+     </g>
+     <g>
+      <ellipse id="_336271536" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0837049 -0.184074 0.203248 -0.0924241 195.507 116.583)" rx="0.7817" ry="1.9322"/>
+      <line id="_336229848" fill="none" stroke="black" stroke-width="0.0762" x1="195.166" y1="116.73" x2="196.042" y2= "116.347" />
+     </g>
+     <g>
+      <ellipse id="_336361976" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0837049 -0.184074 0.203248 -0.0924241 196.048 116.801)" rx="0.7817" ry="1.9322"/>
+      <line id="_336170288" fill="none" stroke="black" stroke-width="0.0762" x1="195.708" y1="116.948" x2="196.583" y2= "116.565" />
+     </g>
+    </g>
+    <g>
+     <polygon id="_336168024" fill="#00923F" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="191.832,112.101 197.409,114.662 "/>
+     <g>
+      <ellipse id="_336167072" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.189441 -0.070723 0.0780899 0.209174 192.043 111.74)" rx="0.7817" ry="1.9322"/>
+      <line id="_336152224" fill="none" stroke="black" stroke-width="0.0762" x1="191.919" y1="111.39" x2="192.241" y2= "112.29" />
+     </g>
+     <g>
+      <ellipse id="_336494240" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.189441 -0.070723 0.0780899 0.209174 192.688 112.033)" rx="0.7817" ry="1.9322"/>
+      <line id="_336505800" fill="none" stroke="black" stroke-width="0.0762" x1="192.565" y1="111.683" x2="192.886" y2= "112.583" />
+     </g>
+     <g>
+      <ellipse id="_336385664" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.189441 -0.070723 0.0780899 0.209174 193.36 112.347)" rx="0.7817" ry="1.9322"/>
+      <line id="_336113712" fill="none" stroke="black" stroke-width="0.0762" x1="193.237" y1="111.997" x2="193.558" y2= "112.897" />
+     </g>
+     <g>
+      <ellipse id="_336153984" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.189441 -0.070723 0.0780899 0.209174 193.937 112.607)" rx="0.7817" ry="1.9322"/>
+      <line id="_336476048" fill="none" stroke="black" stroke-width="0.0762" x1="193.814" y1="112.257" x2="194.135" y2= "113.157" />
+     </g>
+     <g>
+      <ellipse id="_336381480" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.189441 -0.070723 0.0780899 0.209174 194.589 112.905)" rx="0.7817" ry="1.9322"/>
+      <line id="_336236536" fill="none" stroke="black" stroke-width="0.0762" x1="194.466" y1="112.555" x2="194.787" y2= "113.455" />
+     </g>
+     <g>
+      <ellipse id="_336205520" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.189441 -0.070723 0.0780899 0.209174 195.2 113.195)" rx="0.7817" ry="1.9322"/>
+      <line id="_336223040" fill="none" stroke="black" stroke-width="0.0762" x1="195.077" y1="112.845" x2="195.398" y2= "113.745" />
+     </g>
+     <g>
+      <ellipse id="_336225192" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.189441 -0.070723 0.0780899 0.209174 195.851 113.489)" rx="0.7817" ry="1.9322"/>
+      <line id="_336238032" fill="none" stroke="black" stroke-width="0.0762" x1="195.728" y1="113.14" x2="196.049" y2= "114.039" />
+     </g>
+     <g>
+      <ellipse id="_336272760" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.189441 -0.070723 0.0780899 0.209174 196.384 113.733)" rx="0.7817" ry="1.9322"/>
+      <line id="_336324576" fill="none" stroke="black" stroke-width="0.0762" x1="196.261" y1="113.383" x2="196.582" y2= "114.283" />
+     </g>
+     <g>
+      <ellipse id="_336186864" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0733033 -0.188458 0.208089 -0.080939 191.694 112.496)" rx="0.7817" ry="1.9322"/>
+      <line id="_336197008" fill="none" stroke="black" stroke-width="0.0762" x1="191.346" y1="112.624" x2="192.242" y2= "112.29" />
+     </g>
+     <g>
+      <ellipse id="_333898136" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0733033 -0.188458 0.208089 -0.080939 192.342 112.791)" rx="0.7817" ry="1.9322"/>
+      <line id="_338499200" fill="none" stroke="black" stroke-width="0.0762" x1="191.994" y1="112.919" x2="192.889" y2= "112.586" />
+     </g>
+     <g>
+      <ellipse id="_336416200" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0733033 -0.188458 0.208089 -0.080939 193.007 113.101)" rx="0.7817" ry="1.9322"/>
+      <line id="_336227216" fill="none" stroke="black" stroke-width="0.0762" x1="192.659" y1="113.229" x2="193.555" y2= "112.896" />
+     </g>
+     <g>
+      <ellipse id="_336185792" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0733033 -0.188458 0.208089 -0.080939 193.59 113.365)" rx="0.7817" ry="1.9322"/>
+      <line id="_80369880" fill="none" stroke="black" stroke-width="0.0762" x1="193.242" y1="113.493" x2="194.137" y2= "113.159" />
+     </g>
+     <g>
+      <ellipse id="_336262824" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0733033 -0.188458 0.208089 -0.080939 194.243 113.668)" rx="0.7817" ry="1.9322"/>
+      <line id="_336487488" fill="none" stroke="black" stroke-width="0.0762" x1="193.894" y1="113.796" x2="194.79" y2= "113.463" />
+     </g>
+     <g>
+      <ellipse id="_336199016" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0733033 -0.188458 0.208089 -0.080939 194.849 113.946)" rx="0.7817" ry="1.9322"/>
+      <line id="_336198768" fill="none" stroke="black" stroke-width="0.0762" x1="194.501" y1="114.074" x2="195.396" y2= "113.741" />
+     </g>
+     <g>
+      <ellipse id="_336160344" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0733033 -0.188458 0.208089 -0.080939 195.501 114.242)" rx="0.7817" ry="1.9322"/>
+      <line id="_336157536" fill="none" stroke="black" stroke-width="0.0762" x1="195.153" y1="114.37" x2="196.048" y2= "114.037" />
+     </g>
+     <g>
+      <ellipse id="_336115752" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.0733033 -0.188458 0.208089 -0.080939 196.03 114.49)" rx="0.7817" ry="1.9322"/>
+      <line id="_327464688" fill="none" stroke="black" stroke-width="0.0762" x1="195.681" y1="114.618" x2="196.577" y2= "114.284" />
+     </g>
+    </g>
+    <g>
+     <polygon id="_336097024" fill="#00923F" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="192.045,109.372 197.415,112.344 "/>
+     <g>
+      <ellipse id="_336127520" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.194207 -0.0563323 0.0622002 0.214437 192.283 109.028)" rx="0.7817" ry="1.9322"/>
+      <line id="_336151160" fill="none" stroke="black" stroke-width="0.0762" x1="192.186" y1="108.67" x2="192.439" y2= "109.592" />
+     </g>
+     <g>
+      <ellipse id="_336158736" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.194207 -0.0563323 0.0622002 0.214437 192.904 109.368)" rx="0.7817" ry="1.9322"/>
+      <line id="_338442072" fill="none" stroke="black" stroke-width="0.0762" x1="192.808" y1="109.01" x2="193.061" y2= "109.932" />
+     </g>
+     <g>
+      <ellipse id="_336468632" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.194207 -0.0563323 0.0622002 0.214437 193.551 109.732)" rx="0.7817" ry="1.9322"/>
+      <line id="_336128584" fill="none" stroke="black" stroke-width="0.0762" x1="193.454" y1="109.374" x2="193.707" y2= "110.295" />
+     </g>
+     <g>
+      <ellipse id="_336350624" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.194207 -0.0563323 0.0622002 0.214437 194.107 110.034)" rx="0.7817" ry="1.9322"/>
+      <line id="_336349864" fill="none" stroke="black" stroke-width="0.0762" x1="194.01" y1="109.676" x2="194.263" y2= "110.598" />
+     </g>
+     <g>
+      <ellipse id="_336274888" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.194207 -0.0563323 0.0622002 0.214437 194.734 110.381)" rx="0.7817" ry="1.9322"/>
+      <line id="_336274416" fill="none" stroke="black" stroke-width="0.0762" x1="194.638" y1="110.023" x2="194.891" y2= "110.944" />
+     </g>
+     <g>
+      <ellipse id="_336276016" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.194207 -0.0563323 0.0622002 0.214437 195.322 110.715)" rx="0.7817" ry="1.9322"/>
+      <line id="_336117832" fill="none" stroke="black" stroke-width="0.0762" x1="195.226" y1="110.358" x2="195.479" y2= "111.279" />
+     </g>
+     <g>
+      <ellipse id="_512918248" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.194207 -0.0563323 0.0622002 0.214437 195.949 111.057)" rx="0.7817" ry="1.9322"/>
+      <line id="_336166248" fill="none" stroke="black" stroke-width="0.0762" x1="195.853" y1="110.699" x2="196.105" y2= "111.621" />
+     </g>
+     <g>
+      <ellipse id="_336165104" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(0.194207 -0.0563323 0.0622002 0.214437 196.462 111.34)" rx="0.7817" ry="1.9322"/>
+      <line id="_336123400" fill="none" stroke="black" stroke-width="0.0762" x1="196.366" y1="110.983" x2="196.619" y2= "111.904" />
+     </g>
+     <g>
+      <ellipse id="_336123048" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.058979 -0.19342 0.213567 -0.0651227 191.879 109.755)" rx="0.7817" ry="1.9322"/>
+      <line id="_336131968" fill="none" stroke="black" stroke-width="0.0762" x1="191.522" y1="109.857" x2="192.44" y2= "109.591" />
+     </g>
+     <g>
+      <ellipse id="_336201120" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.058979 -0.19342 0.213567 -0.0651227 192.503 110.099)" rx="0.7817" ry="1.9322"/>
+      <line id="_336443912" fill="none" stroke="black" stroke-width="0.0762" x1="192.146" y1="110.2" x2="193.064" y2= "109.935" />
+     </g>
+     <g>
+      <ellipse id="_336541680" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.058979 -0.19342 0.213567 -0.0651227 193.143 110.458)" rx="0.7817" ry="1.9322"/>
+      <line id="_336206408" fill="none" stroke="black" stroke-width="0.0762" x1="192.786" y1="110.559" x2="193.704" y2= "110.293" />
+     </g>
+     <g>
+      <ellipse id="_336163352" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.058979 -0.19342 0.213567 -0.0651227 193.704 110.764)" rx="0.7817" ry="1.9322"/>
+      <line id="_336375952" fill="none" stroke="black" stroke-width="0.0762" x1="193.347" y1="110.866" x2="194.265" y2= "110.6" />
+     </g>
+     <g>
+      <ellipse id="_336235360" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.058979 -0.19342 0.213567 -0.0651227 194.332 111.115)" rx="0.7817" ry="1.9322"/>
+      <line id="_336343800" fill="none" stroke="black" stroke-width="0.0762" x1="193.975" y1="111.217" x2="194.893" y2= "110.952" />
+     </g>
+     <g>
+      <ellipse id="_336204464" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.058979 -0.19342 0.213567 -0.0651227 194.916 111.438)" rx="0.7817" ry="1.9322"/>
+      <line id="_336098128" fill="none" stroke="black" stroke-width="0.0762" x1="194.559" y1="111.539" x2="195.477" y2= "111.274" />
+     </g>
+     <g>
+      <ellipse id="_336188264" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.058979 -0.19342 0.213567 -0.0651227 195.544 111.782)" rx="0.7817" ry="1.9322"/>
+      <line id="_336187328" fill="none" stroke="black" stroke-width="0.0762" x1="195.187" y1="111.884" x2="196.105" y2= "111.618" />
+     </g>
+     <g>
+      <ellipse id="_336099304" fill="#00923F" stroke="black" stroke-width="0.0762" transform="matrix(-0.058979 -0.19342 0.213567 -0.0651227 196.052 112.069)" rx="0.7817" ry="1.9322"/>
+      <line id="_336190464" fill="none" stroke="black" stroke-width="0.0762" x1="195.696" y1="112.17" x2="196.614" y2= "111.905" />
+     </g>
+    </g>
+   </g>
+  </g>
+  <g>
+   <path id="A_Array" fill="#663333" fill-rule="nonzero" d="M187.833 116.268l0.4906 0.5044 -0.3571 0.3747 -0.2949 0.37 -0.2381 0.3678 -0.1839 0.3625 -0.1348 0.3585 -0.0884 0.357 -0.0444 0.3566 -0.0043 0.3574 0.036 0.3594 0.0723 0.3611 0.1089 0.3626 0.1417 0.3667 0.1758 0.3678 0.2063 0.3698 0.2328 0.3693 0.2608 0.371 0.2837 0.3698 0.304 0.3684 0.323 0.3681 0.3396 0.3649 0.3522 0.3628 0.3639 0.3605 0.3729 0.358 0.3779 0.3539 0.3805 0.3495 0.382 0.3477 0.3807 0.3417 0.3758 0.3379 0.3695 0.334 0.3596 0.3287 0.3483 0.3244 0.3345 0.3198 -0.4906 0.5044 -0.3263 -0.3116 -0.3427 -0.3188 -0.3568 -0.3259 -0.3669 -0.3314 -0.3758 -0.3379 -0.3807 -0.3443 -0.3846 -0.3477 -0.3861 -0.3551 -0.3835 -0.3593 -0.3783 -0.3636 -0.3721 -0.3687 -0.3634 -0.3738 -0.3506 -0.3787 -0.3368 -0.3819 -0.3204 -0.3878 -0.3003 -0.3918 -0.2774 -0.3958 -0.2548 -0.4023 -0.2255 -0.4058 -0.1952 -0.4118 -0.1637 -0.4163 -0.1255 -0.4232 -0.0861 -0.4273 -0.0414 -0.431 0.0043 -0.4346 0.0554 -0.4366 0.1076 -0.437 0.1624 -0.4355 0.2197 -0.4315 0.2767 -0.4256 0.3363 -0.4224 0.3957 -0.4161zm2.0228 -1.4703l-2.0681 4.9433 -0.0459 -0.1392 -0.0488 -0.1363 -0.0519 -0.1335 -0.0548 -0.1306 -0.0577 -0.1278 -0.0608 -0.1248 -0.0636 -0.122 -0.0667 -0.1191 -0.0696 -0.1163 -0.0726 -0.1134 -0.0755 -0.1105 -0.0785 -0.1077 -0.0814 -0.1047 -0.0844 -0.102 -0.0874 -0.099 -0.0903 -0.0962 -0.0933 -0.0933 -0.0962 -0.0904 -0.0993 -0.0876 -0.1021 -0.0847 -0.1051 -0.0818 -0.1081 -0.079 -0.1111 -0.0761 -0.114 -0.0732 -0.117 -0.0703 -0.1199 -0.0675 -0.1229 -0.0646 -0.1259 -0.0618 -0.1288 -0.0589 -0.1317 -0.056 -0.1348 -0.0531 -0.1377 -0.0503 0 0 5.0059 -1.9116z"/>
+  </g>
+ </g>

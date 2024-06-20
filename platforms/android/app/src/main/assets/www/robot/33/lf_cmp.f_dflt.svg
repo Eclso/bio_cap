@@ -1,0 +1,4 @@
+ <g id="Lf_Cmp.F_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="LfCmp" onclick="showquest('LfCmp')" onmousemove="showrobotip('LfCmp','Type of compound leaf')" onmouseout="hidetooltip('LfCmp')"  cursor="pointer"  fill="white" stroke="#7F7F7F" stroke-width="0.0762" x="191" y="124" width="21" height="33"/>
+ </g>

@@ -1,0 +1,17 @@
+ <g id="Lamina_Dflt.UVenSec_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="VenSec" onclick="showquest('VenSec')" onmousemove="showrobotip('VenSec','Type of secondary venation')" onmouseout="hidetooltip('VenSec')"  cursor="pointer" >
+   <g id="nerv">
+    <path id="_77069064" fill="none" stroke="#B2B2B2" stroke-width="0.0762" d="M205.375 64.2262c8.7901,0.2138 11.6391,-10.3191 11.8587,-18.0856"/>
+    <path id="_335872496" fill="none" stroke="#B2B2B2" stroke-width="0.0762" d="M205.375 49.3125c6.9174,-0.2994 7.9544,-7.7046 7.7323,-14.5756"/>
+    <path id="_331591656" fill="none" stroke="#B2B2B2" stroke-width="0.0762" d="M205.375 38.9608c3.7313,-0.7025 3.8714,-5.5177 2.749,-10.3131"/>
+    <path id="_84578984" fill="none" stroke="#B2B2B2" stroke-width="0.0762" d="M205.375 59.1021c-7.8293,0.2887 -10.0751,-10.7043 -10.0394,-18.4249"/>
+    <path id="_328432064" fill="none" stroke="#B2B2B2" stroke-width="0.0762" d="M205.375 46.1293c-6.1945,-0.2959 -6.8141,-7.0484 -6.2022,-13.8251"/>
+    <path id="_77069688" fill="none" stroke="#B2B2B2" stroke-width="0.0762" d="M205.375 34.6131c-2.7142,-0.4667 -3.1289,-3.5774 -2.3686,-6.7799"/>
+   </g>
+   <g>
+    <path id="VenSec_0" fill="white" fill-opacity="0.301961" d="M213.045 55.8003c2.761,0 5,2.239 5,5 0,2.7609 -2.239,5 -5,5 -2.7609,0 -5,-2.2391 -5,-5 0,-2.761 2.2391,-5 5,-5z"/>
+    <path id="VenSec_01" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M213.045 55.8003c2.761,0 5,2.239 5,5 0,2.7609 -2.239,5 -5,5 -2.7609,0 -5,-2.2391 -5,-5 0,-2.761 2.2391,-5 5,-5z"/>
+   </g>
+  </g>
+ </g>

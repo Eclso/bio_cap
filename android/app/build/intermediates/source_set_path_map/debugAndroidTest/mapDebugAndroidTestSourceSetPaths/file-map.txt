@@ -1,0 +1,6 @@
+com.ifp.biotik.test.app-annotation-experimental-1.3.0-0 C:\Users\alanw\.gradle\caches\transforms-3\5996faa3da14c6f2b0dc512a02bd1879\transformed\annotation-experimental-1.3.0\res
+com.ifp.biotik.test.app-core-1.5.0-1 C:\Users\alanw\.gradle\caches\transforms-3\70cf0b09cbafaa5838730131afac7791\transformed\core-1.5.0\res
+com.ifp.biotik.test.app-androidTest-2 E:\ifp\ifp-biotik-app-ionic-master\android\app\build\generated\res\resValues\androidTest\debug
+com.ifp.biotik.test.app-mergeDebugAndroidTestResources-3 E:\ifp\ifp-biotik-app-ionic-master\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ifp.biotik.test.app-mergeDebugAndroidTestResources-4 E:\ifp\ifp-biotik-app-ionic-master\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ifp.biotik.test.app-debugAndroidTest-5 E:\ifp\ifp-biotik-app-ionic-master\android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,9 @@
+ <g id="Lamina_Line.Apex_Acuminate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="200.011" y="23.4838" width="10.9992" height="6.53261"/>
+  <path id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer"  fill="#32984B" stroke="black" stroke-width="0.0762" d="M208.371 30.1914l-5.9408 0c0.0543,-4.0752 2.3255,-3.1187 3.0099,-9.832 0.6652,6.646 2.7224,5.2586 2.9309,9.832z"/>
+  <g>
+   <polygon id="Apex" onclick="showquest('Apex')" onmousemove="showrobotip('Apex','Apex of the lamina')" onmouseout="hidetooltip('Apex')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+   <polygon id="Apex1" fill="none" stroke="black" stroke-width="0.0762" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+  </g>
+ </g>

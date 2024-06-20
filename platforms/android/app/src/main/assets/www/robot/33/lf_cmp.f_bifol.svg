@@ -1,0 +1,15 @@
+ <g id="Lf_Cmp.F_Bifol">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="LfCmp" onclick="showquest('LfCmp')" onmousemove="showrobotip('LfCmp','Type of compound leaf')" onmouseout="hidetooltip('LfCmp')"  cursor="pointer" >
+   <rect id="type_x0020_feuille_x0020_comp" fill="white" stroke="#1F1A17" stroke-width="0.0762" x="191" y="124" width="21" height="33"/>
+   <g id="F_x0020_bifol">
+    <g id="F">
+     <path id="petiole" fill="#78B43C" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M201.878 149.542c0.783,-1.83 1.7868,-2.2195 0.2858,0.3566l-0.0023 4.5631c-0.2572,0.0683 -0.4704,0.0049 -0.6398,-0.1903 0.0053,-1.5387 0.0106,-2.8122 0.0159,-4.3509 -1.8589,-3.0675 0.2705,-0.8499 0.3404,-0.3785z"/>
+     <path id="limbe_x0020_droite" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M202.557 148.699c-2.1174,-4.7014 0.189,-17.4706 4.6116,-20.8556 4.9877,3.6142 7.0317,21.5684 -4.6116,20.8556z"/>
+     <path id="limbe_x0020_gauche" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M201.113 148.719c1.602,-4.8499 -1.7921,-17.3723 -6.3554,-20.3841 -4.4613,3.9997 -4.771,22.0336 6.3554,20.3841z"/>
+    </g>
+    <path id="nerv" fill="none" stroke="black" stroke-width="0.0762" d="M194.763 128.357c0.2938,9.0646 2.2515,15.5797 6.3481,20.3666"/>
+    <path id="nerv_0" fill="none" stroke="black" stroke-width="0.0762" d="M207.168 127.865c-0.0319,8.0191 -1.2476,15.4308 -4.6091,20.831"/>
+   </g>
+  </g>
+ </g>

@@ -1,0 +1,12 @@
+ <g id="Lamina_Line.Apex_Spiny">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="200.011" y="23.4838" width="10.9992" height="6.53261"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="sommet_x0020_theo" fill="#32984B" stroke="black" stroke-width="0.0762" d="M202.367 30.1912c0.0719,-0.0001 0.0213,0 0.1088,-1.2677 0.4154,0.1451 0.497,-1.1191 0.7674,-1.6632 0.5154,0.2366 0.4295,-0.8401 0.6576,-1.2495 0.6237,0.6921 0.84,-1.4334 1.3036,-2.1121 0.4912,0.694 0.6989,2.7788 0.9608,1.4176 0.4008,0.6446 0.6455,2.1806 1.1267,2.0226 0.2112,0.4233 0.3262,1.4732 0.6064,1.2982 0.2188,0.5008 0.4261,1.0128 0.6219,1.5347 0.0062,0.0166 -5.7933,0.0189 -6.1532,0.0194z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="202.527,30.0408 208.276,30.0512 208.282,30.0807 202.521,30.0696 "/>
+  </g>
+  <g>
+   <polygon id="Apex" onclick="showquest('Apex')" onmousemove="showrobotip('Apex','Apex of the lamina')" onmouseout="hidetooltip('Apex')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+   <polygon id="Apex1" fill="none" stroke="black" stroke-width="0.0762" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+  </g>
+ </g>

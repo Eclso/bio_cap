@@ -1,0 +1,9 @@
+ <g id="Lamina_Line.Apex_Obtuse">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="200.011" y="23.4838" width="10.9992" height="6.53261"/>
+  <path id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer"  fill="#32984B" stroke="#1F1A17" stroke-width="0.0762" d="M208.405 30.1914l-6.0035 0c0.3964,-1.9133 1.898,-4.728 3.0194,-5.9862 1.2728,1.1625 2.6159,3.9834 2.9841,5.9862z"/>
+  <g>
+   <polygon id="Apex" onclick="showquest('Apex')" onmousemove="showrobotip('Apex','Apex of the lamina')" onmouseout="hidetooltip('Apex')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+   <polygon id="Apex1" fill="none" stroke="black" stroke-width="0.0762" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+  </g>
+ </g>

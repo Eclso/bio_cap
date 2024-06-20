@@ -1,0 +1,7 @@
+ <g id="VenSec_BaseAcuteNo">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <path id="VenBaseAcute" onclick="showquest('VenBaseAcute')" onmousemove="showrobotip('VenBaseAcute','Angle of lower secondary veins')" onmouseout="hidetooltip('VenBaseAcute')"  cursor="pointer"  fill="white" fill-opacity="0.149020" d="M198.905 79.5537c2.761,0 5,2.239 5,5 0,2.7609 -2.239,5 -5,5 -2.7609,0 -5,-2.2391 -5,-5 0,-2.761 2.2391,-5 5,-5z"/>
+   <path id="VenBaseAcute1" fill="none" stroke="black" stroke-width="0.0762" d="M198.905 79.5537c2.761,0 5,2.239 5,5 0,2.7609 -2.239,5 -5,5 -2.7609,0 -5,-2.2391 -5,-5 0,-2.761 2.2391,-5 5,-5z"/>
+  </g>
+ </g>

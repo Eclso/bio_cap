@@ -1,0 +1,12 @@
+ <g id="Lamina_Line.Base_Attenuate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="201.336" y="88.378" width="8.25762" height="10.6695"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="limbe" fill="#32984B" stroke="#1F1A17" stroke-width="0.0762" d="M209.285 88.2964l-7.6495 0.0361c0.1623,6.1863 3.0192,10.5954 3.789,10.5871 0.7698,-0.0083 3.8633,-4.4436 3.8605,-10.6232z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="201.712,88.2365 209.202,88.2364 209.199,88.3483 201.721,88.4028 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

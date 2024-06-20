@@ -1,0 +1,12 @@
+ <g id="Lamina_Obov.Base_Auriculate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="201.168" y="96.3832" width="8.48551" height="2.99332"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="limbe" fill="#32984B" stroke="#32984B" stroke-width="0.0762" d="M199.639 88.446l11.7765 -0.0073c-0.4602,2.3028 -0.8965,4.127 -1.3088,5.5635 1.5851,8.6312 -3.9401,3.7311 -4.7352,3.6801 -0.795,-0.0511 -6.2348,5.353 -4.5791,-3.5393 -0.3707,-1.4628 -0.7561,-3.3296 -1.1534,-5.697z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="199.723,88.4221 211.346,88.375 211.263,88.5399 199.788,88.5588 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

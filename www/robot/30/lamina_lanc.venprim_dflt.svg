@@ -1,0 +1,7 @@
+ <g id="Lamina_Lanc.VenPrim_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="VenPrim" onclick="showquest('VenPrim')" onmousemove="showrobotip('VenPrim','Primary venation')" onmouseout="hidetooltip('VenPrim')"  cursor="pointer" >
+   <path id="nervure_x0020_theo" fill="#999999" stroke="#B2B2B2" stroke-width="0.0762" d="M205.277 30.3731c0.1624,-0.1497 0.3157,-0.1111 0.3867,0.0199l0 64.4071c-0.1862,-0.0106 -0.1648,-0.0015 -0.3867,-0.0061 0,-50.9773 0,-44.6868 0,-64.4209z"/>
+   <polygon id="VenPrim_0" fill="white" fill-opacity="0.011765" points="203.694,29.303 206.899,29.303 206.899,95.4665 203.694,95.4665 "/>
+  </g>
+ </g>

@@ -1,0 +1,8 @@
+ <g id="Latex_Yellow">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Latex" onclick="showquest('Latex')" onmousemove="showrobotip('Latex','Latex or exudate present?')" onmouseout="hidetooltip('Latex')"  cursor="pointer" >
+   <path id="entaille" fill="white" stroke="black" stroke-width="0.0762" d="M115.961 154.36c8.1134,2.6168 6.6469,1.777 6.7407,9.7788 -1.8866,-3.9792 -9.4602,-10.656 -6.7407,-9.7788z"/>
+   <path id="Gutelette" fill="#FAC846" stroke="black" stroke-width="0.0762" d="M117.538 156.068c4.1419,2.231 5.5115,6.6218 2.7127,7.5361 -4.8913,1.2727 -1.1962,-4.2024 -2.7127,-7.5361z"/>
+   <path id="Goutte" fill="#FAC846" stroke="black" stroke-width="0.0762" d="M121.869 159.414c8.1398,2.3454 13.1001,10.2992 8.5241,12.976 -6.7256,3.4003 -7.6111,-1.6997 -6.6156,-6.9966 0.2823,-1.1553 -0.5552,-3.8698 -1.9085,-5.9794z"/>
+  </g>
+ </g>

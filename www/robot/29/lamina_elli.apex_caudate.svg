@@ -1,0 +1,12 @@
+ <g id="Lamina_Elli.Apex_Caudate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="196.961" y="22.0968" width="17.1008" height="12.5406"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="sommet" fill="#32984B" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M213.957 35.252c-0.9118,-2.0416 -5.8664,-5.5145 -6.1671,-5.7149 -0.4493,-0.2996 -1.3025,-2.1748 -1.5427,-2.7943 -0.2022,-0.5944 -0.7839,-3.5784 -0.8725,-4.3118 -0.0125,0.7587 -0.4552,3.7302 -0.67,4.3118 -0.2276,0.5942 -1.066,2.3864 -1.5932,2.9587 -0.3614,0.3924 -5.2679,3.5622 -6.1971,5.576 4.9262,0.1433 12.4496,-0.0254 17.0426,-0.0255z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="197.179,34.964 213.664,34.964 213.795,35.2159 197.04,35.2144 "/>
+  </g>
+  <g>
+   <polygon id="Apex" onclick="showquest('Apex')" onmousemove="showrobotip('Apex','Apex of the lamina')" onmouseout="hidetooltip('Apex')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+   <polygon id="Apex1" fill="none" stroke="black" stroke-width="0.0762" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+  </g>
+ </g>

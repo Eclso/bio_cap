@@ -1,0 +1,12 @@
+ <g id="Lamina_Loba.Base_Truncate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="180.344" y="89.9385" width="49.5749" height="9.84548"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="limbe" fill="#32984B" stroke="#1F1A17" stroke-width="0.0762" d="M180.672 89.7927l49.3101 0.0021c-2.7074,6.8798 -11.0276,9.3028 -24.7941,9.3575 -12.8625,0.0512 -21.9494,-3.1233 -24.516,-9.3596z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="180.765,89.791 229.892,89.7861 229.871,89.831 180.79,89.8502 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

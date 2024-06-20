@@ -1,0 +1,12 @@
+ <g id="Lamina_Lanc.Apex_Acute">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="196.961" y="22.0968" width="17.1008" height="12.8698"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <polygon id="forme_x0020_limbe" fill="#32984B" stroke="black" stroke-width="0.0762" points="211.53,35.0416 199.483,35.0492 205.418,18.0666 "/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="199.606,34.964 211.415,34.964 211.524,35.2159 199.506,35.2144 "/>
+  </g>
+  <g>
+   <polygon id="Apex" onclick="showquest('Apex')" onmousemove="showrobotip('Apex','Apex of the lamina')" onmouseout="hidetooltip('Apex')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+   <polygon id="Apex1" fill="none" stroke="black" stroke-width="0.0762" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+  </g>
+ </g>

@@ -1,0 +1,12 @@
+ <g id="Lamina_Elli.Base_Acute">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="197.089" y="90.5478" width="16.7774" height="7.62466"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="base_x0020_étroite_x0020_atténué" fill="#32984B" stroke="#1F1A17" stroke-width="0.0762" stroke-linejoin="bevel" d="M196.7 89.8896c1.4791,2.0335 4.2843,4.8643 7.9417,10.2105 0.7706,-0.0012 0.9188,0.0211 1.7269,0.0191 1.7409,-2.8437 4.0287,-5.6059 7.3914,-10.236l-17.06 0.0064z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="196.79,89.882 213.679,89.8681 213.547,90.1279 196.917,90.1279 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

@@ -1,0 +1,7 @@
+ <g id="Lamina_Loba.UVenSec_No">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <path id="VenSec" onclick="showquest('VenSec')" onmousemove="showrobotip('VenSec','Type of secondary venation')" onmouseout="hidetooltip('VenSec')"  cursor="pointer"  fill="white" fill-opacity="0.149020" d="M220 55.8003c2.761,0 5,2.239 5,5 0,2.7609 -2.239,5 -5,5 -2.7609,0 -5,-2.2391 -5,-5 0,-2.761 2.2391,-5 5,-5z"/>
+   <path id="VenSec1" fill="none" stroke="black" stroke-width="0.0762" d="M220 55.8003c2.761,0 5,2.239 5,5 0,2.7609 -2.239,5 -5,5 -2.7609,0 -5,-2.2391 -5,-5 0,-2.761 2.2391,-5 5,-5z"/>
+  </g>
+ </g>

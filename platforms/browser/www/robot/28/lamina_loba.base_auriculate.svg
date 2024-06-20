@@ -1,0 +1,11 @@
+ <g id="Lamina_Loba.Base_Auriculate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="limbe" fill="#32984B" stroke="#1F1A17" stroke-width="0.0762" d="M180.672 89.7927l49.3101 0.0021c-0.6953,1.6845 -1.8595,3.2819 -3.4364,4.6299 -2.0206,10.8555 -11.8741,5.549 -21.3577,2.0457 -8.371,3.424 -19.1632,9.6115 -20.3999,-1.6103 -1.9331,-1.4461 -3.3542,-3.2161 -4.1161,-5.0674z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="180.765,89.791 229.892,89.7861 229.871,89.831 180.79,89.8502 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

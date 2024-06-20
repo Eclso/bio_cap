@@ -1,0 +1,14 @@
+ <g id="Latex_No">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Latex" onclick="showquest('Latex')" onmousemove="showrobotip('Latex','Latex or exudate present?')" onmouseout="hidetooltip('Latex')"  cursor="pointer" >
+   <g id="latex" onclick="showquest('latex')" onmousemove="showrobotip('latex','Latex or exudate present?')" onmouseout="hidetooltip('latex')"  cursor="pointer" >
+    <path id="entaille" fill="white" stroke="#7F7F7F" stroke-width="0.0762" d="M115.961 154.36c8.1134,2.6168 6.6469,1.777 6.7407,9.7788 -1.8866,-3.9792 -9.4602,-10.656 -6.7407,-9.7788z"/>
+    <path id="Gutelette" fill="white" stroke="#7F7F7F" stroke-width="0.0762" d="M117.538 156.068c4.1419,2.231 5.5115,6.6218 2.7127,7.5361 -4.8913,1.2727 -1.1962,-4.2024 -2.7127,-7.5361z"/>
+    <path id="Goutte" fill="white" stroke="#7F7F7F" stroke-width="0.0762" d="M121.869 159.414c8.1398,2.3454 13.1001,10.2992 8.5241,12.976 -6.7256,3.4003 -7.6111,-1.6997 -6.6156,-6.9966 0.2823,-1.1553 -0.5552,-3.8698 -1.9085,-5.9794z"/>
+   </g>
+   <g id="croix">
+    <path id="_331421824" fill="red" stroke="#7F7F7F" stroke-width="0.0762" d="M119.878 157.982l0.0263 -0.0306c0.2463,-0.2866 0.6873,-0.3258 0.9688,-0.0737l13.6224 12.2042c0.5778,0.5175 0.3963,0.9984 -0.3094,0.4252l-14.2344 -11.5562c-0.2933,-0.2382 -0.3199,-0.6821 -0.0737,-0.9689z"/>
+    <path id="_331420048" fill="red" stroke="#7F7F7F" stroke-width="0.0762" d="M120.507 170.642l0.0263 0.0306c0.2463,0.2866 0.6873,0.3258 0.9688,0.0737l13.6224 -12.2042c0.5778,-0.5175 0.3963,-0.9984 -0.3094,-0.4252l-14.2344 11.5562c-0.2933,0.2382 -0.3199,0.6821 -0.0737,0.9689z"/>
+   </g>
+  </g>
+ </g>

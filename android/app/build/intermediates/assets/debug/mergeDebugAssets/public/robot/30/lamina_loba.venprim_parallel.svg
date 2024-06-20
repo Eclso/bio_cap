@@ -1,0 +1,25 @@
+ <g id="Lamina_Loba.VenPrim_Parallel">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="VenPrim" onclick="showquest('VenPrim')" onmousemove="showrobotip('VenPrim','Primary venation')" onmouseout="hidetooltip('VenPrim')"  cursor="pointer" >
+   <g id="lamina_loba.prim_parallel.cdr">
+    <g id="nervures">
+     <path id="_336208024" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.189 27.8869c-7.2164,26.3919 -17.4441,51.088 -0.0623,68.1446"/>
+     <path id="_336207536" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M204.99 28.0863c-11.5643,28.4869 -27.7206,53.1173 0.1272,68.1392"/>
+     <path id="_336172600" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.217 27.7971c-15.9185,33.6747 -40.5608,55.1894 -0.077,68.5883"/>
+     <path id="_336136696" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.453 27.8667c6.2354,29.3759 35.8058,41.86 -0.2539,68.2004"/>
+     <path id="_335856488" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.528 28.1205c10.1275,32.3479 46.8956,48.6252 -0.3394,68.1103"/>
+     <path id="_17706856" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.189 27.887c0.024,14.9734 -6.7943,46.4786 -0.0628,68.1445"/>
+     <path id="_17706752" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.964 32.1506c11.9616,27.0965 16.9739,49.6106 -0.1295,62.8378"/>
+     <path id="_81941104" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M206.081 35.4181c5.7001,16.3306 7.9803,38.1047 -1.1401,59.8787"/>
+     <path id="_80303520" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M230.371 81.0559c-6.0467,11.8522 -11.7824,13.8351 -25.1824,15.1749"/>
+     <path id="_76418360" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M230.672 87.1712c-8.3483,10.3607 -12.0765,10.4383 -25.4665,9.0023"/>
+     <path id="_335751880" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M223.34 52.2886c7.6369,10.8957 9.0956,17.3538 7.031,28.7672"/>
+     <path id="_335751776" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M180.606 81.137c6.0467,11.8523 11.7824,13.8352 25.1824,15.175"/>
+     <path id="_333916760" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M180.304 87.2523c8.3482,10.3608 12.0764,10.4384 25.4664,9.0024"/>
+     <path id="_80309928" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M187.637 52.3698c-7.6369,10.8957 -9.0956,17.3538 -7.031,28.7672"/>
+    </g>
+    <path id="nervure_x0020_theo" fill="black" d="M204.974 30.3886c0.1625,-0.1534 0.3157,-0.1139 0.3868,0.0203l0 65.9764c-0.1863,-0.0108 -0.1648,-0.0015 -0.3868,-0.0062 0,-52.2194 0,-45.7756 0,-65.9905z"/>
+   </g>
+   <polygon id="VenPrim_0" fill="white" fill-opacity="0.011765" points="203.694,29.303 206.899,29.303 206.899,95.4665 203.694,95.4665 "/>
+  </g>
+ </g>

@@ -1,0 +1,64 @@
+ <g id="LfGlands_LinesTrans">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="LfGlands" onclick="showquest('LfGlands')" onmousemove="showrobotip('LfGlands','Lamiar glands')" onmouseout="hidetooltip('LfGlands')"  cursor="pointer" >
+   <ellipse id="laminar_x0020_dots" fill="white" stroke="black" stroke-width="0.0762" cx="189.283" cy="11.2135" rx="9.5795" ry="9.1885"/>
+   <g id="margin" onclick="showquest('margin')" onmousemove="showrobotip('margin','Margin of the lamina')" onmouseout="hidetooltip('margin')"  cursor="pointer" >
+    <path id="limbe" fill="#A6D10D" stroke="black" stroke-width="0.0762" d="M189.775 2.0637c3.4454,3.8348 5.1504,11.2739 6.4448,15.457 -3.8336,3.6458 -9.6499,3.8339 -13.7264,0.1741 -2.2693,-2.2237 -4.4379,-7.3152 -0.738,-12.1641 2.3112,-2.7898 5.1966,-3.5764 8.0196,-3.467z"/>
+    <g id="n_x0020_sommet_x0020_II">
+     <path id="_337765584" fill="#CCCCCC" fill-rule="nonzero" stroke="black" stroke-width="0.0762" d="M192.717 19.7937c0.5775,-1.1842 0.7878,-1.8282 1.063,-2.8549 0.9637,-3.5959 0.1272,-6.4229 -2.1242,-9.8592l0.0334 -0.0155c2.256,3.4434 3.0942,6.2768 2.128,9.8817 -0.2747,1.0249 -0.4753,1.6482 -1.0507,2.8295l-0.0495 0.0184z"/>
+     <path id="_328696448" fill="#CCCCCC" fill-rule="nonzero" stroke="black" stroke-width="0.0762" d="M187.632 20.2601c1.9368,-3.223 3.2157,-6.1252 3.7617,-8.6819 0.7565,-3.5429 0.106,-6.4228 -2.1502,-8.5752l0.0284 -0.0214c2.2647,2.1605 2.918,5.0493 2.1593,8.6023 -0.5458,2.556 -1.8229,5.4561 -3.7564,8.6762l-0.0428 0z"/>
+     <path id="_81672528" fill="#CCCCCC" fill-rule="nonzero" stroke="black" stroke-width="0.0762" d="M184.908 16.2672c2.0094,-3.2843 3.7088,-6.4041 4.3241,-9.1075 0.4337,-1.9057 0.3282,-3.6043 -0.5877,-5.0077l0.044 0c0.9112,1.4071 1.015,3.1075 0.5812,5.0137 -0.6161,2.7071 -2.3168,5.8295 -4.3277,9.1162l-0.0339 -0.0147z"/>
+     <path id="_337499176" fill="#CCCCCC" fill-rule="nonzero" stroke="black" stroke-width="0.0762" d="M184.989 8.9969c1.4839,-3.4266 2.2258,-5.4023 2.3089,-6.7503l0.0389 -0.0078c-0.083,1.3519 -0.8264,3.3384 -2.312,6.7688l-0.0358 -0.0107z"/>
+    </g>
+    <g id="n_x0020_sommet_x0020_II_0">
+     <path id="_336026104" fill="#CCCCCC" fill-rule="nonzero" stroke="black" stroke-width="0.0762" d="M184.862 16.1487c-2.0078,-3.3494 -3.5928,-6.227 -4.1799,-8.9859 0.2332,0.813 0.07,0.3101 0,-0.0001 0.5863,2.7551 2.2075,5.6245 4.2139,8.9715l-0.034 0.0145z"/>
+     <path id="_84082472" fill="#CCCCCC" fill-rule="nonzero" stroke="black" stroke-width="0.0762" d="M184.896 8.7342c-1.3374,-2.9935 -1.6086,-3.1604 -1.8001,-4.4457l-0.0123 -0.0799c0.1918,1.2821 0.5128,1.5263 1.8484,4.5158l-0.036 0.0098z"/>
+    </g>
+    <polygon id="nerv_x0020_I" fill="black" points="185.014,3.2054 185.014,19.2217 184.583,19.2217 184.583,3.2054 "/>
+   </g>
+   <g id="A_Dots">
+    <circle id="_79669264" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 185.845 11.5562)" r="1.3688"/>
+    <circle id="_328354360" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 190.667 7.55441)" r="1.3688"/>
+    <circle id="_336526968" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 188.222 3.67282)" r="1.3688"/>
+    <circle id="_329969624" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 186.818 18.8937)" r="1.3688"/>
+    <circle id="_338400496" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 191.443 17.8248)" r="1.3688"/>
+    <circle id="_328350808" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 190.062 11.1953)" r="1.3688"/>
+    <circle id="_338364848" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 195.006 17.1904)" r="1.3688"/>
+    <circle id="_329925816" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 192.712 10.8952)" r="1.3688"/>
+    <circle id="_336008856" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 190.974 4.48036)" r="1.3688"/>
+    <circle id="_336184984" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 188.369 12.8472)" r="1.3688"/>
+    <circle id="_337131056" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 191.919 15.5178)" r="1.3688"/>
+    <circle id="_83203072" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 188.125 6.25925)" r="1.3688"/>
+    <circle id="_336022904" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.465328 0.348776 -0.204263 0.045423 187.011 16.0382)" r="1.3688"/>
+    <circle id="_338498080" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.488441 0.3661 0.214409 0.0476792 182.182 9.15295)" r="1.3688"/>
+    <circle id="_514078448" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.488441 0.3661 0.214409 0.0476792 183.538 11.2041)" r="1.3688"/>
+    <circle id="_514046688" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.488441 0.3661 0.214409 0.0476792 183.148 16.5729)" r="1.3688"/>
+    <circle id="_82063664" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.488441 0.3661 0.214409 0.0476792 181.196 13.4001)" r="1.3688"/>
+    <circle id="_513882080" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.24354 0.0492986 0.0492986 0.24354 186.349 8.63701)" r="1.3688"/>
+    <circle id="_79589952" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.24354 0.0492986 -0.0492986 0.24354 188.941 2.94532)" r="1.3688"/>
+    <circle id="_328340176" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.24354 0.0492986 -0.0492986 0.24354 185.782 3.91685)" r="1.3688"/>
+    <circle id="_326294224" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.24354 0.0492986 -0.0492986 0.24354 187.707 14.8151)" r="1.3688"/>
+    <circle id="_335663072" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.24354 0.0492986 -0.0492986 0.24354 191.458 8.7655)" r="1.3688"/>
+    <circle id="_336010992" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.240949 0.0607128 0.0607128 0.240949 181.954 6.96195)" r="1.3688"/>
+    <circle id="_81959480" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.155281 0.0314327 0.0314327 0.155281 182.702 14.6469)" r="1.3688"/>
+    <circle id="_329958088" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.155281 0.0314327 0.0314327 0.155281 181.163 15.4373)" r="1.3688"/>
+    <circle id="_338276640" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.155281 0.0314327 0.0314327 0.155281 192.616 19.4079)" r="1.3688"/>
+    <circle id="_330474200" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.155281 0.0314327 -0.0314327 0.155281 180.827 10.8444)" r="1.3688"/>
+    <circle id="_335854032" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.155281 0.0314327 -0.0314327 0.155281 193.342 12.8971)" r="1.3688"/>
+    <circle id="_336786176" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.155281 0.0314327 -0.0314327 0.155281 185.538 13.7472)" r="1.3688"/>
+    <circle id="_336113528" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.155281 0.0314327 -0.0314327 0.155281 185.414 10.1747)" r="1.3688"/>
+    <circle id="_336543048" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.153628 0.0387103 0.0387103 0.153628 189.37 18.8932)" r="1.3688"/>
+    <circle id="_336433256" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.153628 0.0387103 0.0387103 0.153628 183.884 5.15164)" r="1.3688"/>
+    <circle id="_336340472" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.153628 0.0387103 0.0387103 0.153628 192.379 14.6964)" r="1.3688"/>
+    <circle id="_337929760" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.153628 0.0387103 0.0387103 0.153628 189.686 12.6376)" r="1.3688"/>
+    <circle id="_331573560" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.153628 0.0387103 0.0387103 0.153628 186.361 12.6168)" r="1.3688"/>
+    <circle id="_331520600" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.153628 0.0387103 0.0387103 0.153628 185.782 6.21043)" r="1.3688"/>
+    <circle id="_331506376" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.153628 0.0387103 0.0387103 0.153628 190.208 5.89399)" r="1.3688"/>
+    <circle id="_331459632" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(0.24354 0.0492986 -0.0492986 0.24354 187.686 17.8736)" r="1.3688"/>
+    <circle id="_330473624" fill="white" stroke="#7F7F7F" stroke-width="0.0762" transform="matrix(-0.153628 0.0387103 0.0387103 0.153628 180.961 8.77386)" r="1.3688"/>
+   </g>
+  </g>
+  <g>
+   <path id="A_Array" fill="#663333" fill-rule="nonzero" d="M193.571 22.3117l7.501 17.7347 -0.6476 0.2728 -7.501 -17.7347 0.6476 -0.2728zm-1.2867 -2.1404l3.8577 3.7092 -0.1462 -0.0075 -0.1446 -0.0037 -0.143 0.0002 -0.1414 0.0039 -0.1398 0.0077 -0.1382 0.0115 -0.1366 0.0153 -0.135 0.0191 -0.1333 0.0229 -0.1318 0.0267 -0.1302 0.0304 -0.1286 0.0343 -0.1269 0.038 -0.1254 0.0419 -0.1237 0.0456 -0.1222 0.0495 -0.1205 0.0532 -0.119 0.057 -0.1173 0.0608 -0.1157 0.0646 -0.1142 0.0684 -0.1125 0.0722 -0.1109 0.0759 -0.1093 0.0798 -0.1078 0.0836 -0.1061 0.0873 -0.1045 0.0912 -0.1029 0.0949 -0.1013 0.0987 -0.0997 0.1025 -0.0981 0.1063 -0.0965 0.1101 0 0 0.0255 -5.3515z"/>
+  </g>
+ </g>

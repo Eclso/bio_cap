@@ -1,0 +1,38 @@
+ <g id="Phyllo_Dflt.Stem_Spiny">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="StmPilo" onclick="showquest('StmPilo')" onmousemove="showrobotip('StmPilo','Surface of the branchlets')" onmouseout="hidetooltip('StmPilo')"  cursor="pointer" >
+   <path id="Tige" fill="#F0965A" stroke="black" stroke-width="0.0762" d="M107.582 88.7826c0.1507,2.7005 0,13.2692 -0.0392,28.0337 -42.3087,-22.0325 -71.6345,-33.0358 0.0741,6.4952 0.0989,15.8633 -0.0349,35.0198 -0.0349,42.4305 2.3671,2.5249 13.2486,2.5248 15.1423,0 0,-8.0669 -0.1107,-19.2579 -0.2403,-30.9862 19.0018,-9.9511 38.6395,-21.3832 44.4564,-25.0651 0.5171,-0.2559 1.6054,-1.8002 -1.7953,-0.3358 -6.2444,2.113 -24.9193,9.9126 -42.7489,17.5704 0.0416,-13.9164 0.0416,-28.2228 0.0416,-37.8573 -6.4796,-0.1134 -10.7483,-0.2736 -14.8558,-0.2854z"/>
+   <g id="stip_1">
+    <polygon id="_332742872" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="110.242,123.214 119.647,126.774 109.995,123.994 "/>
+    <polygon id="_332741320" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="107.091,121.945 99.3596,124.044 107.356,122.69 "/>
+   </g>
+   <g id="stip_5">
+    <polygon id="_513898448" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="121.093,135.903 117.005,145.739 119.964,135.788 "/>
+    <polygon id="_513896896" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="122.3,133.661 131.715,134.102 122.234,134.587 "/>
+   </g>
+   <g id="stip_3">
+    <polygon id="_78010000" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="82.7083,107.855 76.9956,109.406 82.9039,108.406 "/>
+    <polygon id="_512766664" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="84.9167,108.549 88.0721,115.62 84.3563,108.836 "/>
+   </g>
+   <g id="stip_4">
+    <polygon id="_512766072" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="66.0105,98.0817 64.3907,95.8953 66.2379,97.9386 "/>
+    <polygon id="_512764536" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="66.6997,98.5338 68.9277,98.2959 66.6901,98.3518 "/>
+   </g>
+   <g id="stip_7">
+    <polygon id="_328887848" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="149.137,119.433 148.25,127.937 148.242,119.603 "/>
+    <polygon id="_328886208" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="149.55,117.431 156.893,115.608 149.712,118.159 "/>
+   </g>
+   <g id="stip_8">
+    <polygon id="_333882104" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="91.4307,109.554 89.3495,104.753 91.9191,109.386 "/>
+    <polygon id="_333880976" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="93.9102,109.928 98.2182,112.9 93.5853,110.33 "/>
+   </g>
+   <g id="stip_6">
+    <polygon id="_333879800" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="140.924,119.286 143.046,114.389 140.426,119.113 "/>
+    <polygon id="_77623224" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="139.697,120.11 135.62,121.118 139.629,119.701 "/>
+   </g>
+   <g id="stip_2">
+    <polygon id="_77622032" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="165.894,109.472 167.235,105.092 165.545,109.343 "/>
+    <polygon id="_333488896" fill="white" fill-rule="nonzero" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="165.208,109.868 161.189,111.088 165.118,109.463 "/>
+   </g>
+  </g>
+ </g>

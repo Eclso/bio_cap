@@ -1,0 +1,13 @@
+ <g id="Lamina_Orbi.VenPrim_Suprabasal">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="VenPrim" onclick="showquest('VenPrim')" onmousemove="showrobotip('VenPrim','Primary venation')" onmouseout="hidetooltip('VenPrim')"  cursor="pointer" >
+   <g id="lamina_orbi.prim_suprabasal.cdr">
+    <path id="nervure_x0020_theo" fill="black" stroke="black" stroke-width="0.0762" d="M205.161 30.3849c0.1625,-0.1477 0.3157,-0.1096 0.3868,0.0196l0 63.5511c-0.1863,-0.0105 -0.1648,-0.0015 -0.3868,-0.0061 0,-50.2996 0,-44.0928 0,-63.5646z"/>
+    <g id="basales">
+     <path id="nervure_x0020_latérale" fill="black" d="M221.888 43.0819c11.058,10.2348 5.7994,36.0673 -16.3781,42.0156 -0.1654,0.0455 -0.3744,-0.3867 -0.1164,-0.4865 11.6471,-2.7235 29.7451,-21.9161 16.4945,-41.5291z"/>
+     <path id="nervure_x0020_latérale_0" fill="black" d="M188.855 43.0819c-11.058,10.2348 -5.7994,36.0673 16.3781,42.0156 0.1654,0.0455 0.3743,-0.3867 0.1164,-0.4865 -11.6472,-2.7235 -29.7452,-21.9161 -16.4945,-41.5291z"/>
+    </g>
+   </g>
+   <polygon id="VenPrim_1" fill="white" fill-opacity="0.011765" points="203.694,29.303 206.899,29.303 206.899,95.4665 203.694,95.4665 "/>
+  </g>
+ </g>

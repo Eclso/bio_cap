@@ -1,0 +1,11 @@
+ <g id="Lamina_Lanc.Base_Retuse">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="forme_x0020_limbe" fill="#32984B" stroke="#1F1A17" stroke-width="0.0762" d="M217.211 89.8084l-23.5673 -0.037c0.8295,1.7971 1.9399,3.2335 3.2578,4.3356 2.3493,1.9645 6.0257,6.0376 8.6119,2.8541 2.2264,3.1577 6.3957,-1.0391 8.5484,-2.9096 1.2916,-1.1222 2.3381,-2.5486 3.1492,-4.2431z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="193.728,89.7473 217.173,89.7156 217.013,89.9932 193.86,89.9932 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

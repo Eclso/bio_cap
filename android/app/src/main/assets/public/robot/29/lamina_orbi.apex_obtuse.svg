@@ -1,0 +1,12 @@
+ <g id="Lamina_Orbi.Apex_Obtuse">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="185.938" y="25.7467" width="39.6786" height="9.33827"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="limbe" fill="#32984B" stroke="black" stroke-width="0.0762" d="M224.87 35.3739l-38.573 -0.012c5.1656,-5.4167 12.5731,-8.4751 19.142,-11.2123 6.6734,2.8482 13.9831,5.4839 19.431,11.2243z"/>
+   <polygon id="_340078000" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="186.467,35.3149 224.691,35.3164 224.764,35.3925 186.413,35.3667 "/>
+  </g>
+  <g>
+   <polygon id="Apex" onclick="showquest('Apex')" onmousemove="showrobotip('Apex','Apex of the lamina')" onmouseout="hidetooltip('Apex')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+   <polygon id="Apex1" fill="none" stroke="black" stroke-width="0.0762" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+  </g>
+ </g>

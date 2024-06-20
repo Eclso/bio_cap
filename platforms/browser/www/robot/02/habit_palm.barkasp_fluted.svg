@@ -1,0 +1,12 @@
+ <g id="Habit_Palm.BarkAsp_Fluted">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="BarkAsp" onclick="showquest('BarkAsp')" onmousemove="showrobotip('BarkAsp','Base of the trunk')" onmouseout="hidetooltip('BarkAsp')"  cursor="pointer" >
+   <path id="_83044592" fill="none" stroke="black" stroke-width="0.0762" d="M33.0773 173.798c6.444,-32.6136 12.5861,-93.6163 14.1531,-108.136"/>
+   <path id="_83043552" fill="none" stroke="black" stroke-width="0.0762" d="M44.1414 174.037c-3.9738,-25.4669 5.5812,-92.7722 6.4337,-105.601"/>
+   <path id="_327262144" fill="none" stroke="black" stroke-width="0.0762" d="M38.2435 174.037c2.1071,-27.299 8.2463,-85.4056 9.9894,-100.666"/>
+   <g>
+    <polygon id="RACINE" fill="white" fill-opacity="0.149020" points="12.3402,173.83 12.3402,160.171 39.6593,160.171 39.6593,173.83 "/>
+    <polygon id="RACINE1" fill="none" stroke="black" stroke-width="0.0762" points="12.3402,173.83 12.3402,160.171 39.6593,160.171 39.6593,173.83 "/>
+   </g>
+  </g>
+ </g>

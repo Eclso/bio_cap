@@ -1,0 +1,7 @@
+ <g id="BarkSurf_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <polygon id="BarkSurf" onclick="showquest('BarkSurf')" onmousemove="showrobotip('BarkSurf','Bark surface')" onmouseout="hidetooltip('BarkSurf')"  cursor="pointer"  fill="white" fill-opacity="0.301961" points="43.6654,134.131 35.5346,134.131 35.5346,117.869 43.6654,117.869 "/>
+   <polygon id="BarkSurf1" fill="none" stroke="#838281" stroke-width="0.0762" points="43.6654,134.131 35.5346,134.131 35.5346,117.869 43.6654,117.869 "/>
+  </g>
+ </g>

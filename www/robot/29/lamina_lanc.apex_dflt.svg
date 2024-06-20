@@ -1,0 +1,12 @@
+ <g id="Lamina_Lanc.Apex_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="196.961" y="22.0968" width="17.1008" height="12.8698"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="forme_x0020_limbe" fill="#A6D10D" stroke="#B2B2B2" stroke-width="0.0762" d="M211.53 35.0416l-12.0468 0.0076c2.0472,-4.9775 4.1518,-8.8667 5.9353,-10.8782 1.8153,1.8128 3.9948,5.7373 6.1115,10.8706z"/>
+   <polygon id="cache" fill="#A6D10D" stroke="#A6D10D" stroke-width="0.0762" points="199.606,34.964 211.403,34.964 211.507,35.2159 199.506,35.2144 "/>
+  </g>
+  <g>
+   <polygon id="Apex" onclick="showquest('Apex')" onmousemove="showrobotip('Apex','Apex of the lamina')" onmouseout="hidetooltip('Apex')"  cursor="pointer"  fill="white" fill-opacity="0.301961" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+   <polygon id="Apex1" fill="none" stroke="#7F7F7F" stroke-width="0.0762" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+  </g>
+ </g>

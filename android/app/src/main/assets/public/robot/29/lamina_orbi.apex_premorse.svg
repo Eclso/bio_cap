@@ -1,0 +1,12 @@
+ <g id="Lamina_Orbi.Apex_Premorse">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="185.938" y="25.7467" width="39.6786" height="9.33827"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="limbe" fill="#32984B" stroke="black" stroke-width="0.0762" d="M224.87 35.3739l-38.573 -0.012c0.7501,-0.7688 2.4755,-1.1291 2.3347,-2.1642 1.2308,0.7525 1.9418,-0.5501 2.2511,-1.7102 1.5365,2.8887 2.3186,-1.1465 2.7611,-1.6769 0.0834,3.5511 3.1017,-2.2646 2.959,-2.8655 2.1765,4.3559 1.9765,0.7266 2.8912,-1.4918 1.0685,1.6294 6.2397,1.5879 5.9728,-0.0254 -0.0369,0.9195 2.7679,2.2926 3.2246,0.4784 0.3212,1.4544 2.8895,2.2105 2.2212,0.0411 0.6412,0.8648 1.5273,5.1528 2.5174,2.1537 0.4297,2.016 1.2181,1.4301 1.3627,0.4953 0.4671,2.0013 2.7916,1.4532 3.0122,0.2377 0.8758,1.8281 1.9987,4.4492 3.1815,3.1789 0.6952,2.0749 2.6629,2.1127 3.8835,3.3609z"/>
+   <polygon id="_329842296" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="186.467,35.3149 224.691,35.3164 224.764,35.3925 186.413,35.3667 "/>
+  </g>
+  <g>
+   <polygon id="Apex" onclick="showquest('Apex')" onmousemove="showrobotip('Apex','Apex of the lamina')" onmouseout="hidetooltip('Apex')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+   <polygon id="Apex1" fill="none" stroke="black" stroke-width="0.0762" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+  </g>
+ </g>

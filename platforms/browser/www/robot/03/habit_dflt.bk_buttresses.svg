@@ -1,0 +1,8 @@
+ <g id="Habit_Dflt.Bk_Buttresses">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Roots" onclick="showquest('Roots')" onmousemove="showrobotip('Roots','Type of roots')" onmouseout="hidetooltip('Roots')"  cursor="pointer" >
+   <path id="_339259680" fill="#EE9719" stroke="#1F1A17" stroke-width="0.0762" stroke-linejoin="bevel" d="M26.3099 143.56c-4.684,11.3146 -21.8593,26.4138 -21.7682,30.9454 3.2848,-1.3076 8.5112,0.3759 13.0662,-0.0202 1.9164,-6.539 -2.288,-17.4007 4.7076,-18.739l3.9944 -12.1862z"/>
+   <path id="_82828640" fill="#EE9719" stroke="#1F1A17" stroke-width="0.0762" stroke-linejoin="bevel" d="M50.6705 156.111c19.2834,15.5119 28.2417,5.0454 28.4851,17.7893 0.1216,-0.2736 -7.6346,-2.4333 -11.6796,0.0915 -4.0455,-9.5506 -10.9891,1.4454 -16.6161,0.0463l-0.1894 -17.9271z"/>
+   <path id="_82827968" fill="#EE9719" stroke="#1F1A17" stroke-width="0.0762" stroke-linejoin="bevel" d="M39.1848 151.502c-9.9009,18.2377 -18.6551,10.9425 -17.613,22.5805 5.8712,-0.8338 7.7471,0.9376 8.7893,-0.139 0.9033,-13.6528 7.0868,-2.9876 10.0744,-9.4842l-1.2507 -12.9573z"/>
+  </g>
+ </g>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+ viewBox="0 0 240 180"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<a>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="VenSec_BaseAcuteYes" onclick="parent.replacechar('VenSec_BaseAcuteYes')" onmousemove="parent.showtooltip('VenSec_BaseAcuteYes', 'Lower pairs of secondary veins acute')" onmouseout="parent.hidetooltip('VenSec_BaseAcuteYes')" cursor="pointer" >
+   <path id="pas_x0020_visible" fill="#A6D10D" stroke="#CCCCCC" stroke-width="0.0762" stroke-linejoin="bevel" d="M179.893 160.8l-0.5663 -7.0787c-6.7478,-4.5304 -15.2898,-6.1348 -20.3388,-13.7329 -5.0499,-7.5506 -10.1464,-20.8109 -10.2408,-32.0899 -0.0468,-11.3259 2.5016,-23.6899 7.3619,-37.2809 5.0021,-13.6854 12.9688,-29.6042 24.672,-44.5641 12.0808,14.2048 16.8558,29.5107 22.6131,43.3848 5.3796,13.2135 8.1644,26.285 7.8337,39.9235 -0.33,11.7976 -5.1911,23.6899 -10.4289,30.7685 -5.2386,7.3141 -11.5975,9.9221 -17.921,13.9805l-1.2861 6.6892 -1.6988 0z"/>
+   <g id="n_x0020_sommet">
+    <path id="nervure" fill="none" stroke="black" stroke-width="0.0762" d="M180.792 113.651c-19.6439,-9.0723 -24.3108,-13.5871 -25.7967,-24.634"/>
+    <path id="nervure_0" fill="none" stroke="black" stroke-width="0.0762" d="M180.158 98.2542c-15.2203,-7.6427 -23.5058,-15.5968 -22.8215,-24.3179"/>
+    <path id="nervure_1" fill="none" stroke="black" stroke-width="0.0762" d="M180.512 81.3252c-10.4706,-6.0351 -19.0049,-12.0929 -17.136,-20.0381"/>
+    <path id="nervure_2" fill="none" stroke="black" stroke-width="0.0762" d="M180.676 61.3948c-12.0942,-9.1261 -12.895,-10.9748 -10.4678,-15.4192"/>
+   </g>
+   <g id="n_x0020_sommet_3">
+    <path id="nervure_4" fill="none" stroke="black" stroke-width="0.0762" d="M180.858 112.102c15.6841,-6.6391 24.4683,-14.0388 24.3513,-22.7859"/>
+    <path id="nervure_5" fill="none" stroke="black" stroke-width="0.0762" d="M180.833 93.8633c11.8923,-5.8616 21.6665,-11.8859 20.1861,-20.7169"/>
+    <path id="nervure_6" fill="none" stroke="black" stroke-width="0.0762" d="M181.143 73.2151c14.2371,-9.3581 15.2707,-11.3742 12.8712,-16.5385"/>
+    <path id="nervure_7" fill="none" stroke="black" stroke-width="0.0762" d="M180.993 53.3836c9.6234,-6.3255 10.322,-7.6882 8.7001,-11.1789"/>
+   </g>
+   <path id="nervure_8" fill="none" stroke="black" stroke-width="0.0762" d="M181.035 153.018c17.2357,-21.9547 17.1509,-21.687 24.9735,-38.391"/>
+   <path id="nervure_9" fill="none" stroke="black" stroke-width="0.0762" d="M180.795 152.512c-17.2357,-21.9547 -17.1509,-21.687 -24.9735,-38.391"/>
+   <rect id="nerv_x0020_I" fill="#7F7F7F" stroke="#7F7F7F" stroke-width="0.0762" x="180.657" y="28.7749" width="0.835402" height="125.31"/>
+  </g>
+  <g id="VenSec_BaseAcuteNo" onclick="parent.replacechar('VenSec_BaseAcuteNo')" onmousemove="parent.showtooltip('VenSec_BaseAcuteNo', 'Lower pairs of secondary veins not acute')" onmouseout="parent.hidetooltip('VenSec_BaseAcuteNo')" cursor="pointer" >
+   <path id="pas_x0020_visible_10" fill="#A6D10D" stroke="#CCCCCC" stroke-width="0.0762" stroke-linejoin="bevel" d="M59.8927 163.947l-0.5664 -7.0786c-6.7477,-4.5305 -15.2897,-6.1348 -20.3387,-13.7329 -5.0499,-7.5506 -10.1464,-20.811 -10.2408,-32.09 -0.0469,-11.3259 2.5016,-23.6898 7.3618,-37.2808 5.0022,-13.6854 12.9688,-29.6042 24.6721,-44.5642 12.0808,14.2049 16.8558,29.5107 22.613,43.3849 5.3797,13.2134 8.1645,26.2849 7.8338,39.9234 -0.33,11.7977 -5.1911,23.6899 -10.4289,30.7686 -5.2386,7.3141 -11.5975,9.922 -17.9211,13.9805l-1.2861 6.6891 -1.6987 0z"/>
+   <path id="nervure_11" fill="none" stroke="black" stroke-width="0.0762" d="M60.7919 116.798c-19.6439,-9.0722 -24.3108,-13.587 -25.7966,-24.634"/>
+   <path id="nervure_12" fill="none" stroke="black" stroke-width="0.0762" d="M60.1575 101.401c-15.2203,-7.6427 -23.5059,-15.5968 -22.8215,-24.3179"/>
+   <path id="nervure_13" fill="none" stroke="black" stroke-width="0.0762" d="M60.5118 84.4718c-10.4706,-6.0352 -19.005,-12.0929 -17.1361,-20.0381"/>
+   <path id="nervure_14" fill="none" stroke="black" stroke-width="0.0762" d="M60.6761 64.5413c-12.0942,-9.126 -12.8951,-10.9748 -10.4678,-15.4192"/>
+   <path id="nervure_15" fill="none" stroke="black" stroke-width="0.0762" d="M60.8574 115.248c15.6842,-6.6391 24.4683,-14.0388 24.3513,-22.7859"/>
+   <path id="nervure_16" fill="none" stroke="black" stroke-width="0.0762" d="M60.8328 97.0098c11.8924,-5.8616 21.6666,-11.8858 20.1862,-20.7169"/>
+   <path id="nervure_17" fill="none" stroke="black" stroke-width="0.0762" d="M61.1431 76.3617c14.2371,-9.3582 15.2706,-11.3743 12.8712,-16.5386"/>
+   <path id="nervure_18" fill="none" stroke="black" stroke-width="0.0762" d="M60.9931 56.5302c9.6233,-6.3255 10.3219,-7.6883 8.7001,-11.179"/>
+   <path id="nervure_19" fill="none" stroke="black" stroke-width="0.0762" d="M61.5561 129.901c15.6841,-6.6391 24.4683,-14.0388 24.3513,-22.7859"/>
+   <rect id="nerv_x0020_I_20" fill="#7F7F7F" stroke="#7F7F7F" stroke-width="0.0762" x="60.6564" y="31.9215" width="0.835402" height="125.31"/>
+   <path id="nervure_21" fill="none" stroke="black" stroke-width="0.0762" d="M60.1157 133.333c-19.6439,-9.0722 -24.3108,-13.587 -25.7966,-24.6339"/>
+   <path id="nervure_22" fill="none" stroke="black" stroke-width="0.0762" d="M60.6565 147.517c-11.1872,-3.1688 -22.0734,-11.2291 -24.3863,-21.4713"/>
+   <path id="nervure_23" fill="none" stroke="black" stroke-width="0.0762" d="M61.7732 143.915c11.8923,-5.8616 17.367,-8.3027 22.336,-17.1338"/>
+  </g>
+  <rect fill="none" x="4.95392e-005" y="4.82902e-005" width="240" height="180"/>
+ </g>
+<image xlink:href="tick.gif" id="imgtick" x="-100" y="-100" width="15" height="15"/>
+<rect id="recttooltip" x="-100" y="-100" width="55" height="6" fill-opacity="0.4" pointer-events="none"/>
+<text id="textboxid" x="-100" y="-100" pointer-events="none"> </text>
+</a></svg>

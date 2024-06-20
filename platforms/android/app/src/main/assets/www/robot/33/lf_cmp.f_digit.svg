@@ -1,0 +1,30 @@
+ <g id="Lf_Cmp.F_Digit">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="LfCmp" onclick="showquest('LfCmp')" onmousemove="showrobotip('LfCmp','Type of compound leaf')" onmouseout="hidetooltip('LfCmp')"  cursor="pointer" >
+   <rect id="type_x0020_feuille_x0020_comp" fill="white" stroke="#1F1A17" stroke-width="0.0762" x="191" y="124" width="21" height="33"/>
+   <g id="f_x0020_digitée">
+    <g id="foliole_x0020_droite1">
+     <path id="limbe" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M211.038 138.971l0.0253 0.0156c-1.3297,2.507 -4.1113,6.4505 -7.8975,4.9689 0.1225,-4.0769 5.2951,-4.7881 7.8722,-4.9845z"/>
+     <polygon id="nervure" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="210.797,139.144 201.547,144.986 "/>
+    </g>
+    <g id="foliole_x0020_centrale">
+     <path id="limbe_0" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M201.436 133.568l0.0356 -0.0138c1.9039,2.556 4.4108,7.1862 0.0515,9.7157 -4.5391,-2.3542 -1.6872,-7.3166 -0.0871,-9.7019z"/>
+     <polygon id="nervure_1" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="201.462,133.875 201.526,144.994 "/>
+    </g>
+    <g id="foliole_x0020_gauche1">
+     <path id="limbe_2" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M191.974 139.049l0.0031 -0.0295c2.8357,0.1087 7.596,0.9011 7.9061,4.9551 -3.7254,1.6605 -6.6129,-2.6896 -7.9092,-4.9256z"/>
+     <polygon id="nervure_3" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="192.235,139.19 201.515,144.985 "/>
+    </g>
+    <g id="foliole_x0020_droite2">
+     <path id="limbe_4" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M209.345 148.162l0.0027 0.0217c-2.2686,0.1566 -6.1836,-0.0221 -7.1395,-2.9314 2.6646,-1.5113 5.7169,1.3985 7.1368,2.9097z"/>
+     <polygon id="nervure_5" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="209.325,148.161 201.564,144.998 "/>
+    </g>
+    <g id="foliole_x0020_gauche2">
+     <path id="limbe_6" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M193.895 148.363l-0.0176 -0.0131c1.4632,-1.7407 4.3112,-4.4329 7.0681,-3.0997 -0.7637,2.9666 -4.9772,3.1411 -7.0505,3.1128z"/>
+     <polygon id="nerv" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="193.91,148.35 201.561,144.996 "/>
+    </g>
+    <path id="petiolule" onclick="showquest('petiolule')" onmousemove="showrobotip('petiolule','Long or short Petiolule ?')" onmouseout="hidetooltip('petiolule')"  cursor="pointer"  fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M201.518 143.262c0.0578,2.2666 0.0426,7.5199 0.1004,9.7865 -0.1137,0.1287 -0.1583,0.1044 -0.1841,-0.0537l0.0837 -9.7328z"/>
+    <path id="pétiole" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M201.257 153.102c0.0568,0.0547 0.4289,0.1008 0.5337,0.0923l-0.1377 -1.3197c0,-2.291 0,-4.6551 0,-6.9462 -0.0782,-0.0522 -0.162,-0.052 -0.2511,0.0006 0,4.6938 0,2.2517 0,6.9457 0,0.4287 -0.058,0.8173 -0.1449,1.2273z"/>
+   </g>
+  </g>
+ </g>

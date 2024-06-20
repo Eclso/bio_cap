@@ -1,0 +1,12 @@
+ <g id="Lamina_Lanc.Base_Cordate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="195.172" y="90.6594" width="20.812" height="7.14161"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="forme_x0020_limbe" fill="#32984B" stroke="#1F1A17" stroke-width="0.0762" d="M217.263 89.7517c-7.709,0.2527 -15.7464,0.0131 -23.6196,0.0197 6.3146,13.3759 10.5126,5.101 11.8699,5.1144 1.3573,0.0133 5.7247,8.3225 11.7497,-5.1341z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="193.727,89.7457 217.162,89.7156 217.053,89.9932 193.813,89.9932 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

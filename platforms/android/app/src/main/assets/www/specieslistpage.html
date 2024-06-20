@@ -1,0 +1,364 @@
+
+
+<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+
+
+
+
+<style type="text/css">
+	
+    
+	input {
+        border:solid 1px #ccc;
+        border-radius: 5px;
+        /*padding:7px 14px;*/
+        padding:7px;
+        width: 100% ;
+        margin-bottom:10px
+    }
+input:focus {
+    outline:none;
+    border-color:#aaa;
+}
+
+
+.foo {
+    float: left;
+    width: 40px;
+    height: 35px;
+    /*margin: 5px;*/
+    border-width: 1px;
+    border-style: outset;
+    border-color: rgba("0,0,0,.2);
+}
+
+.foo > a {
+    
+    display:block;
+    text-decoration:none;
+    margin-top: 5px;
+    
+}
+
+.back-top {
+    position: fixed;
+    bottom: 30px;
+    right: 70px;
+}
+
+.back-top a {
+    width: 108px;
+    display: block;
+    text-align: center;
+    font: 11px/100% Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #bbb;
+    
+    /* transition */
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    transition: 1s;
+}
+.back-top a:hover {
+    color: #000;
+}
+
+/* arrow icon (span tag) */
+.back-top span {
+    width: 51px;
+    height: 51px;
+    display: block;
+    margin-bottom: 7px;
+    background: #E57818 url(img/scroll.png) no-repeat center center;
+    
+    /* rounded corners */
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    
+    /* transition */
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    transition: 1s;
+}
+.back-top a:hover span {
+    background-color: #777;
+}
+
+    </style>
+<link rel="stylesheet" href="css/main.css">
+    <script type="text/javascript" src="js/list.min.js"></script>
+    
+    <script type="text/javascript" src="js/main.js"></script>
+    
+    <div id="commonfamilies" class="newspecieslistwrapper " >
+        <input class="search searchfam" type="search" placeholder="Search for Family Names " />
+        
+        <div   style="padding-bottom: 15px;">
+            
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_a") href="#fam_a" >A</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_b") href="#fam_b" >B</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_c") href="#fam_c" >C</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_d") href="#fam_d" >D</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_e") href="#fam_e" >E</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_f") href="#fam_f" >F</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_g") href="#fam_g" >G</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_h") href="#fam_h" >H</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_i") href="#fam_i" >I</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_j") href="#fam_j" >J</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_k") href="#fam_k" >K</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_l") href="#fam_l" >L</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_m") href="#fam_m" >M</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_n") href="#fam_n" >N</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_o") href="#fam_o" >O</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_p") href="#fam_p" >P</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_q") href="#fam_q" >Q</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_r") href="#fam_r" >R</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_s") href="#fam_s" >S</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_t") href="#fam_t" >T</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_u") href="#fam_u" >U</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_v") href="#fam_v" >V</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_w") href="#fam_w" >W</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_x") href="#fam_x" >X</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_y") href="#fam_y" >Y</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("fam_z") href="#fam_z" >Z</a></div>
+        </div>
+        <div class = "specieslistwrapper commonfamilies " style="padding-top: 15px;">
+            <ul class="list commmonFamille"></ul>
+            
+            
+            <p class="back-top scrollfamilies" style="display: block;">
+            <a href="#top"><span></span></a>
+            </p>
+        </div>
+        
+    </div>
+    
+    
+    
+    
+    
+    <script type="text/javascript">
+        //alert($(".listofspec ul li").size());
+        var optionsvar = {
+            page: $(".commonfamilies ul li").size(),
+            valueNames: [ 'anchornar','' ]
+        };
+    
+    var userListvar = new List('commonfamilies', optionsvar);
+        </script>
+    
+    
+    <div id="commonspecies" class="newspecieslistwrapper" style="display:none">
+        <input class="search searchspec"  type="search" placeholder="Search for Species Names" />
+        <!--<button class="sort" data-sort="name">
+         Sort by name
+         </button>-->
+        <div   style="padding-bottom: 15px;">
+            
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_a") href="#espec_a" >A</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_b") href="#espec_b" >B</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_c") href="#espec_c" >C</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_d") href="#espec_d" >D</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_e") href="#espec_e" >E</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_f") href="#espec_f" >F</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_g") href="#espec_g" >G</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_h") href="#espec_h" >H</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_i") href="#espec_i" >I</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_j") href="#espec_j" >J</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_k") href="#espec_k" >K</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_l") href="#espec_l" >L</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_m") href="#espec_m" >M</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_n") href="#espec_n" >N</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_o") href="#espec_o" >O</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_p") href="#espec_p" >P</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_q") href="#espec_q" >Q</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_r") href="#espec_r" >R</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_s") href="#espec_s" >S</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_t") href="#espec_t" >T</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_u") href="#espec_u" >U</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_v") href="#espec_v" >V</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_w") href="#espec_w" >W</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_x") href="#espec_x" >X</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_y") href="#espec_y" >Y</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("espec_z") href="#espec_z" >Z</a></div>
+        </div>
+        
+        <div class = "specieslistwrapper commonspecies" style="padding-top: 15px;">
+            <ul class="list commmonSpecies"></ul>
+            
+            <p class="back-top scrollspecies" style="display: block;">
+            <a href="#top"><span></span></a>
+            </p>
+        </div>
+    </div>
+    <script type="text/javascript">
+        //alert($(".listofspec ul li").size());
+        var options = {
+            page: $(".commonspecies ul li").size(),
+            valueNames: [ 'anchor','' ]
+        };
+    
+    var userList = new List('commonspecies', options);
+        </script>
+    
+    
+    
+    
+    <div id="commonnames"  class="newspecieslistwrapper" style="display:none">
+        <input class="search searchcomun" type="search"  placeholder="Search for Common Names" />
+        <!--<button class="sort" data-sort="name">
+         Sort by name
+         </button>-->
+        <div   style="padding-bottom: 15px;">
+            
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_a") href="#noms_a" >A</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_b") href="#noms_b" >B</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_c") href="#noms_c" >C</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_d") href="#noms_d" >D</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_e") href="#noms_e" >E</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_f") href="#noms_f" >F</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_g") href="#noms_g" >G</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_h") href="#noms_h" >H</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_i") href="#noms_i" >I</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_j") href="#noms_j" >J</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_k") href="#noms_k" >K</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_l") href="#noms_l" >L</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_m") href="#noms_m" >M</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_n") href="#noms_n" >N</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_o") href="#noms_o" >O</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_p") href="#noms_p" >P</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_q") href="#noms_q" >Q</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_r") href="#noms_r" >R</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_s") href="#noms_s" >S</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_t") href="#noms_t" >T</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_u") href="#noms_u" >U</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_v") href="#noms_v" >V</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_w") href="#noms_w" >W</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_x") href="#noms_x" >X</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_y") href="#noms_y" >Y</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("noms_z") href="#noms_z" >Z</a></div>
+        </div>
+        
+        <div class = "specieslistwrapper commonnames" style="padding-top: 15px;">
+            
+            
+            <ul class="list commmmNames">
+                
+            </ul>
+            
+            <p class="back-top scrollnames" style="display: block;">
+            <a href="#top"><span></span></a>
+            </p>
+        </div>
+    </div>
+    
+    <script type="text/javascript">
+        //alert($(".listofspec ul li").size());
+        var optionsvar1 = {
+            page: $(".commonnames ul li").size(),
+            valueNames: [ 'anchorname','' ]
+        };
+    
+    var userListvar1 = new List('commonnames', optionsvar1);
+    
+    function scrolling(nnn){
+        var pos = $("#"+nnn).position();
+        $('html, body').animate( { scrollTop: pos.top }, 'slow' );
+    }
+    
+    //$(document).ready(function(){
+    
+    // hide .back-top first
+    
+    
+    //});
+    
+        </script>
+    
+    <div id="reversecontra" class="newspecieslistwrapper" style="display:none">
+        <input class="search searchcontra"  type="search" placeholder="Search for species Graphical representation" />
+        <!--<button class="sort" data-sort="name">
+         Sort by name
+         </button>-->
+        <div   style="padding-bottom: 15px;">
+            
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_a") href="#contra_a" >A</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_b") href="#contra_b" >B</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_c") href="#contra_c" >C</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_d") href="#contra_d" >D</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_e") href="#contra_e" >E</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_f") href="#contra_f" >F</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_g") href="#contra_g" >G</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_h") href="#contra_h" >H</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_i") href="#contra_i" >I</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_j") href="#contra_j" >J</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_k") href="#contra_k" >K</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_l") href="#contra_l" >L</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_m") href="#contra_m" >M</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_n") href="#contra_n" >N</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_o") href="#contra_o" >O</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_p") href="#contra_p" >P</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_q") href="#contra_q" >Q</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_r") href="#contra_r" >R</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_s") href="#contra_s" >S</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_t") href="#contra_t" >T</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_u") href="#contra_u" >U</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_v") href="#contra_v" >V</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_w") href="#contra_w" >W</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_x") href="#contra_x" >X</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_y") href="#contra_y" >Y</a></div>
+            <div class="foo"  style="text-align: center;"><a onclick=scrolling("contra_z") href="#contra_z" >Z</a></div>
+        </div>
+        
+        <div class = "specieslistwrapper reversecontra" style="padding-top: 15px;">
+            <ul class="list RevverseContra"></ul>
+            <p class="back-top scrollcontra" style="display: block;">
+            <a href="#top"><span></span></a>
+            </p>
+        </div>
+    </div>
+    <script type="text/javascript">
+        //alert($(".listofspec ul li").size());
+        var optionscont = {
+            page: $(".reversecontra ul li").size(),
+            valueNames: [ 'anchor','' ]
+        };
+    
+    var userListcont = new List('reversecontra', optionscont);
+    
+    scrollinTop();
+    function scrollinTop(){
+        $(".back-top").hide();
+        
+        // fade in .back-top
+        $(function () {
+          $(window).scroll(function () {
+                           
+                           if ($(this).scrollTop() > 100) {
+                           
+                           $('.back-top').fadeIn();
+                           } else {
+                           $('.back-top').fadeOut();
+                           }
+                           });
+          
+          // scroll body to 0px on click
+          $('.back-top a').click(function () {
+                                 $('body,html').animate({
+                                                        scrollTop: 0
+                                                        }, 800);
+                                 return false;
+                                 });
+          });
+    }
+    </script>
+    <div class="loading-icon">
+                <div class="loading-bar-0"></div>
+                          <div class="loading-bar-1"></div>
+                          <div class="loading-bar-2"></div>
+                          <div class="loading-bar-3"></div>
+                          <div class="loading-bar-4"></div>
+                    </div>
+             </div>

@@ -1,0 +1,7 @@
+ <g id="LfPilo_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <polygon id="LfPilo" onclick="showquest('LfPilo')" onmousemove="showrobotip('LfPilo','Leaf lower surface indumentum')" onmouseout="hidetooltip('LfPilo')"  cursor="pointer"  fill="white" fill-opacity="0.301961" points="68.701,123.1 68.701,110.9 85.299,110.9 85.299,123.1 "/>
+   <polygon id="LfPilo1" fill="none" stroke="#7F7F7F" stroke-width="0.0762" points="68.701,123.1 68.701,110.9 85.299,110.9 85.299,123.1 "/>
+  </g>
+ </g>

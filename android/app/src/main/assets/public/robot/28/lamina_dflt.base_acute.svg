@@ -1,0 +1,12 @@
+ <g id="Lamina_Dflt.Base_Acute">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="197.089" y="90.5478" width="16.7774" height="7.62466"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <polygon id="base_x0020_étroite_x0020_atténué" fill="#A6D10D" stroke="#1F1A17" stroke-width="0.0762" stroke-linejoin="bevel" points="196.7,89.8896 204.642,100.1 206.369,100.119 213.76,89.8832 "/>
+   <polygon id="cache" fill="#A6D10D" stroke="#A6D10D" stroke-width="0.0762" points="196.79,89.882 213.679,89.8681 213.547,90.1279 196.917,90.1279 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

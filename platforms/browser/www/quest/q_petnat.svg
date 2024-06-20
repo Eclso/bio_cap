@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+ viewBox="0 0 240 180"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<a>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect fill="none" width="240" height="180"/>
+  <g id="PetNat_SwollenNo" onclick="parent.replacechar('PetNat_SwollenNo')" onmousemove="parent.showtooltip('PetNat_SwollenNo', 'Petiole not swollen')" onmouseout="parent.hidetooltip('PetNat_SwollenNo')" cursor="pointer" >
+   <g id="tige">
+    <path id="_66832160" fill="#BCFA63" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M144.378 103.201l0 64.3143c0.5709,5.7993 15.5277,5.5131 15.3606,0l0 -64.3143 -15.3606 0z"/>
+    <path id="_77493056" fill="#CEF794" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M152.004 107.358c-4.1563,0 -7.584,-1.7355 -7.584,-3.9421 0,-2.164 3.4277,-3.9419 7.584,-3.9419 4.2632,0 7.691,1.7779 7.691,3.9419 0,2.2066 -3.4278,3.9421 -7.691,3.9421z"/>
+   </g>
+   <path id="petiole" fill="#CEF794" stroke="#7F7F7F" stroke-width="0.0762" d="M159.624 154.653c-1.081,-6.4708 5.6383,-15.2345 11.5517,-20.208 3.8624,-3.2485 8.0882,-5.5546 13.0083,-7.6298 7.7771,-3.2802 0.8813,-5.2702 -3.5735,-3.3913 -9.9971,4.2166 -18.8549,10.7874 -24.4279,18.5932 -1.3845,1.9393 -0.9455,10.9186 3.4414,12.6359z"/>
+   <path id="limbe" fill="#78B43C" stroke="#7F7F7F" stroke-width="0.0762" d="M214.853 137.935c-10.3797,-7.0679 -27.4858,-19.8678 -31.4625,-15.4226 -8.2178,9.186 11.9392,43.8406 13.2039,43.1144 6.5841,-3.7808 17.0245,-19.7177 18.2586,-27.6918z"/>
+   <path id="nervure" fill="#CEF794" stroke="#B2B2B2" stroke-width="0.0762" d="M183.174 122.768c1.6475,4.5561 22.335,23.8399 25.7402,28.7257 0.3413,-0.5589 0.4673,-0.6912 0.6828,-1.1297 -0.0447,-0.0393 -25.3919,-29.6422 -26.423,-27.596z"/>
+  </g>
+  <g id="PetNat_BaseTopSwollen" onclick="parent.replacechar('PetNat_BaseTopSwollen')" onmousemove="parent.showtooltip('PetNat_BaseTopSwollen', 'Base and top of the petiole swollen')" onmouseout="parent.hidetooltip('PetNat_BaseTopSwollen')" cursor="pointer" >
+   <g id="tige_0">
+    <path id="_77134840" fill="#BCFA63" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M24.6366 103.202l0 64.3142c0.5708,5.7994 15.5277,5.5132 15.3606,0l0 -64.3142 -15.3606 0z"/>
+    <path id="_65475008" fill="#CEF794" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M32.2635 107.358c-4.1563,0 -7.5841,-1.7354 -7.5841,-3.942 0,-2.164 3.4278,-3.9419 7.5841,-3.9419 4.2631,0 7.691,1.7779 7.691,3.9419 0,2.2066 -3.4279,3.942 -7.691,3.942z"/>
+   </g>
+   <path id="petiole_1" fill="#CEF794" stroke="black" stroke-width="0.0762" d="M39.9973 155.076c-0.6081,-3.6397 6.0002,-3.2836 3.9341,-12.4359 2.175,-3.1175 4.9164,-6.019 7.5035,-8.1948 1.9312,-1.6242 3.9533,-3.0129 6.1075,-4.2548 8.4102,5.9914 4.4408,-2.3374 6.9008,-3.375 7.7771,-3.2802 0.8813,-5.2702 -3.5735,-3.3913 -9.9971,4.2166 -18.855,10.7874 -24.4279,18.5932 -1.3845,1.9392 -0.8315,11.3413 3.5555,13.0586z"/>
+   <path id="limbe_2" fill="#78B43C" stroke="#7F7F7F" stroke-width="0.0762" d="M95.1119 137.935c-10.3797,-7.068 -27.4858,-19.8678 -31.4625,-15.4226 -8.2178,9.186 11.9392,43.8406 13.2039,43.1144 6.5841,-3.7808 17.0245,-19.7177 18.2586,-27.6918z"/>
+   <path id="nervure_3" fill="#CEF794" stroke="#B2B2B2" stroke-width="0.0762" d="M63.3538 122.986c1.6474,4.5561 22.3349,23.84 25.7401,28.7258 0.3413,-0.559 0.4673,-0.6913 0.6828,-1.1298 -0.0447,-0.0393 -25.3919,-29.6422 -26.4229,-27.596z"/>
+  </g>
+  <g id="PetNat_TopSwollen" onclick="parent.replacechar('PetNat_TopSwollen')" onmousemove="parent.showtooltip('PetNat_TopSwollen', 'Top of the petiole swollen')" onmouseout="parent.hidetooltip('PetNat_TopSwollen')" cursor="pointer" >
+   <g id="tige_4">
+    <path id="_77749352" fill="#BCFA63" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M142.872 11.9686l0 64.3143c0.5708,5.7993 15.5276,5.5131 15.3606,0l0 -64.3143 -15.3606 0z"/>
+    <path id="_76882584" fill="#CEF794" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M150.499 16.1249c-4.1563,0 -7.5841,-1.7355 -7.5841,-3.9421 0,-2.164 3.4278,-3.9419 7.5841,-3.9419 4.2631,0 7.691,1.7779 7.691,3.9419 0,2.2066 -3.4279,3.9421 -7.691,3.9421z"/>
+   </g>
+   <path id="petiole_5" fill="#CEF794" stroke="black" stroke-width="0.0762" d="M158.119 63.42c-1.081,-6.4708 5.6382,-15.2345 11.5517,-20.208 1.9311,-1.6242 3.038,-2.4714 5.1923,-3.7134 7.5685,3.6547 5.3559,-2.8788 7.816,-3.9164 7.777,-3.2802 0.8812,-5.2702 -3.5735,-3.3913 -9.9971,4.2166 -18.8549,10.7874 -24.4279,18.5932 -1.3845,1.9393 -0.9456,10.9186 3.4414,12.6359z"/>
+   <path id="limbe_6" fill="#78B43C" stroke="#7F7F7F" stroke-width="0.0762" d="M213.347 46.7019c-10.3796,-7.0679 -27.4857,-19.8678 -31.4624,-15.4226 -8.2178,9.186 11.9392,43.8406 13.2039,43.1144 6.5841,-3.7808 17.0245,-19.7177 18.2585,-27.6918z"/>
+   <path id="nervure_7" fill="#CEF794" stroke="#B2B2B2" stroke-width="0.0762" d="M181.669 31.535c1.6475,4.5561 22.335,23.8399 25.7401,28.7257 0.3413,-0.5589 0.4673,-0.6912 0.6829,-1.1297 -0.0448,-0.0393 -25.3919,-29.6422 -26.423,-27.596z"/>
+  </g>
+  <g id="PetNat_BaseSwollen" onclick="parent.replacechar('PetNat_BaseSwollen')" onmousemove="parent.showtooltip('PetNat_BaseSwollen', 'Base of the petiole swollen')" onmouseout="parent.hidetooltip('PetNat_BaseSwollen')" cursor="pointer" >
+   <g id="tige_8">
+    <path id="_76711608" fill="#BCFA63" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M24.6366 11.9687l0 64.3142c0.5708,5.7994 15.5277,5.5132 15.3606,0l0 -64.3142 -15.3606 0z"/>
+    <path id="_66300640" fill="#CEF794" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M32.2635 16.1249c-4.1563,0 -7.5841,-1.7354 -7.5841,-3.942 0,-2.164 3.4278,-3.9419 7.5841,-3.9419 4.2631,0 7.691,1.7779 7.691,3.9419 0,2.2066 -3.4279,3.942 -7.691,3.942z"/>
+   </g>
+   <path id="petiole_9" fill="#CEF794" stroke="black" stroke-width="0.0762" d="M39.9973 63.8428c-0.6081,-3.6397 6.0002,-3.2836 3.9341,-12.4359 2.175,-3.1175 4.9164,-6.019 7.5035,-8.1948 3.8624,-3.2484 8.0882,-5.5546 13.0083,-7.6298 7.7771,-3.2802 0.8813,-5.2702 -3.5735,-3.3913 -9.9971,4.2166 -18.855,10.7874 -24.4279,18.5932 -1.3845,1.9392 -0.8315,11.3413 3.5555,13.0586z"/>
+   <path id="limbe_10" fill="#78B43C" stroke="#7F7F7F" stroke-width="0.0762" d="M95.1119 46.702c-10.3797,-7.068 -27.4858,-19.8678 -31.4625,-15.4226 -8.2178,9.186 11.9392,43.8406 13.2039,43.1144 6.5841,-3.7808 17.0245,-19.7177 18.2586,-27.6918z"/>
+   <path id="nervure_11" fill="#CEF794" stroke="#B2B2B2" stroke-width="0.0762" d="M63.3538 31.7528c1.6474,4.5561 22.3349,23.84 25.7401,28.7258 0.3413,-0.559 0.4673,-0.6913 0.6828,-1.1298 -0.0447,-0.0393 -25.3919,-29.6422 -26.4229,-27.596z"/>
+  </g>
+ </g>
+<image xlink:href="tick.gif" id="imgtick" x="-100" y="-100" width="15" height="15"/>
+<rect id="recttooltip" x="-100" y="-100" width="55" height="6" fill-opacity="0.4" pointer-events="none"/>
+<text id="textboxid" x="-100" y="-100" pointer-events="none"> </text>
+</a></svg>

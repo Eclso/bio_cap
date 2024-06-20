@@ -1,0 +1,8 @@
+ <g id="Lamina_Line.VenIntra_Single">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path id="A_Ven" fill="none" stroke="black" stroke-width="0.0762" d="M205.434 25.4355c3.1531,-0.1684 4.3995,16.2899 4.3995,36.2627 0,19.9728 -0.8033,36.792 -4.3995,36.2627 -3.4495,0.5293 -4.3995,-16.2899 -4.3995,-36.2627 0,-19.9728 1.0966,-36.0862 4.3995,-36.2627z"/>
+  <g>
+   <path id="VenIntra" onclick="showquest('VenIntra')" onmousemove="showrobotip('VenIntra','End of secondary nerves')" onmouseout="hidetooltip('VenIntra')"  cursor="pointer"  fill="white" fill-opacity="0.149020" d="M212 40c2.761,0 5,2.239 5,5 0,2.7609 -2.239,5 -5,5 -2.7609,0 -5,-2.2391 -5,-5 0,-2.761 2.2391,-5 5,-5z"/>
+   <path id="VenIntra1" fill="none" stroke="#1F1A17" stroke-width="0.0762" d="M212 40c2.761,0 5,2.239 5,5 0,2.7609 -2.239,5 -5,5 -2.7609,0 -5,-2.2391 -5,-5 0,-2.761 2.2391,-5 5,-5z"/>
+  </g>
+ </g>

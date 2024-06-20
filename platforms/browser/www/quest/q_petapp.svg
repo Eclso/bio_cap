@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+  viewBox="0 0 240 180"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<a>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect fill="none" width="240" height="180"/>
+  <g id="PetApp_JctGlands" onclick="parent.replacechar('PetApp_JctGlands')" onmousemove="parent.showtooltip('PetApp_JctGlands', 'Glands at the junction of petiole &amp; lamina')" onmouseout="parent.hidetooltip('PetApp_JctGlands')" cursor="pointer" >
+   <g id="tige">
+    <path id="_77230912" fill="#BCFA63" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M194.179 69.9264l0 39.8281c0.3535,3.5914 9.6159,3.4141 9.5124,0l0 -39.8281 -9.5124 0z"/>
+    <path id="_66516744" fill="#CEF794" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M198.902 72.5003c-2.5739,0 -4.6966,-1.0747 -4.6966,-2.4412 0,-1.3401 2.1227,-2.4411 4.6966,-2.4411 2.6401,0 4.7628,1.101 4.7628,2.4411 0,1.3665 -2.1227,2.4412 -4.7628,2.4412z"/>
+   </g>
+   <path id="petiole" fill="#CEF794" stroke="#7F7F7F" stroke-width="0.0762" d="M203.62 101.789c-0.6694,-4.0072 3.4916,-9.4343 7.1537,-12.5143 2.3918,-2.0117 5.0087,-3.4398 8.0556,-4.7249 4.8162,-2.0313 0.5458,-3.2637 -2.2129,-2.1001 -6.191,2.6112 -11.6764,6.6803 -15.1276,11.5142 -0.8574,1.201 -0.5855,6.7616 2.1312,7.8251z"/>
+   <path id="limbe" fill="#78B43C" stroke="#7F7F7F" stroke-width="0.0762" d="M237.822 91.4358c-6.4278,-4.377 -17.0212,-12.3036 -19.4838,-9.5508 -5.0891,5.6887 7.3936,27.1493 8.1768,26.6996 4.0773,-2.3414 10.5428,-12.2106 11.307,-17.1488z"/>
+   <path id="nervure" fill="#CEF794" stroke="#B2B2B2" stroke-width="0.0762" d="M218.204 82.0433c1.0202,2.8215 13.8314,14.7635 15.9401,17.7892 0.2114,-0.3462 0.2894,-0.4281 0.4229,-0.6997 -0.0277,-0.0243 -15.7245,-18.3566 -16.363,-17.0895z"/>
+   <ellipse id="_77090952" fill="#E6DC42" stroke="black" stroke-width="0.0762" transform="matrix(0.133026 0.433469 -0.433469 0.133026 216.143 84.8873)" rx="1.6617" ry="2.4437"/>
+   <ellipse id="_76758952" fill="#E6DC42" stroke="black" stroke-width="0.0762" transform="matrix(0.0431498 0.415254 -0.415254 0.0431498 216.717 82.7719)" rx="1.6617" ry="2.4437"/>
+  </g>
+  <g id="PetApp_Glands" onclick="parent.replacechar('PetApp_Glands')" onmousemove="parent.showtooltip('PetApp_Glands', 'Petiole with glands')" onmouseout="parent.hidetooltip('PetApp_Glands')" cursor="pointer" >
+   <g id="tige_0">
+    <path id="_66277936" fill="#BCFA63" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M146.179 69.9265l0 39.8281c0.3536,3.5914 9.6159,3.4141 9.5125,0l0 -39.8281 -9.5125 0z"/>
+    <path id="_76464104" fill="#CEF794" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M150.902 72.5004c-2.5739,0 -4.6966,-1.0748 -4.6966,-2.4412 0,-1.3401 2.1227,-2.4412 4.6966,-2.4412 2.64,0 4.7628,1.1011 4.7628,2.4412 0,1.3664 -2.1228,2.4412 -4.7628,2.4412z"/>
+   </g>
+   <path id="petiole_1" fill="#CEF794" stroke="#7F7F7F" stroke-width="0.0762" d="M155.621 101.789c-0.6695,-4.0072 3.4916,-9.4343 7.1536,-12.5143 2.3919,-2.0117 5.0088,-3.4398 8.0557,-4.7249 4.8161,-2.0314 0.5457,-3.2637 -2.213,-2.1001 -6.1909,2.6112 -11.6763,6.6803 -15.1275,11.5142 -0.8574,1.2009 -0.5856,6.7616 2.1312,7.8251z"/>
+   <path id="limbe_2" fill="#78B43C" stroke="#7F7F7F" stroke-width="0.0762" d="M189.822 91.4359c-6.4279,-4.377 -17.0212,-12.3036 -19.4839,-9.5508 -5.0891,5.6887 7.3937,27.1493 8.1768,26.6996 4.0774,-2.3414 10.5429,-12.2106 11.3071,-17.1488z"/>
+   <path id="nervure_3" fill="#CEF794" stroke="#B2B2B2" stroke-width="0.0762" d="M170.205 82.0434c1.0202,2.8215 13.8315,14.7635 15.9402,17.7891 0.2113,-0.3461 0.2894,-0.4281 0.4228,-0.6996 -0.0277,-0.0243 -15.7245,-18.3566 -16.363,-17.0895z"/>
+   <ellipse id="_77066952" fill="#E6DC42" stroke="black" stroke-width="0.0762" transform="matrix(0.394096 0.224231 -0.224231 0.394096 154.404 93.3993)" rx="1.6617" ry="2.4437"/>
+   <ellipse id="_77135792" fill="#E6DC42" stroke="black" stroke-width="0.0762" transform="matrix(0.189288 0.372113 -0.372113 0.189288 164.155 84.8527)" rx="1.6617" ry="2.4437"/>
+  </g>
+  <g id="PetApp_Spur" onclick="parent.replacechar('PetApp_Spur')" onmousemove="parent.showtooltip('PetApp_Spur', 'Petiole with spur')" onmouseout="parent.hidetooltip('PetApp_Spur')" cursor="pointer" >
+   <g id="tige_4">
+    <path id="_76440912" fill="#BCFA63" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M98.1784 69.9264l0 39.8281c0.3535,3.5914 9.6158,3.4141 9.5124,0l0 -39.8281 -9.5124 0z"/>
+    <path id="_67158864" fill="#CEF794" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M102.902 72.5003c-2.5739,0 -4.6966,-1.0748 -4.6966,-2.4412 0,-1.3401 2.1227,-2.4412 4.6966,-2.4412 2.64,0 4.7628,1.1011 4.7628,2.4412 0,1.3664 -2.1228,2.4412 -4.7628,2.4412z"/>
+   </g>
+   <path id="petiole_5" fill="#CEF794" stroke="#7F7F7F" stroke-width="0.0762" d="M107.62 101.789c-0.6695,-4.0072 3.4916,-9.4343 7.1536,-12.5143 2.3919,-2.0117 5.0088,-3.4398 8.0557,-4.7249 4.8161,-2.0313 0.5458,-3.2637 -2.213,-2.1001 -6.1909,2.6112 -11.6763,6.6803 -15.1275,11.5142 -0.8574,1.2009 -0.5855,6.7616 2.1312,7.8251z"/>
+   <path id="limbe_6" fill="#78B43C" stroke="#7F7F7F" stroke-width="0.0762" d="M141.822 91.4358c-6.4278,-4.377 -17.0212,-12.3036 -19.4839,-9.5508 -5.089,5.6887 7.3937,27.1493 8.1769,26.6996 4.0773,-2.3414 10.5428,-12.2106 11.307,-17.1488z"/>
+   <path id="nervure_7" fill="#CEF794" stroke="#B2B2B2" stroke-width="0.0762" d="M122.204 82.0433c1.0203,2.8215 13.8315,14.7635 15.9402,17.7891 0.2114,-0.3461 0.2894,-0.428 0.4229,-0.6996 -0.0277,-0.0243 -15.7246,-18.3566 -16.3631,-17.0895z"/>
+   <path id="spur" fill="#CEF794" stroke="#1F1A17" stroke-width="0.0762" d="M121.37 82.1016c-1.3033,-1.139 -1.8755,-1.6198 -3.0091,-1.6001 -0.2693,0.0047 -0.5601,-0.5188 -1.0953,-0.4344 -0.4162,0.0656 -1.0755,0.7288 -1.3747,0.814 0.2986,-0.0542 1.027,-0.7051 1.4382,-0.7391 0.5287,-0.0438 0.7373,0.5394 0.9889,0.5714 1.2371,0.1571 1.4987,0.7982 2.6127,2.0539 -0.0712,-0.5892 0.5491,-0.6054 0.4393,-0.6657z"/>
+   <path id="spur_8" fill="#CEF794" stroke="#1F1A17" stroke-width="0.0762" d="M120.584 84.3604c-1.3032,-1.139 -1.6296,-1.4054 -2.7632,-1.3857 -0.2693,0.0047 -0.5601,-0.5188 -1.0953,-0.4344 -0.4162,0.0656 -1.0755,0.7288 -1.3747,0.814 0.2986,-0.0542 1.027,-0.7051 1.4382,-0.7391 0.5287,-0.0438 0.7373,0.5394 0.9889,0.5714 1.2371,0.1571 1.6288,0.7591 2.7428,2.0147 -0.0712,-0.5891 0.1731,-0.7807 0.0633,-0.8409z"/>
+  </g>
+  <g id="PetApp_Sheating" onclick="parent.replacechar('PetApp_Sheating')" onmousemove="parent.showtooltip('PetApp_Sheating', 'Petiole base sheathing')" onmouseout="parent.hidetooltip('PetApp_Sheating')" cursor="pointer" >
+   <g id="tige_9">
+    <path id="_76996656" fill="#BCFA63" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M50.1783 69.9268l0 39.8281c0.3535,3.5914 9.6159,3.4141 9.5125,0l0 -39.8281 -9.5125 0z"/>
+    <path id="_77815232" fill="#CEF794" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M54.9015 72.5007c-2.5739,0 -4.6966,-1.0748 -4.6966,-2.4412 0,-1.3401 2.1227,-2.4412 4.6966,-2.4412 2.64,0 4.7628,1.1011 4.7628,2.4412 0,1.3664 -2.1228,2.4412 -4.7628,2.4412z"/>
+   </g>
+   <path id="petiole_10" fill="#CEF794" stroke="black" stroke-width="0.0762" d="M59.6907 102.045c0.0001,-3.1912 3.4211,-9.6905 7.0831,-12.7704 2.3918,-2.0117 5.0088,-3.4398 8.0557,-4.7249 4.8161,-2.0314 0.5457,-3.2637 -2.213,-2.1002 -4.6432,1.9585 -8.8895,4.7369 -12.1785,8.0431 0.0353,-1.747 -0.2551,-3.3639 -0.7473,-3.3738 -1.5297,0.0654 -3.602,4.5157 -3.8346,6.9056 -0.1523,1.5648 -0.1527,7.7436 3.8346,8.0206z"/>
+   <path id="limbe_11" fill="#78B43C" stroke="#7F7F7F" stroke-width="0.0762" d="M93.8218 91.4362c-6.4279,-4.377 -17.0212,-12.3036 -19.4839,-9.5508 -5.0891,5.6886 7.3937,27.1493 8.1768,26.6996 4.0774,-2.3414 10.5429,-12.2107 11.3071,-17.1488z"/>
+   <path id="nervure_12" fill="#CEF794" stroke="#B2B2B2" stroke-width="0.0762" d="M74.2041 82.0437c1.0202,2.8215 13.8314,14.7635 15.9402,17.7891 0.2113,-0.3461 0.2894,-0.4281 0.4228,-0.6996 -0.0277,-0.0243 -15.7245,-18.3566 -16.363,-17.0895z"/>
+  </g>
+  <g id="PetApp_No" onclick="parent.replacechar('PetApp_No')" onmousemove="parent.showtooltip('PetApp_No', 'Petiole without appendages')" onmouseout="parent.hidetooltip('PetApp_No')" cursor="pointer" >
+   <g id="tige_13">
+    <path id="_27681448" fill="#BCFA63" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M2.1782 69.9268l0 39.8281c0.3535,3.5914 9.6159,3.4142 9.5124,0l0 -39.8281 -9.5124 0z"/>
+    <path id="_77809736" fill="#CEF794" fill-rule="nonzero" stroke="#7F7F7F" stroke-width="0.0762" stroke-linejoin="bevel" d="M6.9013 72.5007c-2.5738,0 -4.6965,-1.0747 -4.6965,-2.4412 0,-1.3401 2.1227,-2.4411 4.6965,-2.4411 2.6401,0 4.7629,1.101 4.7629,2.4411 0,1.3665 -2.1228,2.4412 -4.7629,2.4412z"/>
+   </g>
+   <path id="petiole_14" fill="#CEF794" stroke="#7F7F7F" stroke-width="0.0762" d="M11.62 101.789c-0.6694,-4.0072 3.4917,-9.4343 7.1537,-12.5143 2.3918,-2.0117 5.0088,-3.4398 8.0557,-4.7249 4.8161,-2.0313 0.5457,-3.2637 -2.213,-2.1001 -6.1909,2.6112 -11.6763,6.6803 -15.1275,11.5142 -0.8574,1.201 -0.5856,6.7616 2.1311,7.8251z"/>
+   <path id="limbe_15" fill="#78B43C" stroke="#7F7F7F" stroke-width="0.0762" d="M45.8217 91.4362c-6.4279,-4.3769 -17.0213,-12.3036 -19.4839,-9.5508 -5.0891,5.6887 7.3936,27.1493 8.1768,26.6996 4.0774,-2.3413 10.5428,-12.2106 11.3071,-17.1488z"/>
+   <path id="nervure_16" fill="#CEF794" stroke="#B2B2B2" stroke-width="0.0762" d="M26.204 82.0438c1.0202,2.8214 13.8314,14.7634 15.9402,17.7891 0.2113,-0.3462 0.2893,-0.4281 0.4228,-0.6996 -0.0277,-0.0244 -15.7245,-18.3567 -16.363,-17.0895z"/>
+  </g>
+ </g>
+<image xlink:href="tick.gif" id="imgtick" x="-100" y="-100" width="15" height="15"/>
+<rect id="recttooltip" x="-100" y="-100" width="55" height="6" fill-opacity="0.4" pointer-events="none"/>
+<text id="textboxid" x="-100" y="-100" pointer-events="none"> </text>
+</a></svg>

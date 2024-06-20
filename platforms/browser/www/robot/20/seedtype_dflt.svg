@@ -1,0 +1,23 @@
+ <g id="SeedType_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="SeedType" onclick="showquest('SeedType')" onmousemove="showrobotip('SeedType','Seeds are winged or not?')" onmouseout="hidetooltip('SeedType')"  cursor="pointer" >
+   <g id="pappus">
+    <line id="_337511672" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="98.9146" y1="38.1246" x2="101.324" y2= "49.9358" />
+    <line id="_82223032" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="100.371" y1="37.8927" x2="101.536" y2= "49.9368" />
+    <line id="_82222040" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="101.843" y1="37.6152" x2="101.749" y2= "49.912" />
+    <line id="_82196536" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="103.75" y1="37.852" x2="101.885" y2= "49.8961" />
+    <line id="_82196072" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="105.11" y1="38.2611" x2="102.079" y2= "49.839" />
+    <line id="_82195112" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="106.644" y1="38.7062" x2="102.293" y2= "49.7403" />
+    <line id="_341166168" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="107.986" y1="39.424" x2="102.547" y2= "49.6033" />
+    <line id="_341165192" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="97.5749" y1="38.7088" x2="101.149" y2= "49.976" />
+    <line id="_527570560" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="96.3157" y1="38.9898" x2="100.978" y2= "49.9461" />
+    <line id="_527569712" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="95.419" y1="39.6005" x2="100.858" y2= "49.9353" />
+    <line id="_80178232" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="108.899" y1="40.1033" x2="102.761" y2= "49.5832" />
+    <line id="_80177768" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="110.066" y1="40.6472" x2="102.917" y2= "49.5832" />
+    <line id="_80176792" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="94.4277" y1="40.3776" x2="100.799" y2= "49.9353" />
+    <line id="_337938312" fill="none" stroke="#7F7F7F" stroke-width="0.0409" x1="100.721" y1="49.9157" x2="93.2618" y2= "41.0574" />
+    <polyline id="_67093728" fill="none" stroke="#7F7F7F" stroke-width="0.0409" points="110.337,41.4258 102.877,49.7402 110.881,42.1251 "/>
+   </g>
+   <path id="Seed_nowin" fill="#E6C36A" stroke="#AAA9A9" stroke-width="0.0762" d="M101.573 49.1333c1.9372,0 4.224,2.9084 5.178,9.2916 0.7327,4.9031 -0.9589,8.7962 -4.8451,9.2794 -0.1096,0.0136 -0.2213,1.4919 -0.3329,1.4919 -0.2232,0 -0.4433,-1.5016 -0.6615,-1.5279 -3.9648,-0.4771 -5.3629,-4.4791 -4.7969,-9.2434 0.7399,-6.2273 3.5212,-9.2916 5.4584,-9.2916z"/>
+  </g>
+ </g>

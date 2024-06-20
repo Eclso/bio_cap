@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="Content-type" content="text/html; charset=UTF-8"/>
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <meta name="viewport"  content="width=device-width, height=device-height, initial-scale=0.8, user-scalable=1" />
+
+        <title>WIKWIO</title>
+    <link rel="stylesheet" type="text/css" href="css/list.css" />
+     <link rel="stylesheet" type="text/css" href="css/index.css" />
+     <link rel="stylesheet" type="text/css" href="css/menu.css" />
+     <link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.4.5.min.css">
+      <link rel="stylesheet" type="text/css" href="css/customoccordance.css">
+      <link rel="stylesheet" type="text/css" href="css/swiper.min.css">
+     <link rel="stylesheet" type="text/css" href="css/my-custom-theme.min.css">
+     <link rel="stylesheet" href="css/main.css">
+
+
+    </head>
+    <body>
+
+
+<div data-role="page" id="one">
+        <div data-role="header"  class = "headercls">
+        <a href="#"  class="ui-btn-right ui-btn ui-icon-bars ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini" id="showRight" data-role="button" data-direction="reverse"  role="button"> Menu</a>
+        <a href="#one"  onclick="showhome()" class="cancelbutton ui-btn-left ui-btn ui-icon-delete ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse"  role="button" style="display:none;background-color:#A0D37B">Cancel</a>
+
+        <a href="#"  class=" nextbutton ui-btn-right ui-btn ui-icon-arrow-r ui-btn-icon-right ui-btn-inline ui-corner-all ui-mini" data-role="button" data-direction="reverse" onclick="shownext()" role="button" style="display:none;">Next</a>
+
+        <!--div class="lang_wrap" data-role="controlgroup" data-type="horizontal"  data-mini="true" style="float:left;">
+         <a href="#"  class="languagecheck ui-btn " role="button" rel="en"   >EN</a>
+         <a href="#"  class="languagecheck ui-btn ui-btn-active" role="button" rel="fr" >FR</a>
+         </div-->
+
+        <a href="#" id="backbutton" onclick="showhome()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >Back</a>
+        <a href="#" id="backbutton1" onclick="showresultspopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >Back</a>
+        <a href="#" id="backbutton2" onclick="showlistpopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini showQuestBack" data-role="button" data-direction="reverse" role="button" style="display:none;" >Back</a>
+
+            <h6>BIOTIK</h6>
+        </div>
+
+
+
+          <div class="canvasdiv" style="position: absolute;" onclick="showresults()" >
+              <div class="circle" style="position: absolute;"></div>
+              <p style="position: absolute;left: 30px;top: 32px;width: 100px;z-index: 9999;color: red;"><span class="per_cou"></span> species</p><br><p style="position: absolute;top: 55px;width: 100px;left: 40px;z-index: 9999;color: red;">at <span class="per_num">100%</span></p>
+          </div>
+
+
+        <div id="deviceready" class="blink">
+                <p class="event listening"></p>
+                 <p class="event received"></p>
+        </div>
+
+        <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="cbp-spmenu-s2">
+                <img src="img/header3.jpg" style="margin-top:8px;margin-left:6px;" />
+                <a href="#" class="ui-btn nav_btn newidentification" onclick="shownewhome()" style="font-size:17px;text-align:center; color: #000000;">New <br>identification <br></a>
+                <div class="sideButtons">
+
+                </div>
+                <a href="#" class="ui-btn nav_btn search" onclick="showsearch()" style="font-size:17px;color: #000000;">Search</a>
+                <a href="#" class="ui-btn nav_btn liste" onclick="showspecies()" style="font-size:17px;color: #000000;">Species List</a>
+                <a href="#" class="ui-btn nav_btn result" onclick="showresults()" style="font-size:17px;color: #000000;">Results</a>
+                <a href="#" class="ui-btn nav_btn propo" onclick="showabout()" style="font-size:17px;color: #000000;">About</a>
+                <a href="#" class="ui-btn nav_btn help" onclick="showhelp()" style="font-size:17px;color: #000000;">Help</a>
+                <a href="#" class="ui-btn nav_btn help" onclick="showpolicy()" style="font-size:14px;color: #000000;">Privacy Policy</a>
+
+        </nav>
+
+       <div class="tt forLoader"></div>
+        <div class="tt message">
+
+
+        </div>
+        <div class="tt selectquest">
+
+        </div>
+
+        <div class="tt redraw">
+
+        </div>
+
+         <div role="main" class="tt showSearchContent">
+
+                <div class="tt forLoader">
+                    <div class="loading-icon">
+                <div class="loading-bar-0"></div>
+                          <div class="loading-bar-1"></div>
+                          <div class="loading-bar-2"></div>
+                          <div class="loading-bar-3"></div>
+                          <div class="loading-bar-4"></div>
+                    </div>
+                </div>
+
+            <div class="loading-icon">
+                <div class="loading-bar-0"></div>
+                          <div class="loading-bar-1"></div>
+                          <div class="loading-bar-2"></div>
+                          <div class="loading-bar-3"></div>
+                          <div class="loading-bar-4"></div>
+                    </div>
+             </div>
+         <div class="tt showspecies">
+             <div class="buttons" data-role="controlgroup"  data-type="horizontal" data-position="fixed"  data-shadow="false">
+      
+                <a href="#" class="communs button1" data-role="button"   onclick="pop(1)">Common Name</a>
+                <a href="#" class="famille button2" data-role="button" onclick="pop(2)">Family Name</a>
+                <a href="#" class="Noms button3" data-role="button" onclick="pop(3)">Species Name</a>
+                <a href="#" class="contrarev button4" data-role="button" onclick="pop(4)">Graphical view</a>
+
+            </div>
+            <div role="main" class="ui-content showSpeciesContents "></div>
+        </div>
+
+        <div class="tt showresults">
+
+        </div>
+
+        <div class="tt showabout">
+
+        </div>
+
+        <div class="tt showhelp">
+
+        </div>
+        <div class="tt showpolicy">
+
+        </div>
+        <div class="tt showContraContent">
+        </div >
+        <div class="tt popup" >
+
+        </div>
+        <div class="tt speciespopup">
+
+        </div>
+</div>
+
+
+
+
+
+
+<div data-role="page" id="showSearch" data-tansition="none" data-theme="a">
+    <div data-role="header" data-position="fixed">
+
+            <h4>BIOTIK</h4>
+
+        </div>
+    <div role="main" class="ui-content showSearchContent">
+    <div class="loading-icon">
+        <div class="loading-bar-0"></div>
+                  <div class="loading-bar-1"></div>
+                  <div class="loading-bar-2"></div>
+                  <div class="loading-bar-3"></div>
+                  <div class="loading-bar-4"></div>
+            </div>
+    </div>
+</div>
+
+<div data-role="page" id="showPopup" data-theme="a">
+    <div data-role="header" data-position="fixed">
+        <a href="#one"  onclick="showresultspopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">Back</a>
+            <h4>BIOTIK</h4>
+        </div>
+    <div role="main" class="ui-content showPopupContent">
+    </div>
+</div>
+
+
+<div data-role="page" id="showspeciesPopup" data-theme="a">
+    <div data-role="header" data-position="fixed">
+        <a href="#one"  onclick="showlistpopup()" class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">Back</a>
+            <h4>BIOTIK</h4>
+        </div>
+    <div role="main" class="ui-content showSpeciesPopupContent" height="100%">
+    </div>
+</div>
+
+<div data-role="page" id="showContra" data-theme="a">
+    <div data-role="header" data-position="fixed">
+        <a href="#one"  class="ui-btn-left ui-btn ui-icon-arrow-l ui-btn-icon-left ui-btn-inline ui-corner-all ui-mini " data-role="button" data-direction="reverse" role="button">Back</a>
+            <h4>BIOTIK</h4>
+        </div>
+    <div role="main" class="ui-content showContraContent">
+    </div>
+</div>
+
+<a href="#one" class="showone" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showPopup" class="showPopup" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showspeciesPopup" class="showspeciesPopup" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showContra" class="showContra" class="ui-btn ui-mini" style="display:none;">test</a>
+<a href="#showSearch" class="showSearch" data-tansition="none" class="ui-btn ui-mini" style="display:none;">test</a>
+
+
+
+
+
+
+
+
+
+<!-- Core Libraries -->
+<script type="text/javascript" src="cordova.js"></script>
+<script type="text/javascript" src="SQLitePlugin.js"></script>
+
+<!-- jQuery and Plugins -->
+<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.mobile-1.4.5.min.js"></script>
+<script type="text/javascript" src="www\js\circle-progress.js"></script>
+
+<!-- Custom and Library Scripts -->
+<script type="text/javascript" src="js/lib.js"></script>
+<script type="text/javascript" src="js/flore_full.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript" src="js/menu.js"></script>
+<script type="text/javascript" src="js/menuBar.js"></script>
+<script type="text/javascript" src="js/includefile.js"></script>
+<script type='application/javascript' src='js/fastclick.js'></script>
+<script type="text/javascript" src="js/translate.js"></script>
+<script type="text/javascript" src="js/swiper.min.js"></script>
+
+
+<script type="text/javascript">
+    $('.tt').hide();
+
+
+
+
+
+        $('.buttons').css({'text-align':'center'});
+        var a = window.innerHeight;
+        $(".popup ").css("height", a);
+         $(".speciespopup").css("height", a);
+
+
+
+            $('.showSpeciesContents').html(showLoader());
+
+            $('.showSpeciesContents').load("specieslistpage.html");
+
+           function extraHome(){
+             var percent = { "count": no_species, "val": "0" };
+        localStorage.setItem('percentage', JSON.stringify(percent));
+
+
+            var listvalues = localStorage.getItem('formvalues');
+            var finalvalue = JSON.parse(listvalues);
+             finalvalue.txtstore = "0";
+
+             updateProcess(no_species,0);
+            //$(".end").html("<p> 345 espèces à </p>");
+
+           }
+
+            //var listvalues = localStorage.getItem('percentage');
+            //var finalvalue = JSON.parse(listvalues);
+            //var number = finalvalue.count;
+            //var value = finalvalue.val;
+
+
+function updateProcess(number,value1){
+
+ var lan = 'en';
+         $(".languagecheck").each(function(){
+            var that = $(this);
+            if(that.hasClass('ui-btn-active')){
+              lan = that.attr('rel');
+            }
+         });
+
+  $(".canvasdiv").empty();
+  $(".canvasdiv").html('<div class="circle" style="position: absolute;"></div> <p style="position: absolute;z-index: 9999;color: red;left: 40px;top: 20px;width: 100px;"><span class="per_cou" style="margin-left: 10px;">'+number+'</span> <br>'+window.i8ln[lan].species+'</p><br><p style="position: absolute;top: 65px;width: 100px;left: 50px;z-index: 9999;color: red;"> '+window.i8ln[lan].at+' <span class="per_num">'+value1+'%</span></p>');
+
+  var val1 = value1*0.01;
+  if (window.jQuery) {
+    console.log("jQuery is loaded!");
+} else {
+    console.error("jQuery is not loaded!");
+}
+$(document).ready(function() {
+if ($('.circle').length) {
+    console.log(".circle element found!");
+} else {
+    console.error(".circle element not found!");
+    return; // Exit if the element is not found
+}
+});
+
+
+$(document).ready(function() {
+        if ($.fn.circleProgress) {
+            $(document).ready(function() {
+    $('.circle').circleProgress({
+        value: val1,
+        size: 80,
+        fill: {
+            color: "#ff1e41"
+        }
+    });
+});
+        }
+        else{
+            console.log("circle-progress is not loaded")
+        }
+    });
+
+ 
+}
+
+
+
+
+var longpress;
+
+function active_touch(){
+ var newcheck = 0;
+
+$("#homesvg g").on('touchstart' ,function(ev){
+ longpress=true;
+ setTimeout(function() {
+    if(longpress){
+      newcheck = 1;
+     //alert("long press works!");
+
+     for(var j = 0; j < Object.keys(object_asc).length; j++){
+            if(object_asc[j]['Objet'] == ev.target.id){
+              //alert(object_asc[j]['TipText']);
+              return false;
+            }
+     }
+
+    }
+
+  }, 2000);
+ if(newcheck == 1){
+  newcheck =0;
+    return false;
+  }
+})
+$("#homesvg g").on('touchend' ,function(){
+    longpress=false;
+})
+}
+
+
+</script>
+
+
+    </body>
+</html>

@@ -1,0 +1,13 @@
+ <g id="LfRatio_15">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="LfRatio" onclick="showquest('LfRatio')" onmousemove="showrobotip('LfRatio','Length / Width ratio of the lamina')" onmouseout="hidetooltip('LfRatio')"  cursor="pointer" >
+   <rect id="_84630288" fill="white" stroke="black" stroke-width="0.0762" x="153" y="5" width="16" height="26"/>
+   <g>
+    <path id="limbe" fill="#78B43C" stroke="#7F7F7F" stroke-width="0.0762" d="M161.123 24.233c-13.8531,-4.8957 -5.982,-13.5169 -1.1593,-15.0205 7.9104,1.4206 14.1629,10.584 1.1593,15.0205z"/>
+    <g>
+     <path id="petiole" fill="#99CC00" stroke="#7F7F7F" stroke-width="0.0762" d="M160.5 23.5892c-0.2269,1.0285 -0.3686,2.1184 -0.4522,2.7171 -0.0305,0.2188 0.4781,0.9192 0.8735,0.9323 0.09,-0.4474 0.261,-2.6861 0.3346,-3.4038 -0.0614,-0.1195 -0.6362,-0.2248 -0.7559,-0.2456z"/>
+     <path id="nervure" fill="#99CC00" stroke="#7F7F7F" stroke-width="0.0762" d="M161.258 23.8237c0.7039,-3.8079 0.4826,-9.9419 -0.568,-12.4884 0.4734,2.7578 0.4965,6.2717 0.4008,8.0345 -0.0332,0.6119 -0.5293,3.6328 -0.597,4.2268 0.1441,0.1096 0.3167,0.2444 0.5338,0.3769 0.0717,-0.0352 0.1325,-0.0845 0.2304,-0.1498z"/>
+    </g>
+   </g>
+  </g>
+ </g>

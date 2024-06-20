@@ -1,0 +1,7 @@
+ <g id="FlPos_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <polygon id="FlPos" onclick="showquest('FlPos')" onmousemove="showrobotip('FlPos','How is the flowers position?')" onmouseout="hidetooltip('FlPos')"  cursor="pointer"  fill="white" fill-opacity="0.301961" points="86,114 86,106 102,106 102,114 "/>
+   <polygon id="FlPos1" fill="none" stroke="#7F7F7F" stroke-width="0.0762" points="86,114 86,106 102,106 102,114 "/>
+  </g>
+ </g>

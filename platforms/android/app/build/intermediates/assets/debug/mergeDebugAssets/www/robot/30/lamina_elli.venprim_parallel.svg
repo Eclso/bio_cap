@@ -1,0 +1,19 @@
+ <g id="Lamina_Elli.VenPrim_Parallel">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="VenPrim" onclick="showquest('VenPrim')" onmousemove="showrobotip('VenPrim','Primary venation')" onmouseout="hidetooltip('VenPrim')"  cursor="pointer" >
+   <g id="lamina_elli.prim_parallel.cdr">
+    <path id="nervure_x0020_theo_x0020_lin" fill="#1F1A17" stroke="#1F1A17" stroke-width="0.0762" d="M205.165 29.2324c0.1624,-0.1545 0.3157,-0.1147 0.3867,0.0205l0 66.472 -0.3867 -0.0063c0,-52.6116 0,-46.1194 0,-66.4862z"/>
+    <g id="nervures">
+     <path id="_81728336" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.313 26.8315c-3.9268,27.0013 -9.492,52.2678 -0.0339,69.7182"/>
+     <path id="_328544144" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.204 27.0355c-9.3836,20.1424 -15.0838,54.344 0.0692,69.7128"/>
+     <path id="_328543784" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.328 26.7396c-15.2073,14.7381 -19.7675,56.9199 -0.0419,70.1722"/>
+     <path id="_328542784" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.456 26.8108c8.6051,22.6472 17.7256,44.3082 -0.1382,69.7754"/>
+     <path id="_81809288" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.497 27.0704c10.8442,12.1272 22.2448,48.6088 -0.1847,69.6833"/>
+     <path id="_335536176" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.313 26.8315c0.0131,15.3193 -3.697,47.552 -0.0341,69.7183"/>
+     <path id="_335839472" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.734 31.1936c8.327,17.1244 8.327,51.326 -0.0704,64.289"/>
+    </g>
+    <path id="_335838288" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.368 29.1329c2.9928,15.7649 3.9585,44.1834 0.2956,66.3496"/>
+   </g>
+   <polygon id="VenPrim_0" fill="white" fill-opacity="0.011765" points="203.694,29.303 206.899,29.303 206.899,95.4665 203.694,95.4665 "/>
+  </g>
+ </g>

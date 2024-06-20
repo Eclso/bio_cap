@@ -1,0 +1,12 @@
+ <g id="Lamina_Dflt.Base_Auriculate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="202.026" y="95.4443" width="7.18665" height="2.72816"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="auriculate" fill="#A6D10D" stroke="#1F1A17" stroke-width="0.0762" stroke-linejoin="bevel" d="M208.403 100.544c1.2936,1.6619 3.367,-0.1275 2.2294,-2.7087 -1.2233,-2.7756 2.9194,-2.5229 3.0972,-7.9166l-16.9668 0.0087c-0.6852,4.3122 4.2923,5.2898 3.6209,7.7085 -0.9278,3.3428 1.2314,3.9146 2.1013,3.5418 0.9722,-0.4166 1.152,-2.9472 2.7436,-3.0052 1.7016,-0.0621 1.4494,0.6006 3.1744,2.3715z"/>
+   <polygon id="cache" fill="#A6D10D" stroke="#A6D10D" stroke-width="0.0762" points="196.841,89.9232 213.648,89.8999 213.598,90.1279 196.898,90.1279 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

@@ -1,0 +1,24 @@
+ <g id="Lamina_Dflt.Base_Peltate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="195.536" y="89.9069" width="20.2605" height="8.26548"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="_327162448" fill="#E5E5E5" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M204.514 93.2857c1.6204,1.9416 0.1453,8.939 0.0548,10.3129l2.2481 0c-0.0606,-0.8559 -1.6326,-8.391 -0.2557,-10.2435 -0.603,-0.9284 -1.4283,-0.6657 -2.0472,-0.0694z"/>
+   <path id="base_x0020_arrondie" fill="#A6D10D" stroke="#1F1A17" stroke-width="0.0762" stroke-linejoin="bevel" d="M213.74 89.9125c-0.1006,0.0064 -15.4729,-0.0078 -16.9822,0.0079 2.6764,6.1063 6.465,8.0094 8.7857,7.9095 2.3207,-0.1 5.8803,-1.9256 8.1965,-7.9174z"/>
+   <polygon id="cache" fill="#A6D10D" stroke="#A6D10D" stroke-width="0.0762" points="196.82,89.882 213.663,89.882 213.566,90.1279 196.944,90.1279 "/>
+   <g id="nervures">
+    <polygon id="_338473568" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="205.497,90.1407 205.514,92.7326 "/>
+    <path id="_338472576" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M208.805 90.1597c-1.1946,0.7166 -2.3204,0.9284 -3.291,2.5729"/>
+    <path id="_339796952" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M202.154 90.1233c1.6587,0.4977 2.3632,1.3616 3.3598,2.6093"/>
+    <path id="_338399016" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M209.296 92.262c-0.8908,-0.1762 -2.4313,-0.8254 -3.7824,0.4706"/>
+    <path id="_338398024" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M201.812 92.4599c0.6233,-0.5566 2.3061,-0.842 3.7017,0.2727"/>
+    <path id="_77444880" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M202.629 94.5685c0.4144,-0.8036 1.4893,-2.9506 2.8849,-1.8359"/>
+    <path id="_78110528" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M208.413 94.4656c-0.5583,-1.0501 -1.5479,-3.029 -2.899,-1.733"/>
+    <path id="_333414184" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M207.321 95.2825c0.0021,-1.0121 -0.4556,-3.8459 -1.8067,-2.5499"/>
+    <path id="_333413328" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M203.569 95.3948c0.1295,-0.6516 0.4161,-3.5395 1.9446,-2.6622"/>
+   </g>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

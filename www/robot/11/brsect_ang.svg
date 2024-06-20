@@ -1,0 +1,20 @@
+ <g id="BrSect_Ang">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="A_Br">
+   <path id="base_x0020_bas" fill="#F0965A" d="M107.582 165.742c0.7744,2.3947 4.4509,3.073 7.3017,3.7506 2.9277,-1.3134 6.659,-2.5673 7.7521,-3.6418 -3.1373,1.7147 -12.2597,1.2384 -15.0538,-0.1088z"/>
+   <path id="angle_x0020_bas" fill="none" stroke="black" stroke-width="0.0762" d="M114.868 157.706c0,6.1682 0.0159,10.8456 0.0159,10.8456"/>
+   <path id="base_x0020_bas_0" fill="none" stroke="#1F1A17" stroke-width="0.0762" d="M107.582 165.742c0.5044,2.2224 4.8339,3.2845 7.3017,3.7506 3.0464,-1.3712 6.6924,-2.4877 7.7521,-3.6418"/>
+   <path id="angle_x0020_haut" fill="none" stroke="black" stroke-width="0.0762" d="M114.644 97.4502c0,9.711 0.0159,17.0748 0.0159,17.0748"/>
+  </g>
+  <g id="BrSect" onclick="showquest('BrSect')" onmousemove="showrobotip('BrSect','Branchelets section')" onmouseout="hidetooltip('BrSect')"  cursor="pointer" >
+   <g id="section_x0020_carre">
+    <path id="invisible" fill="white" d="M114.504 87.1769l-5.7965 5.4256c-1.1601,-1.2394 -2.3203,-2.4789 -3.4805,-3.7184 3.0924,-0.5691 6.1847,-1.1381 9.277,-1.7072z"/>
+    <path id="_336607680" fill="#B47800" stroke="black" stroke-width="0.0762" d="M113.267 87.4421l-5.1465 3.43c-1.0139,0.6758 -0.638,1.5372 0.8353,1.9144l4.3601 1.1163c0.89,0.2278 2.119,0.0803 2.7315,-0.3279l5.8765 -3.9165c1.0139,-0.6758 0.638,-1.5372 -0.8353,-1.9144l-3.2994 -0.8447c-1.4733,-0.3772 -3.5083,-0.1329 -4.5222,0.5428z"/>
+    <rect id="_80539080" fill="#CCCC33" stroke="black" stroke-width="0.0762" transform="matrix(-0.419645 0.279682 0.609796 0.156116 115.327 86.956)" width="15.9315" height="10.7445" rx="2.4375" ry="2.4375"/>
+   </g>
+   <g>
+    <polygon id="section" fill="white" fill-opacity="0.149020" points="102,95.5 102,82.5 128,82.5 128,95.5 "/>
+    <polygon id="section1" fill="none" stroke="black" stroke-width="0.0762" points="102,95.5 102,82.5 128,82.5 128,95.5 "/>
+   </g>
+  </g>
+ </g>

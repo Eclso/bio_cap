@@ -1,0 +1,8 @@
+ <g id="Lamina_Dflt.Margin_Entire">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer"  fill="#A6D10D" stroke="#1F1A17" stroke-width="0.0762" d="M203.722 97.691c-16.5158,-11.9605 -20.423,-51.2348 1.5934,-73.9908 20.5813,19.6536 19.114,60.022 1.7929,73.9908l-3.3863 0z"/>
+  <g>
+   <polygon id="Margin" onclick="showquest('Margin')" onmousemove="showrobotip('Margin','Margin of the lamina')" onmouseout="hidetooltip('Margin')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="186.293,59.5805 193.981,59.5805 193.981,72.7875 186.293,72.7875 "/>
+   <polygon id="Margin1" fill="none" stroke="black" stroke-width="0.0762" points="186.293,59.5805 193.981,59.5805 193.981,72.7875 186.293,72.7875 "/>
+  </g>
+ </g>

@@ -1,0 +1,8 @@
+ <g id="Lamina_Loba.Margin_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer"  fill="#32984B" stroke="#AAA9A9" stroke-width="0.0762" d="M205.435 24.5091c5.7932,5.4909 10.3421,25.3815 14.1725,27.4908 1.7338,0.9549 4.5661,-1.9264 9.7289,-0.3556 5.0213,10.623 1.9351,25.5121 0.4785,31.9721 0.5092,1.0995 0.696,2.285 0.8568,3.5548 -0.8663,7.4023 -10.8215,14.7158 -25.4846,9.2992 -13.546,5.5409 -24.682,-2.0982 -25.1363,-9.2838 0.2149,-1.3544 0.5788,-2.6729 1.0936,-3.8404 -1.8035,-5.9272 -5.5462,-21.8073 0.1546,-32.0643 4.3203,-1.1704 8.1086,2.1821 9.9361,0.6369 4.5844,-3.8766 8.1983,-23.0045 14.1999,-27.4097z"/>
+  <g>
+   <polygon id="Margin" onclick="showquest('Margin')" onmousemove="showrobotip('Margin','Margin of the lamina')" onmouseout="hidetooltip('Margin')"  cursor="pointer"  fill="white" fill-opacity="0.301961" points="173.81,59.5805 181.497,59.5805 181.497,72.7875 173.81,72.7875 "/>
+   <polygon id="Margin1" fill="none" stroke="#7F7F7F" stroke-width="0.0762" points="173.81,59.5805 181.497,59.5805 181.497,72.7875 173.81,72.7875 "/>
+  </g>
+ </g>

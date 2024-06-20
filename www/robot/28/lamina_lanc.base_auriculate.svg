@@ -1,0 +1,12 @@
+ <g id="Lamina_Lanc.Base_Auriculate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="198.562" y="94.1094" width="13.8655" height="3.36452"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="forme_x0020_limbe" fill="#32984B" stroke="#1F1A17" stroke-width="0.0762" d="M217.263 89.7517c-7.709,0.2527 -15.7464,0.0131 -23.6196,0.0197 0.0925,0.1959 0.1846,0.3873 0.2762,0.5739 0.641,1.3072 2.2614,2.7808 2.8569,3.6742 0.7267,1.8389 -0.3051,5.7774 1.1467,6.3474 3.4382,1.3498 6.6733,-5.4898 7.5901,-5.4811 0.962,0.009 3.3975,6.185 7.5002,5.1632 1.0928,-0.2722 0.2641,-4.4513 1.3969,-6.374 0.4388,-0.7448 2.1121,-2.3253 2.5715,-3.3084 0.0933,-0.1997 0.1871,-0.4047 0.2811,-0.6149z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="193.727,89.7457 217.162,89.7156 217.053,89.9932 193.813,89.9932 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

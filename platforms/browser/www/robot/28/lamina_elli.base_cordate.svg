@@ -1,0 +1,12 @@
+ <g id="Lamina_Elli.Base_Cordate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" x="202.026" y="95.4443" width="7.18665" height="2.72816"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="base_x0020_cordée" fill="#32984B" stroke="#1F1A17" stroke-width="0.0762" stroke-linejoin="bevel" d="M196.763 89.9274c3.293,13.7543 6.8856,6.0721 8.7962,6.0661 1.9106,-0.006 6.2413,7.7682 8.1706,-6.0748 -5.5698,0.0075 -11.2939,0.1086 -16.9668,0.0087z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="196.841,89.9232 213.648,89.8999 213.598,90.1279 196.898,90.1279 "/>
+  </g>
+  <g>
+   <polygon id="Base" onclick="showquest('Base')" onmousemove="showrobotip('Base','Base of the lamina')" onmouseout="hidetooltip('Base')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+   <polygon id="Base1" fill="none" stroke="black" stroke-width="0.0762" points="198.854,93.9575 212.06,93.9575 212.06,101.644 198.854,101.644 "/>
+  </g>
+ </g>

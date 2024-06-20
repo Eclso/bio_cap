@@ -1,0 +1,140 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ifp.biotik"
+4    android:hardwareAccelerated="true"
+5    android:versionCode="44"
+6    android:versionName="1.1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+10        android:targetSdkVersion="34" />
+11
+12    <supports-screens
+12-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+13        android:anyDensity="true"
+13-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+14        android:largeScreens="true"
+14-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+15        android:normalScreens="true"
+15-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+16        android:resizeable="true"
+16-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+17        android:smallScreens="true"
+17-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+18        android:xlargeScreens="true" />
+18-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+19
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+20-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+21
+22    <queries>
+22-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:16:5-20:15
+23        <intent>
+23-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:17:9-19:18
+24            <action android:name="android.media.action.IMAGE_CAPTURE" />
+24-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:18:13-73
+24-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:18:21-70
+25        </intent>
+26    </queries>
+27
+28    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+28-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:21:5-81
+28-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:21:22-78
+29
+30    <permission
+30-->[androidx.core:core:1.9.0] C:\Users\alanw\.gradle\caches\transforms-4\935f0b2011a42b1f4580a29b15bc8c15\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+31        android:name="com.ifp.biotik.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+31-->[androidx.core:core:1.9.0] C:\Users\alanw\.gradle\caches\transforms-4\935f0b2011a42b1f4580a29b15bc8c15\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+32        android:protectionLevel="signature" />
+32-->[androidx.core:core:1.9.0] C:\Users\alanw\.gradle\caches\transforms-4\935f0b2011a42b1f4580a29b15bc8c15\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+33
+34    <uses-permission android:name="com.ifp.biotik.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+34-->[androidx.core:core:1.9.0] C:\Users\alanw\.gradle\caches\transforms-4\935f0b2011a42b1f4580a29b15bc8c15\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+34-->[androidx.core:core:1.9.0] C:\Users\alanw\.gradle\caches\transforms-4\935f0b2011a42b1f4580a29b15bc8c15\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+35
+36    <application
+36-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:5:5-15:19
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.9.0] C:\Users\alanw\.gradle\caches\transforms-4\935f0b2011a42b1f4580a29b15bc8c15\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+38        android:debuggable="true"
+39        android:extractNativeLibs="false"
+40        android:hardwareAccelerated="true"
+40-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+41        android:icon="@mipmap/ic_launcher"
+41-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:5:53-87
+42        android:label="@string/app_name"
+42-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:5:88-120
+43        android:supportsRtl="true" >
+43-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:5:121-147
+44        <activity
+44-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+45            android:name="com.ifp.biotik.MainActivity"
+45-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:6:229-256
+46            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
+46-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:6:19-135
+47            android:exported="true"
+47-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:6:136-159
+48            android:label="@string/activity_name"
+48-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:6:160-197
+49            android:launchMode="singleTop"
+49-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:6:198-228
+50            android:screenOrientation="landscape"
+50-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:6:257-294
+51            android:theme="@style/Theme.App.SplashScreen"
+51-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:6:295-340
+52            android:windowSoftInputMode="adjustResize" >
+52-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:6:341-383
+53            <intent-filter android:label="@string/launcher_name" >
+53-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+53-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+54                <action android:name="android.intent.action.MAIN" />
+54-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+54-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+56-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+57            </intent-filter>
+58        </activity>
+59
+60        <provider
+61            android:name="androidx.core.content.FileProvider"
+61-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:12:141-190
+62            android:authorities="com.ifp.biotik.cdv.core.file.provider"
+62-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:12:19-80
+63            android:exported="false"
+63-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:12:81-105
+64            android:grantUriPermissions="true" >
+64-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:12:106-140
+65            <meta-data
+65-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:13:13-130
+66                android:name="android.support.FILE_PROVIDER_PATHS"
+66-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:13:24-74
+67                android:resource="@xml/cdv_core_file_provider_paths" />
+67-->E:\ifp\ifp-biotik-app-ionic-master\platforms\android\app\src\main\AndroidManifest.xml:13:75-127
+68        </provider>
+69        <provider
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alanw\.gradle\caches\transforms-4\235ce041e3654214bab3d160a72ea481\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+70            android:name="androidx.startup.InitializationProvider"
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alanw\.gradle\caches\transforms-4\235ce041e3654214bab3d160a72ea481\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+71            android:authorities="com.ifp.biotik.androidx-startup"
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alanw\.gradle\caches\transforms-4\235ce041e3654214bab3d160a72ea481\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+72            android:exported="false" >
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alanw\.gradle\caches\transforms-4\235ce041e3654214bab3d160a72ea481\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+73            <meta-data
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alanw\.gradle\caches\transforms-4\235ce041e3654214bab3d160a72ea481\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alanw\.gradle\caches\transforms-4\235ce041e3654214bab3d160a72ea481\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+75                android:value="androidx.startup" />
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\alanw\.gradle\caches\transforms-4\235ce041e3654214bab3d160a72ea481\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+76            <meta-data
+76-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\alanw\.gradle\caches\transforms-4\be267c37a3516875aadc94c5172ad79a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+77                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+77-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\alanw\.gradle\caches\transforms-4\be267c37a3516875aadc94c5172ad79a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+78                android:value="androidx.startup" />
+78-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\alanw\.gradle\caches\transforms-4\be267c37a3516875aadc94c5172ad79a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+79        </provider>
+80    </application>
+81
+82</manifest>

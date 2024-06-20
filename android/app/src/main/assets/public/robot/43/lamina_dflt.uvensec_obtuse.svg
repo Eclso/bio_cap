@@ -1,0 +1,27 @@
+ <g id="Lamina_Dflt.UVenSec_Obtuse">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="VenSec" onclick="showquest('VenSec')" onmousemove="showrobotip('VenSec','Type of secondary venation')" onmouseout="hidetooltip('VenSec')"  cursor="pointer" >
+   <g id="_38_x0020_-_x0020_Obtuse_x0020_droit">
+    <path id="_7_x0020_-_x0020_nervure" fill="none" stroke="black" stroke-width="0.0762" d="M205.578 73.9705c5.6482,-3.573 10.4797,-12.0498 11.3761,-15.4641"/>
+    <path id="_6_x0020_-_x0020_nervure" fill="none" stroke="black" stroke-width="0.0762" d="M205.578 64.3821c5.2738,-2.5002 8.7108,-10.0633 9.6405,-13.4947"/>
+    <path id="_5_x0020_-_x0020_nervure" fill="none" stroke="black" stroke-width="0.0762" d="M205.571 55.23c3.8131,-2.3587 6.4824,-7.0181 7.1685,-10.6799"/>
+    <path id="_4_x0020_-_x0020_nervure" fill="none" stroke="black" stroke-width="0.0762" d="M205.59 46.3522c2.927,-1.5484 3.9063,-4.3564 4.9162,-8.0042"/>
+    <path id="_3_x0020_-_x0020_nervure" fill="none" stroke="black" stroke-width="0.0762" d="M205.578 38.8913c2.3282,-1.7854 2.8239,-2.259 3.0621,-3.737"/>
+    <path id="_2_x0020_-_x0020_nervure" fill="none" stroke="black" stroke-width="0.0762" d="M205.578 33.3251c1.7277,-0.7596 1.7178,-1.6223 1.793,-2.1484"/>
+    <path id="_1_x0020_-_x0020_nervure" fill="none" stroke="black" stroke-width="0.0762" d="M205.578 29.8243c0.3262,-0.1783 0.6337,-0.04 0.7608,-0.7841"/>
+   </g>
+   <g id="_38_x0020_-_x0020_Obtuse_x0020_gauche">
+    <path id="_7_x0020_-_x0020_nervure_0" fill="none" stroke="black" stroke-width="0.0762" d="M205.238 73.9705c-5.6482,-3.573 -10.2283,-11.8403 -11.1247,-15.2546"/>
+    <path id="_6_x0020_-_x0020_nervure_1" fill="none" stroke="black" stroke-width="0.0762" d="M205.238 64.3821c-5.2738,-2.5002 -8.5432,-9.6863 -9.473,-13.1176"/>
+    <path id="_5_x0020_-_x0020_nervure_2" fill="none" stroke="black" stroke-width="0.0762" d="M205.245 55.23c-3.8131,-2.3587 -6.189,-6.8085 -6.8751,-10.4703"/>
+    <path id="_4_x0020_-_x0020_nervure_3" fill="none" stroke="black" stroke-width="0.0762" d="M205.226 46.3522c-2.927,-1.5484 -3.8435,-3.9466 -4.8534,-7.5943"/>
+    <path id="_3_x0020_-_x0020_nervure_4" fill="none" stroke="black" stroke-width="0.0762" d="M205.238 38.8913c-2.3282,-1.7854 -2.8239,-2.259 -3.0621,-3.737"/>
+    <path id="_2_x0020_-_x0020_nervure_5" fill="none" stroke="black" stroke-width="0.0762" d="M205.238 33.3251c-1.7277,-0.7596 -1.7178,-1.6223 -1.793,-2.1484"/>
+    <path id="_1_x0020_-_x0020_nervure_6" fill="none" stroke="black" stroke-width="0.0762" d="M205.238 29.8243c-0.3262,-0.1783 -0.6337,-0.04 -0.7608,-0.7841"/>
+   </g>
+   <g>
+    <path id="VenSec_7" fill="white" fill-opacity="0.149020" d="M213.045 55.8003c2.761,0 5,2.239 5,5 0,2.7609 -2.239,5 -5,5 -2.7609,0 -5,-2.2391 -5,-5 0,-2.761 2.2391,-5 5,-5z"/>
+    <path id="VenSec_71" fill="none" stroke="black" stroke-width="0.0762" d="M213.045 55.8003c2.761,0 5,2.239 5,5 0,2.7609 -2.239,5 -5,5 -2.7609,0 -5,-2.2391 -5,-5 0,-2.761 2.2391,-5 5,-5z"/>
+   </g>
+  </g>
+ </g>

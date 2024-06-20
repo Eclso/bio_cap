@@ -1,0 +1,10 @@
+ <g id="BrSect_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="BrSect" onclick="showquest('BrSect')" onmousemove="showrobotip('BrSect','Branchelets section')" onmouseout="hidetooltip('BrSect')"  cursor="pointer" >
+   <g>
+    <polygon id="section" fill="white" fill-opacity="0.301961" points="102,95.5 102,82.5 128,82.5 128,95.5 "/>
+    <polygon id="section1" fill="none" stroke="#7F7F7F" stroke-width="0.0762" points="102,95.5 102,82.5 128,82.5 128,95.5 "/>
+   </g>
+   <ellipse id="Section" fill="#CCCC33" stroke="#838281" stroke-width="0.0762" cx="114.988" cy="88.6435" rx="7.1609" ry="2.98371"/>
+  </g>
+ </g>

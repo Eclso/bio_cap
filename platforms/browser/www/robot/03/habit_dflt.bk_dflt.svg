@@ -1,0 +1,4 @@
+ <g id="Habit_Dflt.Bk_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon id="Roots" onclick="showquest('Roots')" onmousemove="showrobotip('Roots','Type of roots')" onmouseout="hidetooltip('Roots')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="0.174,174.142 78.941,174.142 78.941,179.883 0.174,179.883 "/>
+ </g>

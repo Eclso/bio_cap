@@ -1,0 +1,12 @@
+ <g id="Lamina_Dflt.Margin_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer"  fill="#A6D10D" stroke="#B9B8B7" stroke-width="0.0762" d="M203.696 97.7136c-16.5158,-11.9604 -20.3969,-51.2574 1.6195,-74.0134 20.5813,19.6536 19.1369,60.0041 1.8158,73.9728 -0.0106,0.0027 -3.4256,0.0438 -3.4353,0.0406z">
+   <metadata id="CorelCorpID_1">
+    <odm name="Nom" value="petiole" type="0"/>
+   </metadata>
+  </path>
+  <g>
+   <polygon id="Margin" onclick="showquest('Margin')" onmousemove="showrobotip('Margin','Margin of the lamina')" onmouseout="hidetooltip('Margin')"  cursor="pointer"  fill="white" fill-opacity="0.301961" points="186.293,59.5805 193.981,59.5805 193.981,72.7875 186.293,72.7875 "/>
+   <polygon id="Margin1" fill="none" stroke="#7F7F7F" stroke-width="0.0762" points="186.293,59.5805 193.981,59.5805 193.981,72.7875 186.293,72.7875 "/>
+  </g>
+ </g>

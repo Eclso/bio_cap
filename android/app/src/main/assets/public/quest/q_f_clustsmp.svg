@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+  viewBox="0 0 240 180"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<a>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect fill="none" width="240" height="180"/>
+  <g id="Phyllo_Noclust" onclick="parent.replacechar('Phyllo_Noclust')" onmousemove="parent.showtooltip('Phyllo_Noclust', 'Leaves not clustered at the twig apices')" onmouseout="parent.hidetooltip('Phyllo_Noclust')" cursor="pointer" >
+   <g id="f7">
+    <path id="limbe" fill="#00733B" stroke="black" stroke-width="0.0762" d="M179.641 80.2572c0.0694,10.6034 -26.1315,2.2897 -31.6429,-9.4076 10.0829,-6.1382 34.9955,0.8629 31.6429,9.4076z"/>
+    <path id="nervure" fill="#005E31" stroke="black" stroke-width="0.0762" d="M148.033 70.8521c11.5652,2.9673 24.7787,5.4083 32.3394,9.5071 -0.1249,0.3011 -0.1294,0.4173 -0.2541,0.7184 -4.9108,-3.6608 -18.7984,-6.5299 -32.0853,-10.2255z"/>
+   </g>
+   <g id="f2">
+    <path id="limbe_0" fill="#00733B" stroke="black" stroke-width="0.0762" d="M201.787 38.3418c-1.4629,7.2904 -10.6976,27.615 -20.5144,23.065 -6.1396,-4.7155 11.2018,-19.9303 20.5144,-23.065z"/>
+    <path id="nervure_1" fill="#005E31" stroke="black" stroke-width="0.0762" d="M180.685 62.8231c-0.1639,-0.0807 -0.1876,-0.0905 -0.3389,-0.1573 4.2899,-8.7917 15.5518,-19.5278 21.4317,-24.3238 -8.666,7.779 -16.3122,15.7698 -21.0928,24.4811z"/>
+   </g>
+   <g id="f_x0020_5">
+    <path id="limbe_2" fill="#00733B" stroke="black" stroke-width="0.0762" d="M158.156 148.848c12.8435,-3.805 34.7014,-25.661 20.5245,-25.4599 -7.107,-2.4179 -21.9079,18.1266 -20.5245,25.4599z"/>
+    <path id="nervure_3" fill="#005E31" stroke="black" stroke-width="0.0762" d="M158.196 148.803c8.4447,-12.3343 16.2823,-22.8545 22.1215,-26.4621 0.3482,-0.1358 0.6464,-0.2642 1.0786,-0.2311 -5.6851,3.5429 -14.6775,15.0852 -23.2001,26.6932z"/>
+   </g>
+   <g id="f8">
+    <path id="limbe_4" fill="#00733B" stroke="black" stroke-width="0.0762" d="M218.158 108.986c-9.4023,5.5812 -38.9807,0.0501 -33.1189,-10.3305 3.1979,-13.356 27.8003,2.3106 33.1189,10.3305z"/>
+    <path id="nervure_5" fill="#005E31" stroke="black" stroke-width="0.0762" d="M184.375 97.6139c10.6819,0.2297 23.4223,5.6087 33.7139,11.3399 -18.4488,-9.1356 -28.5807,-11.1973 -35.6049,-10.953 0.2799,-0.4131 1.4423,-0.4887 1.891,-0.3869z"/>
+   </g>
+   <path id="axe" fill="#D2A01E" stroke="black" stroke-width="0.0762" d="M179.88 38.9189c0.6997,-3.8879 3.9249,-4.0319 4.5185,0l0 117.725c-1.5045,0.9539 -3.0147,0.9941 -4.5185,0l0 -117.725z"/>
+  </g>
+  <g id="Phyllo_Clust" onclick="parent.replacechar('Phyllo_Clust')" onmousemove="parent.showtooltip('Phyllo_Clust', 'Leaves clustered at the twig ends')" onmouseout="parent.hidetooltip('Phyllo_Clust')" cursor="pointer" >
+   <g id="f2_6">
+    <path id="limbe_7" fill="#00733B" stroke="black" stroke-width="0.0762" d="M76.6645 33.5468c-1.4629,7.2904 -10.6976,27.615 -20.5144,23.065 -6.1396,-4.7154 11.2018,-19.9302 20.5144,-23.065z"/>
+    <path id="nervure_8" fill="#005E31" stroke="black" stroke-width="0.0762" d="M55.5629 58.0281c-0.1639,-0.0807 -0.1876,-0.0905 -0.3389,-0.1572 4.2899,-8.7918 15.5518,-19.5279 21.4317,-24.3238 -8.6659,7.7789 -16.3121,15.7697 -21.0928,24.481z"/>
+   </g>
+   <g id="f3">
+    <path id="limbe_9" fill="#00733B" stroke="black" stroke-width="0.0762" d="M54.3858 61.7399c0.0695,10.6034 -26.1315,2.2896 -31.6429,-9.4077 10.0829,-6.1381 34.9955,0.863 31.6429,9.4077z"/>
+    <path id="nervure_10" fill="#005E31" stroke="black" stroke-width="0.0762" d="M22.7775 52.3347c11.5651,2.9673 24.7787,5.4083 32.3393,9.5072 -0.1248,0.301 -0.1293,0.4172 -0.254,0.7183 -4.9108,-3.6608 -18.7985,-6.5298 -32.0853,-10.2255z"/>
+   </g>
+   <path id="axe_11" fill="#D2A01E" stroke="black" stroke-width="0.0762" d="M54.7572 46.3251c0.6997,-3.8879 3.9249,-4.0319 4.5185,0l0 117.725c-1.5045,0.9539 -3.0147,0.9942 -4.5185,0l0 -117.725z"/>
+   <g id="f_x0020_9">
+    <path id="limbe_12" fill="#00733B" stroke="black" stroke-width="0.0762" d="M26.6925 87.6376c13.3941,-0.1761 40.3637,-15.2787 26.6645,-18.9332 -6.1839,-4.2562 -26.0055,11.4996 -26.6645,18.9332z"/>
+    <path id="nervure_13" fill="#005E31" stroke="black" stroke-width="0.0762" d="M26.7431 87.6053c11.6147,-9.6953 21.9633,-17.5236 28.6425,-19.4337 0.2269,-0.0647 0.6736,-0.0773 0.8565,0.1078 -6.5113,1.8895 -18.008,10.3595 -29.499,19.3259z"/>
+   </g>
+   <g id="f4">
+    <path id="limbe_14" fill="#00733B" stroke="black" stroke-width="0.0762" d="M92.2283 73.2261c-9.4024,5.5812 -38.9808,0.0501 -33.1189,-10.3305 3.1978,-13.356 27.8003,2.3106 33.1189,10.3305z"/>
+    <path id="nervure_15" fill="#005E31" stroke="black" stroke-width="0.0762" d="M58.5208 61.9759c10.7537,-0.1252 23.32,5.4871 33.6379,11.2183 -18.4945,-9.2336 -30.1828,-11.4863 -34.9129,-10.5654 0.0758,-0.356 0.8402,-0.5334 1.275,-0.6529z"/>
+   </g>
+   <g id="f2_16">
+    <path id="limbe_17" fill="#00733B" stroke="black" stroke-width="0.0762" d="M36.6593 28.5428c1.2971,6.4639 9.485,24.4845 18.1889,20.4503 5.4436,-4.1809 -9.9319,-17.6709 -18.1889,-20.4503z"/>
+    <path id="nervure_18" fill="#005E31" stroke="black" stroke-width="0.0762" d="M55.3688 50.2488c0.1453,-0.0715 0.1664,-0.0802 0.3005,-0.1394 -3.8036,-7.7951 -13.7888,-17.3141 -19.0022,-21.5664 7.6836,6.8971 14.463,13.982 18.7017,21.7058z"/>
+   </g>
+  </g>
+ </g>
+<image xlink:href="tick.gif" id="imgtick" x="-100" y="-100" width="15" height="15"/>
+<rect id="recttooltip" x="-100" y="-100" width="55" height="6" fill-opacity="0.4" pointer-events="none"/>
+<text id="textboxid" x="-100" y="-100" pointer-events="none"> </text>
+</a></svg>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Circle Progress Example</title>
+    <style>
+        .circle {
+            position: relative;
+            width: 100px;
+            height: 100px;
+            margin: 50px auto;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="circle"></div>
+
+    <!-- Include jQuery -->
+    <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery.mobile-1.4.5.min.js"></script>
+    <script type="text/javascript" src="js/circle-progress.js"></script>
+    
+    <!-- Custom script to initialize circle progress -->
+    <script>
+        $(document).ready(function() {
+        if ($.fn.circleProgress) {
+            console.log("circle-progress is loaded!");
+        }
+        else{
+            console.log("circle-progress is not loaded")
+        }
+    });
+
+            $('.circle').circleProgress({
+                value: 1,
+                size: 100,
+                fill: {
+                    gradient: ["#3aeabb", "#fdd250"]
+                },
+                thickness: 10,
+                startAngle: -Math.PI / 4 * 2,
+                emptyFill: 'rgba(0, 0, 0, .1)',
+                animation: {
+                    duration: 1200,
+                    easing: 'circleProgressEasing'
+                }
+            });
+       
+        
+            
+
+    </script>
+</body>
+</html>

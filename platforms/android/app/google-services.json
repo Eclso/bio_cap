@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "378099635200",
+    "firebase_url": "https://biotik-ifp.firebaseio.com",
+    "project_id": "biotik-ifp",
+    "storage_bucket": "biotik-ifp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378099635200:android:f255f1c709c519ca",
+        "android_client_info": {
+          "package_name": "com.ifp.biotik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378099635200-f3funhgjg1ajonlnm0laf37b2g0h4hlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujPDb3ObPpUt4TBJvBT0DzCuUNZplhek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

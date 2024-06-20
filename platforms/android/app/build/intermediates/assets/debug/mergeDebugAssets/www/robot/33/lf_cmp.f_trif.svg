@@ -1,0 +1,24 @@
+ <g id="Lf_Cmp.F_Trif">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="LfCmp" onclick="showquest('LfCmp')" onmousemove="showrobotip('LfCmp','Type of compound leaf')" onmouseout="hidetooltip('LfCmp')"  cursor="pointer" >
+   <rect id="type_x0020_feuille_x0020_comp" fill="white" stroke="#1F1A17" stroke-width="0.0762" x="191" y="124" width="21" height="33"/>
+   <g id="f_x0020_trifoliolée">
+    <g id="folioles">
+     <g id="foliole_x0020_droite">
+      <path id="limbe" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M211.36 136.201l0.0323 0.0226c-1.1044,3.1073 -3.6467,7.9256 -8.3288,5.6294 -0.5839,-5.2583 5.3247,-5.6575 8.2965,-5.652z"/>
+      <polygon id="nervure" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="211.11,136.4 201.477,142.934 "/>
+     </g>
+     <g id="foliole_x0020_gauche">
+      <path id="limbe_0" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M191.608 136.119l0.0096 -0.0383c3.2968,-0.0775 8.7052,0.5774 8.2315,5.7706 -4.7033,2.4225 -7.1854,-2.9543 -8.2411,-5.7323z"/>
+      <polygon id="nervure_1" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="191.883,136.281 201.417,142.942 "/>
+     </g>
+     <g id="foliole_x0020_centrale">
+      <path id="limbe_2" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M201.377 130.414l0.0368 -0.0142c1.97,2.6446 4.5638,7.4354 0.0533,10.0526 -4.6964,-2.4358 -1.7457,-7.5704 -0.0901,-10.0384z"/>
+      <polygon id="nervure_3" fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" points="201.404,130.732 201.47,142.236 "/>
+     </g>
+    </g>
+    <path id="petiolule" onclick="showquest('petiolule')" onmousemove="showrobotip('petiolule','Long or short Petiolule ?')" onmouseout="hidetooltip('petiolule')"  cursor="pointer"  fill="none" stroke="black" stroke-width="0.0762" stroke-linejoin="bevel" d="M201.462 140.618c0.0377,2.9641 0.0671,5.7339 0.1048,8.6981 -0.1311,0.0954 -0.1741,0.051 -0.2226,-0.0444l0.1178 -8.6537z"/>
+    <path id="pétiole" fill="#78B43C" stroke="black" stroke-width="0.0762" d="M201.169 149.362c0.0602,0.058 0.4544,0.1068 0.5654,0.0978l-0.1458 -1.3983c0,-2.4275 0,-2.4825 0,-4.9101 -0.0829,-0.0553 -0.1717,-0.0657 -0.2661,-0.01 0,4.9736 0,-0.0534 0,4.9202 0,0.4543 -0.0614,0.866 -0.1535,1.3004z"/>
+   </g>
+  </g>
+ </g>

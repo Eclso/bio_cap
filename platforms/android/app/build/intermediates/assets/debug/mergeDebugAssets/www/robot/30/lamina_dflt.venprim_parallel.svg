@@ -1,0 +1,25 @@
+ <g id="Lamina_Dflt.VenPrim_Parallel">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="VenPrim" onclick="showquest('VenPrim')" onmousemove="showrobotip('VenPrim','Primary venation')" onmouseout="hidetooltip('VenPrim')"  cursor="pointer" >
+   <g id="lamina_theo.prim_parallel.cdr">
+    <path id="nervure_x0020_theo_x0020_lin" fill="black" stroke="black" stroke-width="0.0762" d="M205.165 29.2324c0.1624,-0.1545 0.3157,-0.1147 0.3867,0.0205l0 66.472 -0.3867 -0.0063c0,-52.6116 0,-46.1194 0,-66.4862z"/>
+    <g id="parallel">
+     <g id="nerv_x0020_gauche">
+      <path id="_335800112" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.087 26.721c-2.426,26.1572 -6.9861,44.3979 0.119,67.3833"/>
+      <path id="_334883360" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M204.975 26.9184c-5.7337,22.5396 -10.2939,48.7609 0.2263,67.3778"/>
+      <path id="_334882360" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.102 26.6321c-11.5616,28.5263 -12.7017,47.9071 0.1118,67.8221"/>
+      <path id="_335661608" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.087 26.721c-0.1459,14.7566 -3.5659,44.3979 0.1189,67.3833"/>
+      <path id="_335661136" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.219 25.3503c-17.3789,29.8082 -16.2389,51.4691 -0.0541,69.8213"/>
+     </g>
+     <g id="nerv_x0020_droite">
+      <path id="_335652936" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.488 26.9178c2.5583,26.1447 7.2107,44.362 0.2219,67.383"/>
+      <path id="_335038736" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.601 27.1146c5.8478,22.5104 10.5406,48.7082 0.1147,67.3781"/>
+      <path id="_76915256" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.472 26.829c11.7059,28.4674 12.9441,47.8423 0.2315,67.8218"/>
+      <path id="_76915176" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.488 26.9179c0.2206,14.7556 3.7906,44.3793 0.2222,67.3829"/>
+      <path id="_76914872" fill="none" stroke="#7F7F7F" stroke-width="0.0762" d="M205.348 25.5478c17.5296,29.7199 16.4992,51.3862 0.4075,69.8201"/>
+     </g>
+    </g>
+   </g>
+   <polygon id="VenPrim_0" fill="white" fill-opacity="0.011765" points="203.694,29.303 206.899,29.303 206.899,95.4665 203.694,95.4665 "/>
+  </g>
+ </g>

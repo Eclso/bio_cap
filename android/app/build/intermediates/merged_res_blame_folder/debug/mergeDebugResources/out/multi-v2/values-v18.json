@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ifp.biotik.app-mergeDebugResources-32:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\alanw\\.gradle\\caches\\transforms-3\\0c2322a34b671d406650f49efb8aece0\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

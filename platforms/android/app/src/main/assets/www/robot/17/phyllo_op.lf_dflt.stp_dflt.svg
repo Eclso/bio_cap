@@ -1,0 +1,7 @@
+ <g id="Phyllo_Op.Lf_Dflt.Stp_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <polygon id="Stp" onclick="showquest('Stp')" onmousemove="showrobotip('Stp','Stipules')" onmouseout="hidetooltip('Stp')"  cursor="pointer"  fill="white" fill-opacity="0.301961" points="116,128.84 116,120.84 132,120.84 132,128.84 "/>
+   <polygon id="Stp1" fill="none" stroke="#7F7F7F" stroke-width="0.0762" points="116,128.84 116,120.84 132,120.84 132,128.84 "/>
+  </g>
+ </g>

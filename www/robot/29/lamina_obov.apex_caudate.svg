@@ -1,0 +1,12 @@
+ <g id="Lamina_Obov.Apex_Caudate">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect id="A_Hide" fill="white" stroke="white" stroke-width="0.0762" x="189.945" y="22.1151" width="31.2687" height="13.0374"/>
+  <g id="Lamina" onclick="showquest('Lamina')" onmousemove="showrobotip('Lamina','Lamina')" onmouseout="hidetooltip('Lamina')"  cursor="pointer" >
+   <path id="limbe" fill="#32984B" stroke="black" stroke-width="0.0762" d="M205.252 13.9288c2.2232,12.1372 10.8253,12.6572 13.6056,16.7634 0.9268,1.3687 1.6677,2.9251 2.2232,4.6411 -4.4014,-0.1591 -25.9505,-0.0308 -30.8758,-0.021 0.8877,-2.6715 2.1698,-4.9542 3.8874,-6.7444 2.6794,-2.7925 9.2978,-2.468 11.1596,-14.6391z"/>
+   <polygon id="cache" fill="#32984B" stroke="#32984B" stroke-width="0.0762" points="190.322,35.2348 220.949,35.2348 221.019,35.44 190.256,35.44 "/>
+  </g>
+  <g>
+   <polygon id="Apex" onclick="showquest('Apex')" onmousemove="showrobotip('Apex','Apex of the lamina')" onmouseout="hidetooltip('Apex')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+   <polygon id="Apex1" fill="none" stroke="black" stroke-width="0.0762" points="198.827,22.5045 212.034,22.5045 212.034,30.1915 198.827,30.1915 "/>
+  </g>
+ </g>

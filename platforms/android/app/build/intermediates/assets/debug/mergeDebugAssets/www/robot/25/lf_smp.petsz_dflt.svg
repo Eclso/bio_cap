@@ -1,0 +1,4 @@
+ <g id="Lf_Smp.PetSz_Dflt">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path id="PetSize" onclick="showquest('PetSize')" onmousemove="showrobotip('PetSize','Length of the petiole')" onmouseout="hidetooltip('PetSize')"  cursor="pointer"  fill="#CCCCCC" stroke="#B2B2B2" stroke-width="0.0762" d="M204.003 95.4656c-0.1517,4.4062 -0.0388,10.0296 -0.0453,12.2312 -0.0064,2.1626 2.4752,3.9553 4.2558,3.8923 -0.1012,-1.96 -1.2535,-13.0948 -1.5443,-16.1723 -0.5863,-0.2001 -1.0304,-0.304 -1.5697,-0.4932 -0.3406,0.1333 -0.6292,0.3664 -1.0965,0.542z"/>
+ </g>

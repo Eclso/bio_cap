@@ -1,0 +1,7 @@
+ <g id="Habit_Dflt.BarkAsp_Cylind">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <polygon id="BarkAsp" onclick="showquest('BarkAsp')" onmousemove="showrobotip('BarkAsp','Base of the trunk')" onmouseout="hidetooltip('BarkAsp')"  cursor="pointer"  fill="white" fill-opacity="0.149020" points="12.3402,173.83 12.3402,160.171 39.6593,160.171 39.6593,173.83 "/>
+   <polygon id="BarkAsp1" fill="none" stroke="black" stroke-width="0.0762" points="12.3402,173.83 12.3402,160.171 39.6593,160.171 39.6593,173.83 "/>
+  </g>
+ </g>
